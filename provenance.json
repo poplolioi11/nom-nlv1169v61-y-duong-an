@@ -1,0 +1,585 @@
+{
+  "historical_author": "黎有卓（Lê Hữu Trác，亦作黎有晫）",
+  "source_identity": "越南國家圖書館 R.1169，Vietnamese Nôm Preservation Foundation NLVNPF-0246-47",
+  "source": "https://lib.nomfoundation.org/collection/1/volume/392/",
+  "source_image_viewer": "https://lib.nomfoundation.org/collection/1/volume/392/page/1",
+  "source_rights_policy": "https://www.nomfoundation.org/About-the-Foundation/Terms-of-use?uiLang=en",
+  "dataset_version": "0.1.0",
+  "scan_count": 52,
+  "content_scan_count": 52,
+  "review_status": "initial-transcription",
+  "source_image_inventory": [
+    {
+      "image": 1,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/page/1",
+      "label": {
+        "none": [
+          "1"
+        ]
+      },
+      "sha256": "1886db94357de19c50da7b0ba8b9d71d54b4cea6efd5441d619f96c3ad23399e",
+      "content_role": "opening-preface-and-case-list"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/page/2",
+      "label": {
+        "none": [
+          "2"
+        ]
+      },
+      "sha256": "6b7b2d58bdb158c4d7d7559dd01793e7a8bf19685efa0427a64a0d58b87fe2c8",
+      "content_role": "opening-preface-and-case-list"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/page/3",
+      "label": {
+        "none": [
+          "3"
+        ]
+      },
+      "sha256": "bf66f294b34fc207d3a8d3ec83b26a9dd0eb20bb735f39a4dffa22683ab2a4d0",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/",
+      "label": {
+        "none": [
+          "4"
+        ]
+      },
+      "sha256": "e75163b787224737f0b59045db12b6d0e07a145f327e12cd58deebaa3325d8b8",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/page/5",
+      "label": {
+        "none": [
+          "5"
+        ]
+      },
+      "sha256": "6ecb4b988f74afc9f1c7102272532bf4f7717b44d3432e5b171d03a8bacb5a09",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/page/6",
+      "label": {
+        "none": [
+          "6"
+        ]
+      },
+      "sha256": "4dd1c66600080cfbcfa086071465cb29cc0d14ad6e8cfe864d920b185e367886",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/page/7",
+      "label": {
+        "none": [
+          "7"
+        ]
+      },
+      "sha256": "72403ef183b64cdcc858a8d4b15f35b2bbd5caf4b5bb2dba220b31f694b60d8b",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/",
+      "label": {
+        "none": [
+          "8"
+        ]
+      },
+      "sha256": "6968433f6d405ba48067870c2551b5176e305a445f9ea9c7ee4bfbb4d23a9ec4",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/",
+      "label": {
+        "none": [
+          "9"
+        ]
+      },
+      "sha256": "4e7d32354c6981be9d78360060e0dae51f4ae730278fc70dd2bca7a7306e1e01",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 10,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/page/10",
+      "label": {
+        "none": [
+          "10"
+        ]
+      },
+      "sha256": "e8d7174d6d36b37be9f156c59bb5dc04c888a199a54656db8439a5bd9941e3d4",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 11,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/",
+      "label": {
+        "none": [
+          "11"
+        ]
+      },
+      "sha256": "25b601600aa6d39c03629b448eb1d7021372d338a7e6c7068b0b481a6e55a8c7",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 12,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/",
+      "label": {
+        "none": [
+          "12"
+        ]
+      },
+      "sha256": "8e02a2e8e30f4ae50cfebbe9636a25ef22a8f6afbc64926a236cdf9e5a452c07",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 13,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/page/13",
+      "label": {
+        "none": [
+          "13"
+        ]
+      },
+      "sha256": "44bc2cba131a755c20c910ea51f78ee0132bbc2c3227414883a0c5803c990f3c",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 14,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/page/14",
+      "label": {
+        "none": [
+          "14"
+        ]
+      },
+      "sha256": "5565380bb21a1cc39cc839c1a538ecb19ee79468536322f080aa98a2f9e95eae",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 15,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/page/15",
+      "label": {
+        "none": [
+          "15"
+        ]
+      },
+      "sha256": "a346f0395d5a85a7ba22a49d06d2f563af1558f4794fb2a1d712364c88e47699",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 16,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/page/16",
+      "label": {
+        "none": [
+          "16"
+        ]
+      },
+      "sha256": "6b0d6918870a0dafd0a8ad1c34327b5ed9d4297812fcf496aaa2233909685fa2",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 17,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/",
+      "label": {
+        "none": [
+          "17"
+        ]
+      },
+      "sha256": "863584146701c577309101ab2e43c588106a3942abffccba9fbfa1be491c8e1c",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 18,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/page/18",
+      "label": {
+        "none": [
+          "18"
+        ]
+      },
+      "sha256": "65e06f021e04f4e78a69d3bb6cc9f6eacae2f2ccc3b90b59fd2c17c85a67a756",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 19,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/page/19",
+      "label": {
+        "none": [
+          "19"
+        ]
+      },
+      "sha256": "b38e252fc06a82823e571c336121765ab9e3e30d81e1e6a6a496a5ac519492f7",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 20,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/page/20",
+      "label": {
+        "none": [
+          "20"
+        ]
+      },
+      "sha256": "571ebd51d62ce6d587d64feb5882a39183012c0f5269d729f7d55e2010a1e9b6",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 21,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/page/21",
+      "label": {
+        "none": [
+          "21"
+        ]
+      },
+      "sha256": "eb73df7039d553f04a366c774afb76baddabbe607ff05bc66a811f281c5a3a47",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 22,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/",
+      "label": {
+        "none": [
+          "22"
+        ]
+      },
+      "sha256": "25126daa6bf670b9a7e400b164e0ff891b90b0216551afbbdb9cc71679265f30",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 23,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/page/23",
+      "label": {
+        "none": [
+          "23"
+        ]
+      },
+      "sha256": "9bb35c7ec8b7740748c15a4efee662ff6be57d964c1c99381e53beea1282a36b",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 24,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/page/24",
+      "label": {
+        "none": [
+          "24"
+        ]
+      },
+      "sha256": "cc2ea18f9e52200cbe52c495742c8de6e143bb420ba1d7111806ee9000659ef6",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 25,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/page/25",
+      "label": {
+        "none": [
+          "25"
+        ]
+      },
+      "sha256": "0ab3fca2b25e059d656ad575f346d9111edaf2d66690782e28d7df0f3dbf3061",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 26,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/page/26",
+      "label": {
+        "none": [
+          "26"
+        ]
+      },
+      "sha256": "cd1cf63a83304649b2fcd33f3624bc69855eb6b1c5f575672e407bdd83217611",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 27,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/page/27",
+      "label": {
+        "none": [
+          "27"
+        ]
+      },
+      "sha256": "11c7779bd1333fb273315db3b08a574b14095f883c80d3db31a39dcee3a58f40",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 28,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/",
+      "label": {
+        "none": [
+          "28"
+        ]
+      },
+      "sha256": "dc885c89e7c1187566eca2ea1f263bb987bb7bf6f95374f0c68cc0fdd43d1650",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 29,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/page/29",
+      "label": {
+        "none": [
+          "29"
+        ]
+      },
+      "sha256": "da1b11667494069497287be2448b982b65d015bbd680dce5f9e0847167ff037a",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 30,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/page/30",
+      "label": {
+        "none": [
+          "30"
+        ]
+      },
+      "sha256": "ae487ea1c99d4a548dd16f719031ead4070a78678584b09b4f911e3e58b6c450",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 31,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/page/31",
+      "label": {
+        "none": [
+          "31"
+        ]
+      },
+      "sha256": "835d4d3bfaf19a8b8be7dd53dacaf4bdb5d38689ca08687d57c7ec570940dc60",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 32,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/",
+      "label": {
+        "none": [
+          "32"
+        ]
+      },
+      "sha256": "7df89234a3aed9b1940f871299fd53e699e1362e5074c20c5f92503c5cec653c",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 33,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/",
+      "label": {
+        "none": [
+          "33"
+        ]
+      },
+      "sha256": "378c647118ace62c8c3145092548e042ff6fb61f671c0ad1b4c4bed62801af22",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 34,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/",
+      "label": {
+        "none": [
+          "34"
+        ]
+      },
+      "sha256": "3928eaac9c19581658deacf0075a70dc10c4b76166336d1cc05772c20391e5fd",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 35,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/",
+      "label": {
+        "none": [
+          "35"
+        ]
+      },
+      "sha256": "d3a9343930b73b5b3d36eed8d079bf4d0f06bafed65d9fa33f91a2fc660db583",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 36,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/page/36",
+      "label": {
+        "none": [
+          "36"
+        ]
+      },
+      "sha256": "6a94ada414063eafbc9598db8434afc1903f0604702a7047ec4e976561eea0dd",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 37,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/page/37",
+      "label": {
+        "none": [
+          "37"
+        ]
+      },
+      "sha256": "94564fa82c4c7bee8e42fcfe33e84983089fe79eee37abfb12f6cf691eb2905f",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 38,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/page/38",
+      "label": {
+        "none": [
+          "38"
+        ]
+      },
+      "sha256": "c04419b3f5b24a81860d91d7dc4443ff1c1825ab18b3c79fbec8927725617fbc",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 39,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/",
+      "label": {
+        "none": [
+          "39"
+        ]
+      },
+      "sha256": "ba7febb5146c0e6e70d77e581d10785e32a08075f22852b99f4d83edeec54833",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 40,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/page/40",
+      "label": {
+        "none": [
+          "40"
+        ]
+      },
+      "sha256": "4a43480b096fbb1b6d3f4788cf7ace5ac79e7bf2c9cedf15b773cba5f4b07d9d",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 41,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/page/41",
+      "label": {
+        "none": [
+          "41"
+        ]
+      },
+      "sha256": "b1d798089472daee0bcdfb0166ba06e8c57695fcea5522b38e001ddc9ed10843",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 42,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/page/42",
+      "label": {
+        "none": [
+          "42"
+        ]
+      },
+      "sha256": "dc147d613c6765be6b2515c5dc20e2b293b52ff418b01bb54ab605447edf397c",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 43,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/page/43",
+      "label": {
+        "none": [
+          "43"
+        ]
+      },
+      "sha256": "681b96993c53c547ae0e61d92a9cfc41cdf539ad3a7a3935bca3e14f71e8d850",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 44,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/page/44",
+      "label": {
+        "none": [
+          "44"
+        ]
+      },
+      "sha256": "84971ad979e0f0b815d2bdf286c1914d8ea4fa115a464659ba520277d7fc3c1d",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 45,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/page/45",
+      "label": {
+        "none": [
+          "45"
+        ]
+      },
+      "sha256": "b21fa13aa06dc956064b0d587ecfb1976412bca4ee176810244ba05aa242d304",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 46,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/",
+      "label": {
+        "none": [
+          "46"
+        ]
+      },
+      "sha256": "facef8cf990402b655e07cb676184c8d09eb1ce4176df5244315a9428298bad4",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 47,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/page/47",
+      "label": {
+        "none": [
+          "47"
+        ]
+      },
+      "sha256": "08a57b06f82ecf158cd57cd88631d32cf9d30ce46554d4b8139aebde49fd74f5",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 48,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/page/48",
+      "label": {
+        "none": [
+          "48"
+        ]
+      },
+      "sha256": "13c818420060fc1de5c730c93a950b73403b9d5aa8a6dcee52b03f51aae742f8",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 49,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/",
+      "label": {
+        "none": [
+          "49"
+        ]
+      },
+      "sha256": "08dab6a6ac188169df7af969b323cb8f3f93115344e906fff3db172c71a7fd27",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 50,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/",
+      "label": {
+        "none": [
+          "50"
+        ]
+      },
+      "sha256": "c7b788a2b622832ff01c508e4d2cc1bb8b67b1d8a333564a84e92326648f6d91",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 51,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/page/51",
+      "label": {
+        "none": [
+          "51"
+        ]
+      },
+      "sha256": "2a15c0ffe3cb95286a892c593976e243f10b47f731323399ee0e0d99218a96df",
+      "content_role": "case-accounts"
+    },
+    {
+      "image": 52,
+      "canvas_id": "https://lib.nomfoundation.org/collection/1/volume/392/",
+      "label": {
+        "none": [
+          "52"
+        ]
+      },
+      "sha256": "a19b9c7c01b2685c236bf6f132966a0fdf95e724262fc47f4ef18767844d69d6",
+      "content_role": "volume-ending"
+    }
+  ]
+}

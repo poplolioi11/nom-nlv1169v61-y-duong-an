@@ -1,0 +1,3954 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="lzh">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>海上醫宗心領卷六十一・醫陽案</title>
+        <title type="alternate">Hải Thượng y tông tâm lĩnh, quyển 61: Y dương án</title>
+        <author>黎有卓（Lê Hữu Trác，亦作黎有晫）</author>
+        <respStmt>
+          <resp>整理與編碼</resp>
+          <name>曲宸宇 (Chu, Chen-Yu)</name>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition>Transcription dataset v0.1.0</edition>
+      </editionStmt>
+      <publicationStmt>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>北寧，越南</settlement>
+            <repository>越南國家圖書館</repository>
+            <collection>漢喃特藏</collection>
+            <idno>R.1169</idno>
+            <altIdentifier>
+              <idno>NLV1169V61</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>
+              <p>黎有卓的漢文驗案。印本內題卷之六十一，卷末刻醫陽案卷終。館目另標 q.59–60，原件有後加筆書五十九。轉錄此一內題全卷並標出局部省錄。</p>
+              <ref target="https://lib.nomfoundation.org/collection/1/volume/392/">館方書目</ref>
+              <ref target="https://lib.nomfoundation.org/collection/1/volume/392/">館方影像清單</ref>
+            </summary>
+          </msContents>
+          <history>
+            <origin>
+              <p>咸宜元年（1885）刊，據館目。</p>
+            </origin>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>書面與欄按影像實際順序。文字、細注及可定位原筆標記分層，疑字及未錄位置由材料指出。</p>
+      </editorialDecl>
+    </encodingDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1" corresp="https://lib.nomfoundation.org/collection/1/volume/392/page/1" xml:id="f01">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0246-47/large/nlvnpf-0246-47-001.jpg" />
+    </surface>
+    <surface n="2" corresp="https://lib.nomfoundation.org/collection/1/volume/392/page/2" xml:id="f02">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0246-47/large/nlvnpf-0246-47-002.jpg" />
+    </surface>
+    <surface n="3" corresp="https://lib.nomfoundation.org/collection/1/volume/392/page/3" xml:id="f03">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0246-47/large/nlvnpf-0246-47-003.jpg" />
+    </surface>
+    <surface n="4" corresp="https://lib.nomfoundation.org/collection/1/volume/392/" xml:id="f04">
+      <graphic url="https://lib.nomfoundation.org/collection/1/volume/392/" />
+    </surface>
+    <surface n="5" corresp="https://lib.nomfoundation.org/collection/1/volume/392/page/5" xml:id="f05">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0246-47/large/nlvnpf-0246-47-005.jpg" />
+    </surface>
+    <surface n="6" corresp="https://lib.nomfoundation.org/collection/1/volume/392/page/6" xml:id="f06">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0246-47/large/nlvnpf-0246-47-006.jpg" />
+    </surface>
+    <surface n="7" corresp="https://lib.nomfoundation.org/collection/1/volume/392/page/7" xml:id="f07">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0246-47/large/nlvnpf-0246-47-007.jpg" />
+    </surface>
+    <surface n="8" corresp="https://lib.nomfoundation.org/collection/1/volume/392/" xml:id="f08">
+      <graphic url="https://lib.nomfoundation.org/collection/1/volume/392/" />
+    </surface>
+    <surface n="9" corresp="https://lib.nomfoundation.org/collection/1/volume/392/" xml:id="f09">
+      <graphic url="https://lib.nomfoundation.org/collection/1/volume/392/" />
+    </surface>
+    <surface n="10" corresp="https://lib.nomfoundation.org/collection/1/volume/392/page/10" xml:id="f10">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0246-47/large/nlvnpf-0246-47-010.jpg" />
+    </surface>
+    <surface n="11" corresp="https://lib.nomfoundation.org/collection/1/volume/392/" xml:id="f11">
+      <graphic url="https://lib.nomfoundation.org/collection/1/volume/392/" />
+    </surface>
+    <surface n="12" corresp="https://lib.nomfoundation.org/collection/1/volume/392/" xml:id="f12">
+      <graphic url="https://lib.nomfoundation.org/collection/1/volume/392/" />
+    </surface>
+    <surface n="13" corresp="https://lib.nomfoundation.org/collection/1/volume/392/page/13" xml:id="f13">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0246-47/large/nlvnpf-0246-47-013.jpg" />
+    </surface>
+    <surface n="14" corresp="https://lib.nomfoundation.org/collection/1/volume/392/page/14" xml:id="f14">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0246-47/large/nlvnpf-0246-47-014.jpg" />
+    </surface>
+    <surface n="15" corresp="https://lib.nomfoundation.org/collection/1/volume/392/page/15" xml:id="f15">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0246-47/large/nlvnpf-0246-47-015.jpg" />
+    </surface>
+    <surface n="16" corresp="https://lib.nomfoundation.org/collection/1/volume/392/page/16" xml:id="f16">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0246-47/large/nlvnpf-0246-47-016.jpg" />
+    </surface>
+    <surface n="17" corresp="https://lib.nomfoundation.org/collection/1/volume/392/" xml:id="f17">
+      <graphic url="https://lib.nomfoundation.org/collection/1/volume/392/" />
+    </surface>
+    <surface n="18" corresp="https://lib.nomfoundation.org/collection/1/volume/392/page/18" xml:id="f18">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0246-47/large/nlvnpf-0246-47-018.jpg" />
+    </surface>
+    <surface n="19" corresp="https://lib.nomfoundation.org/collection/1/volume/392/page/19" xml:id="f19">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0246-47/large/nlvnpf-0246-47-019.jpg" />
+    </surface>
+    <surface n="20" corresp="https://lib.nomfoundation.org/collection/1/volume/392/page/20" xml:id="f20">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0246-47/large/nlvnpf-0246-47-020.jpg" />
+    </surface>
+    <surface n="21" corresp="https://lib.nomfoundation.org/collection/1/volume/392/page/21" xml:id="f21">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0246-47/large/nlvnpf-0246-47-021.jpg" />
+    </surface>
+    <surface n="22" corresp="https://lib.nomfoundation.org/collection/1/volume/392/" xml:id="f22">
+      <graphic url="https://lib.nomfoundation.org/collection/1/volume/392/" />
+    </surface>
+    <surface n="23" corresp="https://lib.nomfoundation.org/collection/1/volume/392/page/23" xml:id="f23">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0246-47/large/nlvnpf-0246-47-023.jpg" />
+    </surface>
+    <surface n="24" corresp="https://lib.nomfoundation.org/collection/1/volume/392/page/24" xml:id="f24">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0246-47/large/nlvnpf-0246-47-024.jpg" />
+    </surface>
+    <surface n="25" corresp="https://lib.nomfoundation.org/collection/1/volume/392/page/25" xml:id="f25">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0246-47/large/nlvnpf-0246-47-025.jpg" />
+    </surface>
+    <surface n="26" corresp="https://lib.nomfoundation.org/collection/1/volume/392/page/26" xml:id="f26">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0246-47/large/nlvnpf-0246-47-026.jpg" />
+    </surface>
+    <surface n="27" corresp="https://lib.nomfoundation.org/collection/1/volume/392/page/27" xml:id="f27">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0246-47/large/nlvnpf-0246-47-027.jpg" />
+    </surface>
+    <surface n="28" corresp="https://lib.nomfoundation.org/collection/1/volume/392/" xml:id="f28">
+      <graphic url="https://lib.nomfoundation.org/collection/1/volume/392/" />
+    </surface>
+    <surface n="29" corresp="https://lib.nomfoundation.org/collection/1/volume/392/page/29" xml:id="f29">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0246-47/large/nlvnpf-0246-47-029.jpg" />
+    </surface>
+    <surface n="30" corresp="https://lib.nomfoundation.org/collection/1/volume/392/page/30" xml:id="f30">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0246-47/large/nlvnpf-0246-47-030.jpg" />
+    </surface>
+    <surface n="31" corresp="https://lib.nomfoundation.org/collection/1/volume/392/page/31" xml:id="f31">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0246-47/large/nlvnpf-0246-47-031.jpg" />
+    </surface>
+    <surface n="32" corresp="https://lib.nomfoundation.org/collection/1/volume/392/" xml:id="f32">
+      <graphic url="https://lib.nomfoundation.org/collection/1/volume/392/" />
+    </surface>
+    <surface n="33" corresp="https://lib.nomfoundation.org/collection/1/volume/392/" xml:id="f33">
+      <graphic url="https://lib.nomfoundation.org/collection/1/volume/392/" />
+    </surface>
+    <surface n="34" corresp="https://lib.nomfoundation.org/collection/1/volume/392/" xml:id="f34">
+      <graphic url="https://lib.nomfoundation.org/collection/1/volume/392/" />
+    </surface>
+    <surface n="35" corresp="https://lib.nomfoundation.org/collection/1/volume/392/" xml:id="f35">
+      <graphic url="https://lib.nomfoundation.org/collection/1/volume/392/" />
+    </surface>
+    <surface n="36" corresp="https://lib.nomfoundation.org/collection/1/volume/392/page/36" xml:id="f36">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0246-47/large/nlvnpf-0246-47-036.jpg" />
+    </surface>
+    <surface n="37" corresp="https://lib.nomfoundation.org/collection/1/volume/392/page/37" xml:id="f37">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0246-47/large/nlvnpf-0246-47-037.jpg" />
+    </surface>
+    <surface n="38" corresp="https://lib.nomfoundation.org/collection/1/volume/392/page/38" xml:id="f38">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0246-47/large/nlvnpf-0246-47-038.jpg" />
+    </surface>
+    <surface n="39" corresp="https://lib.nomfoundation.org/collection/1/volume/392/" xml:id="f39">
+      <graphic url="https://lib.nomfoundation.org/collection/1/volume/392/" />
+    </surface>
+    <surface n="40" corresp="https://lib.nomfoundation.org/collection/1/volume/392/page/40" xml:id="f40">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0246-47/large/nlvnpf-0246-47-040.jpg" />
+    </surface>
+    <surface n="41" corresp="https://lib.nomfoundation.org/collection/1/volume/392/page/41" xml:id="f41">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0246-47/large/nlvnpf-0246-47-041.jpg" />
+    </surface>
+    <surface n="42" corresp="https://lib.nomfoundation.org/collection/1/volume/392/page/42" xml:id="f42">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0246-47/large/nlvnpf-0246-47-042.jpg" />
+    </surface>
+    <surface n="43" corresp="https://lib.nomfoundation.org/collection/1/volume/392/page/43" xml:id="f43">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0246-47/large/nlvnpf-0246-47-043.jpg" />
+    </surface>
+    <surface n="44" corresp="https://lib.nomfoundation.org/collection/1/volume/392/page/44" xml:id="f44">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0246-47/large/nlvnpf-0246-47-044.jpg" />
+    </surface>
+    <surface n="45" corresp="https://lib.nomfoundation.org/collection/1/volume/392/page/45" xml:id="f45">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0246-47/large/nlvnpf-0246-47-045.jpg" />
+    </surface>
+    <surface n="46" corresp="https://lib.nomfoundation.org/collection/1/volume/392/" xml:id="f46">
+      <graphic url="https://lib.nomfoundation.org/collection/1/volume/392/" />
+    </surface>
+    <surface n="47" corresp="https://lib.nomfoundation.org/collection/1/volume/392/page/47" xml:id="f47">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0246-47/large/nlvnpf-0246-47-047.jpg" />
+    </surface>
+    <surface n="48" corresp="https://lib.nomfoundation.org/collection/1/volume/392/page/48" xml:id="f48">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0246-47/large/nlvnpf-0246-47-048.jpg" />
+    </surface>
+    <surface n="49" corresp="https://lib.nomfoundation.org/collection/1/volume/392/" xml:id="f49">
+      <graphic url="https://lib.nomfoundation.org/collection/1/volume/392/" />
+    </surface>
+    <surface n="50" corresp="https://lib.nomfoundation.org/collection/1/volume/392/" xml:id="f50">
+      <graphic url="https://lib.nomfoundation.org/collection/1/volume/392/" />
+    </surface>
+    <surface n="51" corresp="https://lib.nomfoundation.org/collection/1/volume/392/page/51" xml:id="f51">
+      <graphic url="https://lib.nomfoundation.org/site_media/nom/nlvnpf-0246-47/large/nlvnpf-0246-47-051.jpg" />
+    </surface>
+    <surface n="52" corresp="https://lib.nomfoundation.org/collection/1/volume/392/" xml:id="f52">
+      <graphic url="https://lib.nomfoundation.org/collection/1/volume/392/" />
+    </surface>
+  </facsimile>
+  <text>
+    <body>
+      <div type="codex">
+        <pb n="1" facs="#f01" />
+        <div n="1" type="scan" subtype="opening-preface-and-case-list">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f01-r-c01">
+              <seg type="diplomatic-text">新鐫海上醫宗心領陽案全帙卷之六十一</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f01-r-c02">
+              <seg type="diplomatic-text">海上懶翁黎氏纂輯　後學唐郿武春軒奉較</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f01-r-c03">
+              <seg type="diplomatic-text">小引　王太僕曰醫不以治病為難而以治難病為難</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f01-r-c04">
+              <seg type="diplomatic-text">故當司命之責者不問險夷不辭雨夜有遇病之甚難</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f01-r-c05">
+              <seg type="diplomatic-text">者請之而必行至之而必治若見病勢之難而甚拒何</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f01-r-c06">
+              <seg type="diplomatic-text">以醫為余本是儒家少遭兵亂托迹江湖藉香山養母</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f01-r-c07">
+              <seg type="diplomatic-text">不意雲水相磨琴樽成癖功名險路志絕馳驅益親性</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f01-r-c08">
+              <seg type="diplomatic-text">命之學閒中玩讀不愛死工夫乃入醫林滋味甘如醴</seg>
+            </ab>
+            <ab type="page-feature" subtype="seal" corresp="#f01-r-c08">
+              <label>朱印</label>
+              <seg type="diplomatic-text" rend="red">THƯ VIỆN QUỐC GIA</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation" corresp="#f01-r-c08">
+              <label>後書館號</label>
+              <seg type="diplomatic-text" rend="unknown">R.1169</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation" corresp="#f01-r-c08">
+              <label>後書卷次</label>
+              <seg type="diplomatic-text" rend="unknown">五十九</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f01-l-c01">
+              <seg type="diplomatic-text">體以之診治由家以及人閱歷多有所得方能放膽懸</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f01-l-c02">
+              <seg type="diplomatic-text">壺凡一年之中轉呻吟者無慮千數不以為難僅有一</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f01-l-c03">
+              <seg type="diplomatic-text">二勢在不起亦必法外旁求終能挽救因輯驗案費了</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f01-l-c04">
+              <seg type="diplomatic-text">許多筆楮不知純係心力造就者耶抑幸而辰中者耶</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f01-l-c05">
+              <seg type="diplomatic-text">余固不敢以己所意見而漫誇繩墨於人惟留我一片</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f01-l-c06">
+              <seg type="diplomatic-text">苦心於所事者有如此以為習慣驗常一身一家之龜</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f01-l-c07">
+              <seg type="diplomatic-text">卜耳　黎氏別號海上懶翁引</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f01-l-c08">
+              <seg type="diplomatic-text">目次　消渴案　陰虛頭痛案</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f01-l-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　小引　一</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：朱印及藍筆疊於欄上與正題下端。版刻題末六十一可辨，五十九另有後書。 左面：左頁第4欄暫讀辰，請回圖。</ab>
+          </div>
+        </div>
+        <pb n="2" facs="#f02" />
+        <div n="2" type="scan" subtype="opening-preface-and-case-list">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f02-r-c01">
+              <seg type="diplomatic-text">妊娠霍亂案　外感挾內傷案　非風卒倒案</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f02-r-c02">
+              <seg type="diplomatic-text">寡婦鬱病案　陰虛單熱案　血熱毒盛氣虛症險案</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f02-r-c03">
+              <seg type="diplomatic-text">真熱假寒案　感冒胎動案　亡陰遺汗案</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f02-r-c04">
+              <seg type="diplomatic-text">小兒咳嗽案　小兒單熱案　產後假塊案</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f02-r-c05">
+              <seg type="diplomatic-text">脇痛脹悶案　關格案　產難案　目次終</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f02-r-c06">
+              <seg type="diplomatic-text">消渴案　一案丙子冬余來京友陳監生約西湖泛舟夜</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f02-r-c07">
+              <seg type="diplomatic-text">飲賦詩依約携琴而來造監生家反見家中甚有嗆惶</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f02-r-c08">
+              <seg type="diplomatic-text">之意頃之監生回謂余曰天不從人阻吾高興余愕然</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f02-r-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　目次　二</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f02-l-c01">
+              <seg type="diplomatic-text">曰有甚縁故監生曰家下小甥今罹重症勢在垂危家</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f02-l-c02">
+              <seg type="diplomatic-text">醫無功京中諸醫亦皆束手聞公學飽岐黃願啓一臂</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f02-l-c03">
+              <seg type="diplomatic-text">余曰賢甥憂尊伯尊舅二公皆當今王府御院良醫既</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f02-l-c04">
+              <seg type="diplomatic-text">嫌草木無能余山野粗工焉圖寸效不知賢甥所染何</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f02-l-c05">
+              <seg type="diplomatic-text">病監生曰愚甥患傷寒新愈偶食黃牛炙肉數口與糯</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f02-l-c06">
+              <seg type="diplomatic-text">米飯至暮腹脹發熱服補中加消導藥二劑脹減而熱</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f02-l-c07">
+              <seg type="diplomatic-text">愈甚疑外感多再加表藥得微汗而熱退至次日當胸</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f02-l-c08">
+              <seg type="diplomatic-text">一片大約盈斗似塊非塊似脹非脹熱如火烙拒按手</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第1欄末案首字刻形特殊，參第15幅案題與第15至17幅版心暫錄非。第2欄末案血、案為大字，中為雙行小字，按右列先讀。 左面：第3欄憂字、右頁第7欄嗆字待核。</ab>
+            <ab type="transcription-issue" n="left:None">
+              <quote />
+              <note type="editorial">第3欄憂字、右頁第7欄嗆字待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="3" facs="#f03" />
+        <div n="3" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f03-r-c01">
+              <seg type="diplomatic-text">不可近煩渴更甚如此一日夜用消導氣亦不行投清</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f03-r-c02">
+              <seg type="diplomatic-text">火熱亦不退至今飲一叟二以生脈代茶六味補水八</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f03-r-c03">
+              <seg type="diplomatic-text">味引火大劑屢投而熱渴仍然毫無退減神情日加昏</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f03-r-c04">
+              <seg type="diplomatic-text">倦喘逆漸起額汗漸脫伯舅二公與諸醫並已束手待</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f03-r-c05">
+              <seg type="diplomatic-text">斃願公念朋友之情亟來救治余暗忖曰補水救火種</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f03-r-c06">
+              <seg type="diplomatic-text">種求本之治治渴之法已無遺矣二公稱國手名不虛</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f03-r-c07">
+              <seg type="diplomatic-text">傳所可疑者腹中似塊似脹經曰勞倦傷為不足飲食</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f03-r-c08">
+              <seg type="diplomatic-text">傷為有餘此以有形之跡無形之氣分虛實也且黃牛</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f03-r-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　消渴　三</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f03-l-c01">
+              <seg type="diplomatic-text">性温能發熱毒米粘多食壅氣不通病後脾胃必不健</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f03-l-c02">
+              <seg type="diplomatic-text">運為食所傷諸醫以病後畏縮不敢推蕩經曰糓氣不</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f03-l-c03">
+              <seg type="diplomatic-text">行上脘不通胃氣熱氣薰胸中故為內熱又傷寒論</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f03-l-c04">
+              <seg type="diplomatic-text">云急下以救水存液之機甚微如此則似有可生之理</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f03-l-c05">
+              <seg type="diplomatic-text">余曰朋友深情但願分憂敢不罄竭心力只恐弄斧班</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f03-l-c06">
+              <seg type="diplomatic-text">門徒為取笑監生曰不必過嫌乃挽余同至賢甥家按</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f03-l-c07">
+              <seg type="diplomatic-text">治余見病勢十分狼狽然兩尺有神冲陽應手四末温</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f03-l-c08">
+              <seg type="diplomatic-text">和且消渴病寔根於腎何前醫補水補火無功必根本</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第2欄飲下三字暫讀一叟二。</ab>
+          </div>
+        </div>
+        <pb n="4" facs="#f04" />
+        <div n="4" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f04-r-c01">
+              <seg type="diplomatic-text">未至推蕩當從正治賢甥尊伯尊舅索余辯論甥尊伯曰事</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f04-r-c02">
+              <seg type="diplomatic-text">已至此倘或厚蔭絲存亦皆天假賢公之賜何必多嘴</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f04-r-c03">
+              <seg type="diplomatic-text">高求余暗决攻下方可望生若明言之則病已垂絕而</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f04-r-c04">
+              <seg type="diplomatic-text">復攻勢猶投石下井必為羣議所阻余用一計以杜盤</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f04-r-c05">
+              <seg type="diplomatic-text">問乃托言曰某有家傳秘方仍取病家藥材私製調胃</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f04-r-c06">
+              <seg type="diplomatic-text">承氣〔省錄〕少頃腹鳴喘勢漸止余知藥力</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f04-r-c07">
+              <seg type="diplomatic-text">未到故有逆奪之勢乃令〔省錄〕少頃痛瀉</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f04-r-c08">
+              <seg type="diplomatic-text">二度所瀉之物渾是黃牛肉粘米之類果而脹消渴止</seg>
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f04-r-c06" />
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f04-r-c07" />
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f04-r-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　消渴　四</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f04-l-c01">
+              <seg type="diplomatic-text">余思此辰化源竭絕急為補土以存生發之機乃用白</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f04-l-c02">
+              <seg type="diplomatic-text">朮黑姜炙草五味煎熬冲參服服後瀉止昏</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f04-l-c03">
+              <seg type="diplomatic-text">睡半夜不許驚動醒來覺飢求食病家喜欲許軟飯余</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f04-l-c04">
+              <seg type="diplomatic-text">止之曰凡倉廩空虚可漸儲積只許頻食薄粥以日而</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f04-l-c05">
+              <seg type="diplomatic-text">漸為佳仍製前方煎冲參服三劑後精神頓長諸病若</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f04-l-c06">
+              <seg type="diplomatic-text">失余繼以八味丸滅丹去澤加藤味以為釜底加薪更</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f04-l-c07">
+              <seg type="diplomatic-text">入兎絲子以補脾腎之陽依湯頓服二劑而安辰甥舅</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f04-l-c08">
+              <seg type="diplomatic-text">伯俱稱余家傳秘方讚不絕口欲不吝千金購求余曰</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-l-c08">
+              <label>左2欄白朮下小註</label>
+              <seg type="diplomatic-text" rend="unknown">一両</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-l-c08">
+              <label>左2欄黑姜下小註</label>
+              <seg type="diplomatic-text" rend="unknown">二〢</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-l-c08">
+              <label>左2欄炙草下小註</label>
+              <seg type="diplomatic-text" rend="unknown">三〢</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-l-c08">
+              <label>左2欄五味下小註</label>
+              <seg type="diplomatic-text" rend="unknown">五分</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：此面有原文未收錄處，各欄由省錄標記定位。 左面：左頁第1欄辰、第6欄滅、藤、第7欄辰待核。小註的〢只表示印面縮字，單位待核。</ab>
+            <ab type="transcription-issue" n="left:None">
+              <quote />
+              <note type="editorial">左頁第1欄辰、第6欄滅、藤、第7欄辰待核。小註的〢只表示印面縮字，單位待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="5" facs="#f05" />
+        <div n="5" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f05-r-c01">
+              <seg type="diplomatic-text">某因病知醫無師可事甚無異人祖傳之秘且信方遺</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f05-r-c02">
+              <seg type="diplomatic-text">理前哲深懲倘家傳之方果能一一臨症奇秘則昔軒</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f05-r-c03">
+              <seg type="diplomatic-text">岐扁倉神靈之智慈濟之仁豈不及此何不每一病立</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f05-r-c04">
+              <seg type="diplomatic-text">一方蓋方者倣也故我亦做病而立方也隨人活潑豈</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f05-r-c05">
+              <seg type="diplomatic-text">可以不靈不驗之成方而強合千形萬狀之病勢自為</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f05-r-c06">
+              <seg type="diplomatic-text">奇秘哉余乃令取前劑渣與二公檢看不是奇秘方藥</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f05-r-c07">
+              <seg type="diplomatic-text">乃是調胃承氣湯無不驚愕乃詢余取方之意余曰飲</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f05-r-c08">
+              <seg type="diplomatic-text">食傷乃有形之實病今賢甥病後胃陰未復脾陽未健</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f05-r-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　一消渴　五</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f05-l-c01">
+              <seg type="diplomatic-text">黃牛粘米性熱滯故有停食之患熱鬱中州津液蒸涸</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f05-l-c02">
+              <seg type="diplomatic-text">不散于脾不輸于肺故成消渴正傷寒論急下以救水</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f05-l-c03">
+              <seg type="diplomatic-text">存液之機甚微亦此意也又叔和云虛痺成消中者以</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f05-l-c04">
+              <seg type="diplomatic-text">調胃承氣湯治之經云邪氣盛則實急則治標亦猶蕩</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f05-l-c05">
+              <seg type="diplomatic-text">平寇亂然後招撫良民此亦以攻為補之義也蓋盛邪</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f05-l-c06">
+              <seg type="diplomatic-text">不去微正難回故先哲有驅邪復正之明言愚豈敢以</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f05-l-c07">
+              <seg type="diplomatic-text">無憑之見草菅人命而為僥倖之試哉二公各自深服</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f05-l-c08">
+              <seg type="diplomatic-text">遜己褒揚嘆曰藥無貴賤用得其當大寒大熱俱能益</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第2欄懲、第4欄倣及做待核。 左面：第3欄痺、第6欄微、第8欄褒待核。</ab>
+            <ab type="transcription-issue" n="right:None">
+              <quote />
+              <note type="editorial">第2欄懲、第4欄倣及做待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:None">
+              <quote />
+              <note type="editorial">第3欄痺、第6欄微、第8欄褒待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="6" facs="#f06" />
+        <div n="6" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f06-r-c01">
+              <seg type="diplomatic-text">人乃命賢甥備禮出拜曰再生之德沒齒難忘</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f06-r-c02">
+              <seg type="diplomatic-text">陰虛頭痛案　一案余乘閒共友西游梁山投宿山產社</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f06-r-c03">
+              <seg type="diplomatic-text">老醫家辰見鄉宦一少婦親來說症求藥老醫曰我前</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f06-r-c04">
+              <seg type="diplomatic-text">年調治自已極力方法備至未能痊可自此以來想娘</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f06-r-c05">
+              <seg type="diplomatic-text">子遇得高醫貴體康強誰知至今毫無退減那婦曰妾</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f06-r-c06">
+              <seg type="diplomatic-text">自辭老師藥後來京求醫診治已歷七八年來病勢依</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f06-r-c07">
+              <seg type="diplomatic-text">舊不減終無好處想來服老師醫藥辰病雖不減而飯</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f06-r-c08">
+              <seg type="diplomatic-text">食倍勝氣力有加今再請老師一番調治倘或妾命未</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f06-r-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　頭痛　六</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f06-l-c01">
+              <seg type="diplomatic-text">窮得承救活聊結難忘那辰老醫含糊似有却拒之意</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f06-l-c02">
+              <seg type="diplomatic-text">余見那婦身體肥澤盛於外敝於內面色赤紅的是陰</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f06-l-c03">
+              <seg type="diplomatic-text">虛於下陽浮於上老醫辨論雖似有理然不過皮膚之</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f06-l-c04">
+              <seg type="diplomatic-text">見余曰某本儒流粗知醫理因遊山幸投貴宅近挹清</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f06-l-c05">
+              <seg type="diplomatic-text">光不得老師一場談話甚為快觀不知病源如何而靈</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f06-l-c06">
+              <seg type="diplomatic-text">丹未效那少婦見余知醫喜曰誰知天從人願得遇高</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f06-l-c07">
+              <seg type="diplomatic-text">人乃妾家有幸原夫妻十八歲出嫁生一子二十五歲</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f06-l-c08">
+              <seg type="diplomatic-text">夫亡二十六歲染病至今已八年矣其症每陰雨暑濕</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第2欄社前二字暫讀山產。 左面：第5欄快觀、第7欄夫妻待核。</ab>
+            <ab type="transcription-issue" n="left:None">
+              <quote />
+              <note type="editorial">第5欄快觀、第7欄夫妻待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="7" facs="#f07" />
+        <div n="7" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f07-r-c01">
+              <seg type="diplomatic-text">辰則眼昏耳鳴頭痛如破不能坐立惟以冷水浸濕皮</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f07-r-c02">
+              <seg type="diplomatic-text">膚方得稍寬至暮其病又退自來京求醫最後遇一醫</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f07-r-c03">
+              <seg type="diplomatic-text">云是痰濕許服湯劑一二月餘至今更增胸間常常翕</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f07-r-c04">
+              <seg type="diplomatic-text">然熱如火薰發熱則惱懷欲吐不吐口中津液溢出唾</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f07-r-c05">
+              <seg type="diplomatic-text">之不及此辰身體倦怠面熱如火齒根搖動凡遇勞動</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f07-r-c06">
+              <seg type="diplomatic-text">更甚於他辰小便頻數大便燥結五年來經水斷絕因</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f07-r-c07">
+              <seg type="diplomatic-text">求診治余見六脈浮大無倫左尺甚微右尺弦急右寸</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f07-r-c08">
+              <seg type="diplomatic-text">更甚余明知是水衰不能制火少火變為壯火火刑金</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f07-r-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　頭痛　七</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f07-l-c01">
+              <seg type="diplomatic-text">而氣為之鬱氣愈鬱則火愈熾且少婦孀居鬱鬱之情</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f07-l-c02">
+              <seg type="diplomatic-text">不言自知凡耳鳴目昏齒搖皆腎虛之顯症胸間翕熱</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f07-l-c03">
+              <seg type="diplomatic-text">乃火鬱中焦蒸迫胃口故滿口流涎胃虛脾亦虛經曰</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f07-l-c04">
+              <seg type="diplomatic-text">脾虛不能攝涎是也頭痛如破乃真陰水涸不能生血</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f07-l-c05">
+              <seg type="diplomatic-text">惟火獨炎邪于陰分至夜更寧乃陰得陰助此係陰虛</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f07-l-c06">
+              <seg type="diplomatic-text">水衰血枯之極余問老醫曰以余之見種種全是陰虛</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f07-l-c07">
+              <seg type="diplomatic-text">氣鬱不知老師明鑑如何那醫復接笑曰賢公之高見</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f07-l-c08">
+              <seg type="diplomatic-text">與老夫契符老夫從來湯劑惟以四物加知栢倍川芎當</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f07-l-c08">
+              <label>左8欄與下小字</label>
+              <seg type="diplomatic-text" rend="unknown">老夫</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第4欄惱懷暫讀。 左面：左5欄「邪于」保留暫讀。左8欄老夫字體稍小，正文按語序錄，另記位置。</ab>
+          </div>
+        </div>
+        <pb n="8" facs="#f08" />
+        <div n="8" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f08-r-c01">
+              <seg type="diplomatic-text">歸兼風藥一二味如細辛藁本蔓荆子之類丸劑用歸</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f08-r-c02">
+              <seg type="diplomatic-text">脾作丸湯送調治此外無別法也而藥病全不相應或</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f08-r-c03">
+              <seg type="diplomatic-text">者藥力未到余暗忖曰此醫徒知其標不知其本若余</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f08-r-c04">
+              <seg type="diplomatic-text">從救本為治恐王道無近功乃深定一方為刼奪之計</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f08-r-c05">
+              <seg type="diplomatic-text">使十載沉疴收功於一夕方能倒厥乃曰愚誤出大言</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f08-r-c06">
+              <seg type="diplomatic-text">然擊鼓雷門甚為所恥老醫曰濟物恒心乃醫家之好</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f08-r-c07">
+              <seg type="diplomatic-text">憂何必彼此過嫌願施神手公山遥藥材欠備礙多</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f08-r-c08">
+              <seg type="diplomatic-text">少一在老醫箱中公成全一德老夫亦植得一恩亦為</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f08-r-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　頭痛　八</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f08-l-c01">
+              <seg type="diplomatic-text">兼美願急製方余見老醫一片好心亦不疑忌乃取〔省錄〕</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f08-l-c02">
+              <seg type="diplomatic-text">〔省錄〕</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f08-l-c03">
+              <seg type="diplomatic-text">〔省錄〕</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f08-l-c04">
+              <seg type="diplomatic-text">〔省錄〕</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f08-l-c05">
+              <seg type="diplomatic-text">〔省錄〕那</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f08-l-c06">
+              <seg type="diplomatic-text">婦將回依服至數日後見那婦備將家猪粘米酒壺與</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f08-l-c07">
+              <seg type="diplomatic-text">禮錢叁緡來謝曰妾依教而服每服則通身浸汗惟頭</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f08-l-c08">
+              <seg type="diplomatic-text">上汗發如雨服至數次頭上熱蒸如火至後次飲頭涼</seg>
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f08-l-c01" />
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f08-l-c02" />
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f08-l-c03" />
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f08-l-c04" />
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f08-l-c05" />
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第5欄厥、第7欄憂及礙待核。 左面：此面有原文未收錄處，各欄由省錄標記定位。</ab>
+            <ab type="transcription-issue" n="right:None">
+              <quote />
+              <note type="editorial">第5欄厥、第7欄憂及礙待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="9" facs="#f09" />
+        <div n="9" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f09-r-c01">
+              <seg type="diplomatic-text">汗止胸理快然精神稍旺想來八年苦疾一夕不知從</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f09-r-c02">
+              <seg type="diplomatic-text">何處落了不幸晚遇高醫貧因病苦病為貧滋母寡兒</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f09-r-c03">
+              <seg type="diplomatic-text">孤力不從心小些薄物聊備恒心仰賢公再心救援老</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f09-r-c04">
+              <seg type="diplomatic-text">醫初見余製方辰藥味少分両多佐使差殊雖不阻議</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f09-r-c05">
+              <seg type="diplomatic-text">終有半笑之狀至此見藥病相應如神甚為愕愕乃問</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f09-r-c06">
+              <seg type="diplomatic-text">余曰老夫數世為醫書典相傳不乏亦無聞見如此方</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f09-r-c07">
+              <seg type="diplomatic-text">法不知賢公從何奇秘有此方術余曰醫不執方可稱</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f09-r-c08">
+              <seg type="diplomatic-text">醫意且方者不過做病立方如棋之有勢某因見娘子</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f09-r-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　頭痛　九</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f09-l-c01">
+              <seg type="diplomatic-text">真陰虧竭虛火獨炎〔省錄〕</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f09-l-c02">
+              <seg type="diplomatic-text">〔省錄〕</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f09-l-c03">
+              <seg type="diplomatic-text">〔省錄〕經云火即氣</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f09-l-c04">
+              <seg type="diplomatic-text">氣降而火亦降故曰降火在於抑氣之先此做病而立</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f09-l-c05">
+              <seg type="diplomatic-text">方也豈可以古之成方而合今之變症哉老醫嘆曰公</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f09-l-c06">
+              <seg type="diplomatic-text">之玄奧人所莫及余曰此劑乃折其亢而已然非久服</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f09-l-c07">
+              <seg type="diplomatic-text">之需愚倦足辭山已定下湯丸二方望老師精製與伊</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f09-l-c08">
+              <seg type="diplomatic-text">婦調服以全我救人之心其娘子盛禮萬乞老師置留</seg>
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f09-l-c01" />
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f09-l-c02" />
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f09-l-c03" />
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第2欄母寡、第5欄愕愕、第8欄做待核。 左面：此面有原文未收錄處，各欄由省錄標記定位。</ab>
+            <ab type="transcription-issue" n="right:None">
+              <quote />
+              <note type="editorial">第2欄母寡、第5欄愕愕、第8欄做待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="10" facs="#f10" />
+        <div n="10" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f10-r-c01">
+              <seg type="diplomatic-text">以應藥箱之需我來山半担煙霞詩滿囊酒滿壺不為</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f10-r-c02">
+              <seg type="diplomatic-text">欠乏這欵全伏老師餘波一醉足矣何必貪求然老師</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f10-r-c03">
+              <seg type="diplomatic-text">苦拒不取余不得已量分甲乙而歸　其湯　用養榮去</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f10-r-c04">
+              <seg type="diplomatic-text">陳皮倍五味生地換熟地　其丸　用六味加歸芍肉桂五</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f10-r-c05">
+              <seg type="diplomatic-text">味　妊娠霍亂案　一案從事</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f10-r-c06">
+              <seg type="diplomatic-text">永營本營裨員彬素伯妻懷妊八月因食海蟹至暮腹</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f10-r-c07">
+              <seg type="diplomatic-text">痛大作四肢厥冷腹中獨熱如火辰辰張口欲吐不吐</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f10-r-c08">
+              <seg type="diplomatic-text">胎懸搶胸臍下薄然如饑環腰如緊束痛如刀割錐刺</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f10-r-c08">
+              <label>右5欄味下小註</label>
+              <seg type="diplomatic-text" rend="unknown">大抵醫貴通變藥不執方所謂當犯而犯似乎無犯</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f10-r-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　霍亂　十</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f10-l-c01">
+              <seg type="diplomatic-text">坐立倚負於人其夫告急於余及余馳診辰舌已捲唇</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f10-l-c02">
+              <seg type="diplomatic-text">已黑眼不能合口出妄言余按六脈沉微惟喜太谿有</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f10-l-c03">
+              <seg type="diplomatic-text">神冲陽有力余忖曰痛則不通隧道不行陰陽阻塞故</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f10-l-c04">
+              <seg type="diplomatic-text">六脈沉伏四肢厥乃熱深厥亦深張口欲吐不吐乃火</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f10-l-c05">
+              <seg type="diplomatic-text">逼上冲食積鬱脹于中焦故胎元上浮而搶胸環腰束</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f10-l-c06">
+              <seg type="diplomatic-text">痛乃氣滯則腰疼且海蟹性味沉寒攻迫元陽於上必</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f10-l-c07">
+              <seg type="diplomatic-text">上熱而下寒此辰倘以理中或參附經常之用則上熱</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f10-l-c08">
+              <seg type="diplomatic-text">格拒何以能入且有形之食積猶在温補何堪今急宜</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第2欄欵暫讀，第6欄人名待核。</ab>
+            <ab type="transcription-issue" n="right:None">
+              <quote />
+              <note type="editorial">第2欄欵暫讀，第6欄人名待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="11" facs="#f11" />
+        <div n="11" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f11-r-c01">
+              <seg type="diplomatic-text">攻下庶可保全岐伯曰有故無殞正在此也余籌思之</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f11-r-c02">
+              <seg type="diplomatic-text">熟方議下手其夫含涙曰事已急矣勢不兩全願舍其</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f11-r-c03">
+              <seg type="diplomatic-text">內保其外余曰是非理也胎未滿期安能得脫若迫之</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f11-r-c04">
+              <seg type="diplomatic-text">而下則五內殘傷併為兩失余乃製調胃承氣〔省錄〕</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f11-r-c05">
+              <seg type="diplomatic-text">〔省錄〕</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f11-r-c06">
+              <seg type="diplomatic-text">〔省錄〕頃間聞腹</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f11-r-c07">
+              <seg type="diplomatic-text">中爆發一聲湧瀉而下純是黃水與所積物淋漓床席</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f11-r-c08">
+              <seg type="diplomatic-text">余急令摸按胎元果已依歸本位那婦忽大叫曰此辰</seg>
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f11-r-c04" />
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f11-r-c05" />
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f11-r-c06" />
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f11-r-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　霍亂　十一</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f11-l-c01">
+              <seg type="diplomatic-text">方知有生痛已失了腹中已覺快了余乃製附子理中</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f11-l-c02">
+              <seg type="diplomatic-text">湯〔省錄〕</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f11-l-c03">
+              <seg type="diplomatic-text">數日諸症悉平精神更倍其夫拜而謝曰僕家妻子咸</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f11-l-c04">
+              <seg type="diplomatic-text">得再生全頼賢公之賜然余此案乃不得已權宜之用</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f11-l-c05">
+              <seg type="diplomatic-text">以標為本以攻為補然驅邪扶正亦可謂心小而胆大</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f11-l-c06">
+              <seg type="diplomatic-text">也如初辰以因食積而致腹脹胎懸則又以食積為命</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f11-l-c07">
+              <seg type="diplomatic-text">之本以胎元為標攻去其積以保胎元此亦借攻為補</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f11-l-c08">
+              <seg type="diplomatic-text">繼進理中一以去海蟹之寒毒一以温中州於亡陽之</seg>
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f11-l-c02" />
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右第4欄末至第6欄省略有具體製備與給用的高風險處置。 左面：此面有原文未收錄處，各欄由省錄標記定位。</ab>
+          </div>
+        </div>
+        <pb n="12" facs="#f12" />
+        <div n="12" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f12-r-c01">
+              <seg type="diplomatic-text">後且能解大黃之蕩滌次以温脾養胃之品調養胎元</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f12-r-c02">
+              <seg type="diplomatic-text">而獲效姑錄之以見千百中之一二豈是常規</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f12-r-c03">
+              <seg type="diplomatic-text">外感挾內傷案　一案余貴舅永營屯守官太夫人年過</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f12-r-c04">
+              <seg type="diplomatic-text">七旬患感冒月餘因誤食米餅脹滿辰軍中醫藥調護</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f12-r-c05">
+              <seg type="diplomatic-text">為大官最信重者惟北客人林氏其次知醫從事者亦</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f12-r-c06">
+              <seg type="diplomatic-text">數輩更醫調治雖計旬而未獲寸效至是病勢轉劇危</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f12-r-c07">
+              <seg type="diplomatic-text">症蜂起林氏廢寢忘餐不知所向外面已整理後事大</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f12-r-c08">
+              <seg type="diplomatic-text">官始命余診視此亦不過或然之圖余入診視辰見夫</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f12-r-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　外感　十二</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f12-l-c01">
+              <seg type="diplomatic-text">人精神慌亂頭頂如炎火遍額汗珠當胸一片烙如火</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f12-l-c02">
+              <seg type="diplomatic-text">燒煩燥不寧脹滿喘逆俱作兩傍侍坐姬妾亦已啼噓</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f12-l-c03">
+              <seg type="diplomatic-text">泣下余見兩寸浮數無力兩尺沉微欲絕余知孤陽無</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f12-l-c04">
+              <seg type="diplomatic-text">依上假熱而下真寒真陰竭雷火獨炎倘以有形之積滯</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f12-l-c05">
+              <seg type="diplomatic-text">為事則幾微之氣必隨壯火力窮乃止若不急為峻補</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f12-l-c06">
+              <seg type="diplomatic-text">坎宮從其窟宅而招之納氣藏源水中養火使元氣能</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f12-l-c07">
+              <seg type="diplomatic-text">生於何有之鄉則援生不及矣大官促余立方余擬以</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f12-l-c08">
+              <seg type="diplomatic-text">八味丸〔省錄〕</seg>
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f12-l-c08" />
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f12-l-c08">
+              <label>左4欄倘下小字</label>
+              <seg type="diplomatic-text" rend="unknown">以有</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">左面：此面有原文未收錄處，各欄由省錄標記定位。</ab>
+          </div>
+        </div>
+        <pb n="13" facs="#f13" />
+        <div n="13" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f13-r-c01">
+              <seg type="diplomatic-text">林醫一見便搖頭曰萬萬不可原來夫人所禀偏陰不</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f13-r-c02">
+              <seg type="diplomatic-text">嗜熟地若一入口則脹滿隨起余曰先生欲主何方林</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f13-r-c03">
+              <seg type="diplomatic-text">醫曰急則治標宜服中滿分消湯余曰然然之氣所當</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f13-r-c04">
+              <seg type="diplomatic-text">急固猶恐不及何可更為消其氣乎余所立方乃治命</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f13-r-c05">
+              <seg type="diplomatic-text">而不治病林醫又曰不然則服香砂六君湯余曰人參</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f13-r-c06">
+              <seg type="diplomatic-text">與陳皮同用則資泄元氣凡危急之方古人不敢同隊</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f13-r-c07">
+              <seg type="diplomatic-text">且半夏之滑砂仁辛香亦非固本之需辰本官見彼此</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f13-r-c08">
+              <seg type="diplomatic-text">爭議紛紜問林医曰某從來調治侍夫人藥餌自非一</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f13-r-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　外感　十三</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f13-l-c01">
+              <seg type="diplomatic-text">日若熟地入口則痞隨起余曰見是症則立是方乃對</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f13-l-c02">
+              <seg type="diplomatic-text">症之藥大官再問余曰夫人本不嗜熟地之滯我素知</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f13-l-c03">
+              <seg type="diplomatic-text">之如此痞脹而更投之豈不速其禍乎公當採擇別方</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f13-l-c04">
+              <seg type="diplomatic-text">不得已則減半余曰八味丸以熟地為君蓋重在真陰</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f13-l-c05">
+              <seg type="diplomatic-text">補水以配火滋陰以養陽使玄水充而精血旺壮火歸源</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f13-l-c06">
+              <seg type="diplomatic-text">又為少火今病在水衰火炎減熟地則君主弱何以為</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f13-l-c07">
+              <seg type="diplomatic-text">驅駕羣品之用如此雖有八味之名竟無八味之實然</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f13-l-c08">
+              <seg type="diplomatic-text">大官含糊終為林氏所阻且在傍亦以熱病熱藥之大</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f13-l-c08">
+              <label>左5欄以後小字</label>
+              <seg type="diplomatic-text" rend="unknown">養陽</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f13-l-c08">
+              <label>左8欄熱後小字</label>
+              <seg type="diplomatic-text" rend="unknown">藥惡</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右第3欄兩字暫讀然然。右第8欄圖上為醫的簡寫形，暫錄医。 左面：左第8欄末部雙行小字，行次與第二字均待核。</ab>
+            <ab type="transcription-issue" n="left:None">
+              <quote />
+              <note type="editorial">左第8欄末部雙行小字，行次與第二字均待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="14" facs="#f14" />
+        <div n="14" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f14-r-c01">
+              <seg type="diplomatic-text">官不能定見余知勢頭不果乃退去將至轅門見左壁</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f14-r-c02">
+              <seg type="diplomatic-text">官　余謂伊曰夫人之病勢在危篤余為林医</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f14-r-c03">
+              <seg type="diplomatic-text">阻議雖我已再三辯折而大官不能見左且林醫所學</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f14-r-c04">
+              <seg type="diplomatic-text">雖博而不約用於太平則有功用於危急則非撥亂反</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f14-r-c05">
+              <seg type="diplomatic-text">正之才那左壁官謂余曰公當再入我亦力折其非庶</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f14-r-c06">
+              <seg type="diplomatic-text">或有濟余忖曰醫以活人為念目見其非若避嫌疑而</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f14-r-c07">
+              <seg type="diplomatic-text">不苦告必陰受其禍余入本官復問余復以此為對萬</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f14-r-c08">
+              <seg type="diplomatic-text">無改易之辭且聲色俱厲左壁官亦苦勸大官始勉從</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f14-r-c08">
+              <label>右2欄官後小字</label>
+              <seg type="diplomatic-text" rend="unknown">乃大族侄亦知醫術</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f14-r-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　外感　十四</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f14-l-c01">
+              <seg type="diplomatic-text">之余得命乃急製前方親押煎完進服果一劑而汗止</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f14-l-c02">
+              <seg type="diplomatic-text">燥寧浮熱盡退精神清爽思食然喘逆之勢微存余曰</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f14-l-c03">
+              <seg type="diplomatic-text">氣不歸源也乃製生脈代茶而飲數劑後飲食漸進調</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f14-l-c04">
+              <seg type="diplomatic-text">理旬餘諸症悉平氣色可加於前日辰大官甚德之自</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f14-l-c05">
+              <seg type="diplomatic-text">此始見余粗知醫理厥後有事雖用林醫至有所係則</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f14-l-c06">
+              <seg type="diplomatic-text">求索於余此案之治昧者無不以外感之邪內傷之積</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f14-l-c07">
+              <seg type="diplomatic-text">指為有形之實而不察無形之虛經曰人四十以上陰</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f14-l-c08">
+              <seg type="diplomatic-text">氣衰其半況七十老人先天真陰真陽其不虛乎經曰</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第2欄末医同前幅右8欄的略寫形。</ab>
+          </div>
+        </div>
+        <pb n="15" facs="#f15" />
+        <div n="15" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f15-r-c01">
+              <seg type="diplomatic-text">邪之所湊其正必虛不治其虛安問其餘若是邪氣之</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f15-r-c02">
+              <seg type="diplomatic-text">實乃是正氣之虛急為本原之治本原固則邪氣不治</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f15-r-c03">
+              <seg type="diplomatic-text">而自去誠哉真陰真陽為諸病之要領求生之根本也</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f15-r-c04">
+              <seg type="diplomatic-text">非風卒倒案　一案永營中捍竒捍前舩副隊訓武因塗</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f15-r-c05">
+              <seg type="diplomatic-text">泥治屋卒倒四肢疆直身如木熱如火烙手不可近痰</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f15-r-c06">
+              <seg type="diplomatic-text">如拽鋸眼合口噤昏迷不知人所幸二便俱秘口不開</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f15-r-c07">
+              <seg type="diplomatic-text">眼不直如此二日夜醫已四五輩或以星半括痰或以</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f15-r-c08">
+              <seg type="diplomatic-text">腦麝通竅易手亂投然無非以中風為定見以風藥為</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f15-r-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　非風　十五</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f15-l-c01">
+              <seg type="diplomatic-text">對症病則全無退減脫勢復來此辰眼更直視口又開</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f15-l-c02">
+              <seg type="diplomatic-text">二便自遺四肢厥逆身如木石然不能轉側危迫殆甚</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f15-l-c03">
+              <seg type="diplomatic-text">彼家始來請林醫診視　亦曰六脈沉絕</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f15-l-c04">
+              <seg type="diplomatic-text">死症已見萬無可生之理乃別去彼妻子聞得林醫决</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f15-l-c05">
+              <seg type="diplomatic-text">以無生之理號哭告歸伊隊已給行路錢辰余因事過</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f15-l-c06">
+              <seg type="diplomatic-text">此遇林醫問曰先生何往林醫備道診視之故原那訓</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f15-l-c07">
+              <seg type="diplomatic-text">武為人純謹事我最厚我知中病再挽林医同來省問</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f15-l-c08">
+              <seg type="diplomatic-text">余見眼雖直視而睛猶轉動四肢雖厥而身體微温彼</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f15-l-c08">
+              <label>左3欄視後小字</label>
+              <seg type="diplomatic-text" rend="unknown">林醫本調護官軍甚足敬重</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第4欄職銜與隊名有待核字，舩依圖。第7欄括暫讀。 左面：第7欄医見前幅，第8欄動暫讀。</ab>
+            <ab type="transcription-issue" n="right:None">
+              <quote />
+              <note type="editorial">第4欄職銜與隊名有待核字，舩依圖。第7欄括暫讀。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="16" facs="#f16" />
+        <div n="16" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f16-r-c01">
+              <seg type="diplomatic-text">見我來含涙相視余知其昏迷診冲陽太谿則依然有</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f16-r-c02">
+              <seg type="diplomatic-text">力有神余細問始未知為藥之所困非為病之能且中</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f16-r-c03">
+              <seg type="diplomatic-text">風之一症無不由虛之所召其間所感所挾雖有不同</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f16-r-c04">
+              <seg type="diplomatic-text">然其要莫不由於陰陽兩虛五臟本氣自病内奪暴</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f16-r-c05">
+              <seg type="diplomatic-text">厥雖外有風候亦不過假象耳凡内傷者則氣上逆氣</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f16-r-c06">
+              <seg type="diplomatic-text">有餘便火火亢生風風行水動水湧為痰故氣也火也</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f16-r-c07">
+              <seg type="diplomatic-text">痰也其實一源流也終不外肝腎二家蓋肝陰不足本</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f16-r-c08">
+              <seg type="diplomatic-text">於腎水有虧水者血之母血不養筋而僵直水不制火</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f16-r-c08">
+              <label>右4欄病下小字</label>
+              <seg type="diplomatic-text" rend="unknown">而為</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f16-r-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　非風　十六</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f16-l-c01">
+              <seg type="diplomatic-text">而亢炎故東垣主氣言其本也河間丹溪主火主痰言</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f16-l-c02">
+              <seg type="diplomatic-text">其標也善治病者於危急之際當純以補陽為要陽者</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f16-l-c03">
+              <seg type="diplomatic-text">為保生之首重也危勢漸平又當以填補真陰精血為</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f16-l-c04">
+              <seg type="diplomatic-text">去病之根基况風自火出火自陰虧陰血一得風火自</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f16-l-c05">
+              <seg type="diplomatic-text">息奈前醫不能審此峻用風藥則血愈耗投以腦麝則</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f16-l-c06">
+              <seg type="diplomatic-text">氣愈竄故初辰眼合口噤因過燥血涸肝急而口開眼</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f16-l-c07">
+              <seg type="diplomatic-text">搭初辰大便閉身熱因過凉故火鬱而肢厥胃敗而滑</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f16-l-c08">
+              <seg type="diplomatic-text">瀉初辰小便閉因氣實故肺失治節而遺尿雖惡症已</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第4欄病下兩小字右而左為。 左面：左第7欄開頭搭暫讀。</ab>
+          </div>
+        </div>
+        <pb n="17" facs="#f17" />
+        <div n="17" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f17-r-c01">
+              <seg type="diplomatic-text">備然腎乃先天立命之本脾胃乃後天生化之機冲陽</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f17-r-c02">
+              <seg type="diplomatic-text">太谿猶存誠然可望余謂彼妻子曰此病勢雖沉困然</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f17-r-c03">
+              <seg type="diplomatic-text">盡吾之力必可挽回且伊父與我有深情我決不忍去</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f17-r-c04">
+              <seg type="diplomatic-text">彼妻子咸羅拜求救林医在傍笑曰公能活濟此病真</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f17-r-c05">
+              <seg type="diplomatic-text">神人也吾當執燈追隨不敢為醫辰余聞林医過激雖</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f17-r-c06">
+              <seg type="diplomatic-text">活人之心十分而怒人之心又十分矣余亦曰我治此</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f17-r-c07">
+              <seg type="diplomatic-text">病不能全活誓亦不敢為醫言了各散余乃製參附湯</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f17-r-c08">
+              <seg type="diplomatic-text">〔省錄〕四肢更得温熱如故眼</seg>
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f17-r-c08" />
+            </ab>
+            <ab type="page-feature" subtype="seal" corresp="#f17-r-c08">
+              <label>右頁朱印</label>
+              <seg type="diplomatic-text" rend="red">THƯ VIỆN QUỐC GIA</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f17-r-c08">
+              <label>右頁後書館號</label>
+              <seg type="diplomatic-text" rend="unknown">R.1169</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f17-r-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　非風　十七</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f17-l-c01">
+              <seg type="diplomatic-text">已半合舌已伸縮惟臍間熱倍如火余喜曰真陽已回</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f17-l-c02">
+              <seg type="diplomatic-text">可保無慮乃製八味丸〔省錄〕</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f17-l-c03">
+              <seg type="diplomatic-text">〔省錄〕果見眼能開闔口能嚼嚙身能轉側腹知飢</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f17-l-c04">
+              <seg type="diplomatic-text">皮知痛痒二便稍調但四肢未得屈伸言語尚爾含糊</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f17-l-c05">
+              <seg type="diplomatic-text">余乃製八味去附子蓋偏重真陰精血加牛夕杜仲當</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f17-l-c06">
+              <seg type="diplomatic-text">歸白芍鹿茸作丸淡姜湯送下閒以歸脾去木香加桂</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f17-l-c07">
+              <seg type="diplomatic-text">心如此調補一月餘諸　愈出入行步如故而精神氣</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f17-l-c08">
+              <seg type="diplomatic-text">力更勝於前此我有更生之功彼之濡恩含德不足言</seg>
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f17-l-c02" />
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f17-l-c03" />
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f17-l-c08">
+              <label>左7欄諸下小字</label>
+              <seg type="diplomatic-text" rend="unknown">症全</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：此面有原文未收錄處，各欄由省錄標記定位。 左面：此面有原文未收錄處，各欄由省錄標記定位。</ab>
+          </div>
+        </div>
+        <pb n="18" facs="#f18" />
+        <div n="18" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f18-r-c01">
+              <seg type="diplomatic-text">也惟林醫失於過激後每相遇似有不勝羞慚之態余</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f18-r-c02">
+              <seg type="diplomatic-text">亦諱之不提益可知治病必求其本治千人無一損信</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f18-r-c03">
+              <seg type="diplomatic-text">不虚矣昧者一見卒倒便指為風譬猶樹木根本堅固</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f18-r-c04">
+              <seg type="diplomatic-text">雖狂風驟雨不易傾倒而至傾倒者靡不由根本</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f18-r-c05">
+              <seg type="diplomatic-text">寡婦鬱病案一案情艷逈上人夫亡未周終日凝眸</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f18-r-c06">
+              <seg type="diplomatic-text">哀悼之情可掬那婦因冒暑涉泥動作田間初感冒辰</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f18-r-c07">
+              <seg type="diplomatic-text">惟覺洒然毛聳頭眩眼昏而已頃之復甦至暮則勞倦</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f18-r-c08">
+              <seg type="diplomatic-text">神昏穩卧片辰發得一身冷汗復如故至明日午後發</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f18-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　鬱病　十八</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f18-r-c08">
+              <label>右頁第4欄末雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">不牢固也</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f18-r-c08">
+              <label>右頁第5欄「人」後雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">各丁</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f18-l-c01">
+              <seg type="diplomatic-text">一怪病其症眼則連睫口則連嚼如有物然喉則連吞</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f18-l-c02">
+              <seg type="diplomatic-text">如嚥甚硬物而不能下而赤如火痰涎壅逼如水雞聲</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f18-l-c03">
+              <seg type="diplomatic-text">手足振搖如舞蹈狀自汗如雨半辰間復醒如故惟少</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f18-l-c04">
+              <seg type="diplomatic-text">倦耳至暮又發如前症至次日未申辰復發如故但此</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f18-l-c05">
+              <seg type="diplomatic-text">辰兼有乾嘔幸而彼未延醫蓋此居窮山絕境知醫者</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f18-l-c06">
+              <seg type="diplomatic-text">寡冒醫者衆不識者見此振搖鮮不謂中風之症見其</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f18-l-c07">
+              <seg type="diplomatic-text">原冒雨涉泥誰不指為中暑中濕彼来求診於余診其</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f18-l-c08">
+              <seg type="diplomatic-text">脉左尺無力兩關洪數余知其水虧肝木獨強侮侵脾</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第5欄前五字墨框反白為案題。「情艷逈」似地名，「逈」候「迥」。雙行小字「各」候「名」。 左面：第1欄「睫」候「睫／眨」。第2欄「而赤」首字候「面」。</ab>
+          </div>
+        </div>
+        <pb n="19" facs="#f19" />
+        <div n="19" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f19-r-c01">
+              <seg type="diplomatic-text">土故四末振搖乃風火之象連吞連嚼乃脾家病經曰</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f19-r-c02">
+              <seg type="diplomatic-text">脾病為吞眼睫乃肝腎兩虧病與肝病瞤睫又曰腎</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f19-r-c03">
+              <seg type="diplomatic-text">水衰則肝陰燥急而為睫乾嘔者乃虚火上冲面赤者</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f19-r-c04">
+              <seg type="diplomatic-text">乃陰虚於下逼陽於上書名戴陽是也潰汗者乃陰不</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f19-r-c05">
+              <seg type="diplomatic-text">為陽守衛虚而汗且汗乃心之液血之異名腎水虧無</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f19-r-c06">
+              <seg type="diplomatic-text">以制火故相火乘君火迫心之液燥心之血而潰汗痰</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f19-r-c07">
+              <seg type="diplomatic-text">壅者雖云脾為生痰之源肺為貯痰之氣然脾痰則稠</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f19-r-c08">
+              <seg type="diplomatic-text">黄肺痰則清稀此乃腎水虧水不生血水泛為痰氣之</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f19-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　鬱病　十九</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f19-r-c08">
+              <label>右頁第2欄「虧」下雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">經旨曰</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f19-l-c01">
+              <seg type="diplomatic-text">餘便是火火上則痰升凡發熱全在陰分則陰虚可知</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f19-l-c02">
+              <seg type="diplomatic-text">然此皆為見症之外象也至於求本則少婦新寡哀悼</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f19-l-c03">
+              <seg type="diplomatic-text">之至愁鬱之情自可逆觀經曰憂思則傷脾悲哀則傷</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f19-l-c04">
+              <seg type="diplomatic-text">肺且鬱則經絡不通陰陽壅塞當以五内為急顧虚為</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f19-l-c05">
+              <seg type="diplomatic-text">本雖冒暑涉泥則暑濕之邪亦因正氣之虚故得乘其</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f19-l-c06">
+              <seg type="diplomatic-text">間而湊入也余審定停當乃以二陳湯於午前投服令</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f19-l-c07">
+              <seg type="diplomatic-text">探吐其痰得碗餘午後進服六味大劑作湯加麥門五</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f19-l-c08">
+              <seg type="diplomatic-text">味牛膝杜仲頓服至二鼓服完三汁此夜穩然安睡絕</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第2欄「瞤」及其後字待覆。第5欄「守衛」待覆。第7欄「氣」候「器」。 左面：第4欄「壅」右下筆待覆。第8欄「三汁」照圖。</ab>
+          </div>
+        </div>
+        <pb n="20" facs="#f20" />
+        <div n="20" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f20-r-c01">
+              <seg type="diplomatic-text">無少動明日再照前劑接服次日製歸脾加牡丹山梔</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f20-r-c02">
+              <seg type="diplomatic-text">三大劑調補而安諸症如失精神更倍蓋此余前以二</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f20-r-c03">
+              <seg type="diplomatic-text">陳探吐欲以開其鬱經曰火鬱發之木鬱達之且吐有</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f20-r-c04">
+              <seg type="diplomatic-text">發散之意一有所挾之邪亦不能留繼之以六味峻補</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f20-r-c05">
+              <seg type="diplomatic-text">真陰此補水以配火故壯水之主以鎮陽光且肝腎同</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f20-r-c06">
+              <seg type="diplomatic-text">治補腎即補肝也後用歸脾湯數補後天心肝脾之陰</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f20-r-c07">
+              <seg type="diplomatic-text">血加牡丹以清東方之雷火山梔以瀉陽明之鬱火且</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f20-r-c08">
+              <seg type="diplomatic-text">歸脾又為補土之外家使足厥陰生手少陰手少陰生</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f20-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　鬱病　二十</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f20-l-c01">
+              <seg type="diplomatic-text">足陽明也此乃余述前人見痰休治痰見風莫治風之</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f20-l-c02">
+              <seg type="diplomatic-text">句故風濕痰之藥絕無一點入口而風濕痰不知從何</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f20-l-c03">
+              <seg type="diplomatic-text">處去了是可知虚為百病之由治虚為去病之要見幾</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f20-l-c04">
+              <seg type="diplomatic-text">者當以外邪為標正氣為本治千人無一損矣</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f20-l-c05">
+              <seg type="diplomatic-text">陰虚單熱案一案本隣人伊亦遠寓卧病月餘祿禱</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f20-l-c06">
+              <seg type="diplomatic-text">診治備至一日見彼兄来乞犀角自謂那久因言彼</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f20-l-c07">
+              <seg type="diplomatic-text">弟病已月餘只有一熱症未得一醫寸減今一醫調治</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f20-l-c08">
+              <seg type="diplomatic-text">十日来每劑用黄連至二三匁方見熱有少衰之勢然</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c08">
+              <label>左頁第5欄「人」後雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">名圓</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c08">
+              <label>左頁第6欄「那」後雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">居所</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第3欄「欲」候「欲／欵」。第6欄「數」與後字邊緣有印痕。 左面：第5欄前五字墨框反白為案題；「祿禱」候「祈禱」。第8欄重量字形候「匁」。</ab>
+          </div>
+        </div>
+        <pb n="21" facs="#f21" />
+        <div n="21" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f21-r-c01">
+              <seg type="diplomatic-text">日甚勞倦已五六日来饘粥不能入口惟稀糊以自保</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f21-r-c02">
+              <seg type="diplomatic-text">而危之機必不能免余聞得熱字與服黄連病減而倦</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f21-r-c03">
+              <seg type="diplomatic-text">已暗觀了原来彼弟先天真陰虚甚年方五旬而齒落</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f21-r-c04">
+              <seg type="diplomatic-text">其半常日每有所苦則来求藥雖外感有強邪余雖少</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f21-r-c05">
+              <seg type="diplomatic-text">行散逐更尤加意於真陰咸能速愈今彼之熱乃假熱</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f21-r-c06">
+              <seg type="diplomatic-text">耳醫不知從陰以引陽反以寒涼直折則虚虚之禍速</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f21-r-c07">
+              <seg type="diplomatic-text">至經曰陽火利於正治陰火利於從治仲景曰壯火可</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f21-r-c08">
+              <seg type="diplomatic-text">以水折可以濕伏至於龍火逢水益熾逢濕益熾惟從</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f21-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　單熱　二一</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f21-l-c01">
+              <seg type="diplomatic-text">其性招之則安故曰火安其位則萬象泰然蓋甘温能</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f21-l-c02">
+              <seg type="diplomatic-text">除大熱正此謂也余謂彼兄曰伊乃戚屬人見其禍不</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f21-l-c03">
+              <seg type="diplomatic-text">忍不告原彼之素稟我所深知廼因伊他往致為庸醫</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f21-l-c04">
+              <seg type="diplomatic-text">所困若再許犀角譬猶雪上加霜投石下井許汝猶授</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f21-l-c05">
+              <seg type="diplomatic-text">利刃以殺人也余再三不從然彼兄見熱退猶惑是醫</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f21-l-c06">
+              <seg type="diplomatic-text">之可治堅心求之余不得已乃許因告曰服此不過一</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f21-l-c07">
+              <seg type="diplomatic-text">劑必神昏譫妄危症隨起汝切記之非我之不報果於</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f21-l-c08">
+              <seg type="diplomatic-text">次日見彼兄冒雨而来倒拜求救伊曰彼弟服完其劑</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第1欄「饘」候「饘／飲」。第8欄兩個「熾」首字待覆。 左面：第3欄「廼」候「廼／迺」。第4欄「許」照圖。</ab>
+          </div>
+        </div>
+        <pb n="22" facs="#f22" />
+        <div n="22" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f22-r-c01">
+              <seg type="diplomatic-text">自半夜于斯煩燥殆甚言語錯亂昏不知人二便自脫</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f22-r-c02">
+              <seg type="diplomatic-text">命在須臾僕等萬受不聽良言之罪願深恕前愆廣發</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f22-r-c03">
+              <seg type="diplomatic-text">慈心使僕等兄弟仰荷再生之德余曰乃醫濟人之術慈</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f22-r-c04">
+              <seg type="diplomatic-text">愛為心以活人為念不以貴賤而異等不以親疎而異</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f22-r-c05">
+              <seg type="diplomatic-text">心胸裏容容然何恩仇之有余豈以此為介懷乎余乃</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f22-r-c06">
+              <seg type="diplomatic-text">涉泥而来已見彼昏迷譫妄揚手擲足卧不片安唇口</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f22-r-c07">
+              <seg type="diplomatic-text">盡裂舌胎如白錫四末雖不甚熱只胸間一片熱如火</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f22-r-c08">
+              <seg type="diplomatic-text">烙神情驚惕如人將捕辰辰口張似吐非吐出多入少</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f22-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　單熱　二二</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c08">
+              <label>右頁第3欄「乃」後偏右小字</label>
+              <seg type="diplomatic-text" rend="unknown">醫</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f22-l-c01">
+              <seg type="diplomatic-text">氣從臍下逕奔而上似喘非喘身如乾柴全無潤意診</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f22-l-c02">
+              <seg type="diplomatic-text">其脉果見關寸浮洪兩尺微弱上假熱下真寒不待言</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f22-l-c03">
+              <seg type="diplomatic-text">也余乃用布參熟地白术麥門五味牛膝〔省錄〕</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f22-l-c04">
+              <seg type="diplomatic-text">大附龜膠〔省錄〕已見似嘔似喘</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f22-l-c05">
+              <seg type="diplomatic-text">之症全無惟熱與燥半減再劑諸症悉平只存舌胎如</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f22-l-c06">
+              <seg type="diplomatic-text">故余乃用六味丸大劑作湯加麥冬五味牛膝化斑龍</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f22-l-c07">
+              <seg type="diplomatic-text">冲服數劑外塗百花膏薄荷汁舌胎脫然神清思爽</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f22-l-c08">
+              <seg type="diplomatic-text">再製八味丸加牛膝五味杜仲半劑間服補中湯升柴</seg>
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f22-l-c03" />
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f22-l-c04" />
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c08">
+              <label>左頁第7欄「脫」後雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">如蟬</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第5欄「容容然」仍待覆。第7欄「胎」保留原字。第8欄「辰辰」上下同形。 左面：此面有原文未收錄處，各欄由省錄標記定位。</ab>
+          </div>
+        </div>
+        <pb n="23" facs="#f23" />
+        <div n="23" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f23-r-c01">
+              <seg type="diplomatic-text">酒炙月餘兩足與面腫起余曰火之源未益陰之翳未</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f23-r-c02">
+              <seg type="diplomatic-text">消故也只依此調攝二月餘康強如故而神色更佳此</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f23-r-c03">
+              <seg type="diplomatic-text">案余知彼之根本雖虚向是勞役之徒故自中邪之後</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f23-r-c04">
+              <seg type="diplomatic-text">則汗之清之下之滲之朝張暮李不知其幾能吞嚥</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f23-r-c05">
+              <seg type="diplomatic-text">故雖有危症悉具非本病也皆醫許之也故能挽回之</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f23-r-c06">
+              <seg type="diplomatic-text">速若是辰前醫有見真熱症如此舌胎如此而慢將桂</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f23-r-c07">
+              <seg type="diplomatic-text">附仁意肆投無不欲少待以觀其變及見一一應手方</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f23-r-c08">
+              <seg type="diplomatic-text">悔前醫之誤用苦寒　血熱毒盛氣虚痘險案一案漁</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f23-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　痘險　二三</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c08">
+              <label>右頁第4欄「幾」後雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">猶而</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f23-l-c01">
+              <seg type="diplomatic-text">村人女十三歲己卯夏患痘初熱因外感重頭疼身</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f23-l-c02">
+              <seg type="diplomatic-text">痛無汗憎寒壯熱鼻塞聲重咳嗽煩渴昏迷譫妄大便</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f23-l-c03">
+              <seg type="diplomatic-text">燥結小便赤渋彼来求治初辰余亦不以發痘為限防</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f23-l-c04">
+              <seg type="diplomatic-text">見彼黑瘦從血分藥兼表散之雖汗而熱不退再清</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f23-l-c05">
+              <seg type="diplomatic-text">解微利之熱亦不退乃壯水制火雖未多減而神識稍</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f23-l-c06">
+              <seg type="diplomatic-text">清煩渴稍止藥過後復如故此辰熱已六日余甚疑之</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f23-l-c07">
+              <seg type="diplomatic-text">其親来診視果得耳尻中指俱冷其脉沉數且痘脉自</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f23-l-c08">
+              <seg type="diplomatic-text">發熱至起脹宜浮大不宜沉細此為血熱毒盛之至余</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c08">
+              <label>左頁第1欄「人」後雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">名屬</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c08">
+              <label>左頁第4欄「彼」後雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">形体</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第8欄「血熱毒盛氣虚痘險案」墨框反白為案題。第1欄「翳」候「翳／鬱」。第5欄「許」候「誤」。第7欄「仁」候「任」。 左面：第1欄小註左字「屬」待覆。第7欄首「其」印淡，候「乃」。</ab>
+          </div>
+        </div>
+        <pb n="24" facs="#f24" />
+        <div n="24" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f24-r-c01">
+              <seg type="diplomatic-text">以升麻葛根湯加解毒清血如紫草紅花牛旁川芎之</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f24-r-c02">
+              <seg type="diplomatic-text">類以清托之雖見熱而不敢驟用寒凉恐冰伏其毒至</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f24-r-c03">
+              <seg type="diplomatic-text">暮余再来看辰燈照始見痘影隱隱於遍體紅斑此</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f24-r-c04">
+              <seg type="diplomatic-text">辰又兼腹中脹痛失氣甚臭知其内有積糞與毒壅仍</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f24-r-c05">
+              <seg type="diplomatic-text">以前方加酒炒大黄微利之次早来看見額上一片如</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f24-r-c06">
+              <seg type="diplomatic-text">胭脂兩顴地閣等處密如蠶種胸背稍分顆粒四肢密</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f24-r-c07">
+              <seg type="diplomatic-text">似針頭吞嚼則喉中窒碍如有物而微痛身猶大熱如</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f24-r-c08">
+              <seg type="diplomatic-text">火面已預腫余見種種惡症来多倘能以人力挽回亦</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f24-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　險痘　二四</seg>
+            </ab>
+            <ab type="page-feature" subtype="copy-annotation" corresp="#f24-r-c08">
+              <label>右頁第3欄「於」後雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">皮裏</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f24-l-c01">
+              <seg type="diplomatic-text">必旬日艱關且辰方盛夏余力不耐煩又彼兒乃最貧</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f24-l-c02">
+              <seg type="diplomatic-text">漁戸所居小艇蓬穿板裂臭穢之氣濃濃襲人氣不可</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f24-l-c03">
+              <seg type="diplomatic-text">近撞鼻風来悶然欲吐余謂彼曰此女乃是最險痘症</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f24-l-c04">
+              <seg type="diplomatic-text">余不能濟汝當別求名醫終為可保乃別去至暮間見</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f24-l-c05">
+              <seg type="diplomatic-text">彼夫妻携来椰芙與錢五貫羅拜於前曰不幸彼女偶</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f24-l-c06">
+              <seg type="diplomatic-text">罹重症家資貧苦無力求醫萬乞廣垂憐恤活彼生路</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f24-l-c07">
+              <seg type="diplomatic-text">願将此女為奴婢以報終身重德日間質賣漁網辦来</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f24-l-c08">
+              <seg type="diplomatic-text">些小薄禮不敢圖報藥需庶表誠意余曰我非為汝貧</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第1欄「旁」字照圖。第4欄「糞」候「糞／壅」。第8欄「預」候「預／頓」。 左面：第2欄末字按圖似「可」，「襲人」後重字候「氣／勢」。第5欄「椰芙」候「檳芙」，地物名待覆。</ab>
+          </div>
+        </div>
+        <pb n="25" facs="#f25" />
+        <div n="25" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f25-r-c01">
+              <seg type="diplomatic-text">而不救只為力不耐煩汝将来之物宜急取去以為求</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f25-r-c02">
+              <seg type="diplomatic-text">別醫之禮彼見余拒絕極嚴乃曰從来生死全望在公</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f25-r-c03">
+              <seg type="diplomatic-text">手如公不能下顧家無隔宿之儲焉能求救於別醫當</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f25-r-c04">
+              <seg type="diplomatic-text">休了只惟汝前待死而已夫妻各含涙拜別而去辰余</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f25-r-c05">
+              <seg type="diplomatic-text">觸此光景不覚動了天理人心将曰今之醫乃富貴之</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f25-r-c06">
+              <seg type="diplomatic-text">醫非貧賤之醫偶見藍縷之形容便不啟齒豈肯不吝</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f25-r-c07">
+              <seg type="diplomatic-text">藥餌極濟以望茫茫之報乎且醫仁術也惟以活人為</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f25-r-c08">
+              <seg type="diplomatic-text">念失我片辰之勞得彼終天之樂雖失亦得也况彼死</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f25-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　險痘　二五</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f25-l-c01">
+              <seg type="diplomatic-text">裏求生而望醫醫又治其易而去其難則何以醫為余</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f25-l-c02">
+              <seg type="diplomatic-text">乃命藥童急喚彼来謂曰非我厭汝之貧不肯周濟只</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f25-l-c03">
+              <seg type="diplomatic-text">為力不勝勞向爾有衣有食我不醫有他醫然汝貧甚</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f25-l-c04">
+              <seg type="diplomatic-text">必他不肯醫故我不得不醫然汝女之症十已八死我</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f25-l-c05">
+              <seg type="diplomatic-text">今不惜藥餌不吝勞苦庶或挽回於萬一亦汝之陰德</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f25-l-c06">
+              <seg type="diplomatic-text">也汝将来禮錢仍再持回以供柴米余乃然燭来看此</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f25-l-c07">
+              <seg type="diplomatic-text">辰腹中脹痛拒按又甚余以熱壅於内腸胃燥結若不</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f25-l-c08">
+              <seg type="diplomatic-text">急為表裏疏通則陰陽何由寛暢以鼓舞其毒乎仍以</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第4欄「汝」候「女」。第6欄「偶」候「倘」。 左面：第3欄「向」候「尚」。第6欄「然」依圖，候「燃」。</ab>
+          </div>
+        </div>
+        <pb n="26" facs="#f26" />
+        <div n="26" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f26-r-c01">
+              <seg type="diplomatic-text">桂枝大黄湯加升托藥頓服得微利而脹痛隨止不敢</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f26-r-c02">
+              <seg type="diplomatic-text">盡劑然咽喉乃水穀之關津一身蹎躔寛容少緩乃用</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f26-r-c03">
+              <seg type="diplomatic-text">搜毒煎加甘桔牛旁玄參荆芥之類果二劑幸得如硬</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f26-r-c04">
+              <seg type="diplomatic-text">物者立止惟微痛耳其痘已四日始能出齊正額兩顴</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f26-r-c05">
+              <seg type="diplomatic-text">等處密無縫隙如蒙頭鎖項不言自知其四肢鞭無分</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f26-r-c06">
+              <seg type="diplomatic-text">地界惟胸背稍稀粒粒雖能鬆起而頂平色紫幸而摸</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f26-r-c07">
+              <seg type="diplomatic-text">過猶得轉白余思若不預為清熱解毒尤加意於托送</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f26-r-c08">
+              <seg type="diplomatic-text">則毒伏黒陷紫陷勢所必至乃以黄連解毒湯雜以苓</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f26-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　痘症　二六</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f26-l-c01">
+              <seg type="diplomatic-text">歸連翹桔梗山查玄參丹皮紅花赤芍粘米黄芩石羔</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f26-l-c02">
+              <seg type="diplomatic-text">紫草笋尖桑虫片甲羚羊隨候殊用日日易服漸得起</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f26-l-c03">
+              <seg type="diplomatic-text">勢氣得葺於頂血得附於彙紫色漸變為淡紅燈光之</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f26-l-c04">
+              <seg type="diplomatic-text">下紫艷有神有色然血燥毒壅腸胃秘結每劑各用大</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f26-l-c05">
+              <seg type="diplomatic-text">黄少微利之則熱緩神清不然則有昏昏不識之狀至</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f26-l-c06">
+              <seg type="diplomatic-text">七朝来熱勢稍退毒已漸化為膿至八朝来膿色微黄</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f26-l-c07">
+              <seg type="diplomatic-text">余始敢投以補氣藥如保元湯加鹿茸以峻補之兼粘</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f26-l-c08">
+              <seg type="diplomatic-text">米角刺人乳少加肉桂以鼓舞逐毒又顧盼血分藥微</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第2欄「蹎躔」待覆。第5欄「鞭」候「鞕」。第6欄「摸」候「按」。第8欄「黒」照圖。 左面：第1欄「羔」候「膏」；「粘」照圖。第2欄「桑虫」待覆。第3欄「葺」與「彙」待覆。第5欄「少」候「以」。</ab>
+          </div>
+        </div>
+        <pb n="27" facs="#f27" />
+        <div n="27" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f27-r-c01">
+              <seg type="diplomatic-text">凉補之以杜其抓破之患此辰痘見極臭余喜毒氣已</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f27-r-c02">
+              <seg type="diplomatic-text">盡至十朝来忽然寒戰如疟晨吐二次又作泄瀉至半</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f27-r-c03">
+              <seg type="diplomatic-text">日而痘色已有灰白倒靨之勢余知以有限之氣血抵</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f27-r-c04">
+              <seg type="diplomatic-text">無涯之毒勢能拘之能載之使邪不得逗留於中聚於</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f27-r-c05">
+              <seg type="diplomatic-text">寮囊而化為膿漿則煦嚅之力已竭矣且書法以血熱</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f27-r-c06">
+              <seg type="diplomatic-text">氣虚而驟補則助邪為殃今余見點後始用清凉漿微</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f27-r-c07">
+              <seg type="diplomatic-text">寒始敢温補蓋不清則有黒紫之陷不補則有釀膿之</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f27-r-c08">
+              <seg type="diplomatic-text">需茲之寒戰泄瀉俗云回漿之後然此非也蓋血氣逐</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f27-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　痘症　二七</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f27-l-c01">
+              <seg type="diplomatic-text">毒力窮五臟空虚之故内無主持而然譬猶用兵連年</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f27-l-c02">
+              <seg type="diplomatic-text">雖四海昇平而府庫告竭余乃急為補托重用丁桂姜</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f27-l-c03">
+              <seg type="diplomatic-text">附以温之果得立止依部結痂但至十六日惟面上不</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f27-l-c04">
+              <seg type="diplomatic-text">落余以面乃諸陽之會痘辰毒參陽位又為預腫之兆</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f27-l-c05">
+              <seg type="diplomatic-text">則陽弱可知至結痂而孤分又不能落則陽無力矣</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f27-l-c06">
+              <seg type="diplomatic-text">余乃專用補中湯加川芎減黄茋大劑濃飲至二十三</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f27-l-c07">
+              <seg type="diplomatic-text">日始得和皮脫去宛儡磊面一般相似甚可驚恐這</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f27-l-c08">
+              <seg type="diplomatic-text">案余治此痘日夜不敢相離其間賊痘疔痘則身為針</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f27-l-c08">
+              <label>左頁第5欄「孤」後雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">陽之</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f27-l-c08">
+              <label>左頁第7欄「宛」後雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">然如</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第2欄「疟」依圖。第5欄「寮囊」「煦嚅」待覆。 左面：第3欄「依部」待覆。第4欄「參」候「僭」。第6欄「茋」依圖。第7欄「儡磊」待覆。</ab>
+          </div>
+        </div>
+        <pb n="28" facs="#f28" />
+        <div n="28" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f28-r-c01">
+              <seg type="diplomatic-text">刺凡每臨看辰則〔省錄〕</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f28-r-c02">
+              <seg type="diplomatic-text">〔省錄〕如漁家入水之狀一氣看完急出則一身淋汗</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f28-r-c03">
+              <seg type="diplomatic-text">回家更為薫洗方能飲食不止此也凡彼之柴米燈火</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f28-r-c04">
+              <seg type="diplomatic-text">有不足處則又加周急計来自發熱至還元前後共一</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f28-r-c05">
+              <seg type="diplomatic-text">月四日余之藥材調費不過五貫之數而使彼再得有</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f28-r-c06">
+              <seg type="diplomatic-text">生全體並無癈缺王應震曰醫家有造化之功</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f28-r-c07">
+              <seg type="diplomatic-text">真熱假寒案一案本隣鄉老妻早晨空腹冒暑行役</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f28-r-c08">
+              <seg type="diplomatic-text">忽得寒熱交作四肢厥逆下痢小腹絞痛雖上壓以重</seg>
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f28-r-c01" />
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f28-r-c02" />
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f28-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　痘症　二八</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f28-r-c08">
+              <label>右頁第6欄末雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">誠可信於此歟</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f28-r-c08">
+              <label>右頁第7欄「老」後雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">名墓</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f28-l-c01">
+              <seg type="diplomatic-text">綿下〔省錄〕辰當炎天而不勝其寒死而復甦命在</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f28-l-c02">
+              <seg type="diplomatic-text">須臾彼家急来求治余意以夏月伏陰空腹感冒邪得</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f28-l-c03">
+              <seg type="diplomatic-text">乘虚而入乃以附子理中湯投之片刻復見彼来言藥</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f28-l-c04">
+              <seg type="diplomatic-text">纔入咽一湧而吐了余疑其寒所阻以寒導熱方能得</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f28-l-c05">
+              <seg type="diplomatic-text">入乃令〔省錄〕刻間彼又来告曰此藥下</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f28-l-c06">
+              <seg type="diplomatic-text">咽後雖不吐而痛瀉如直射病勢甚篤乃来余就診余</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f28-l-c07">
+              <seg type="diplomatic-text">来見面雖青而眼赤如火煩渴浩飲診其脉沉數而有</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f28-l-c08">
+              <seg type="diplomatic-text">力余始知火極似水之症然不飲上池之水豈能無疑</seg>
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f28-l-c01" />
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f28-l-c05" />
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：此面有原文未收錄處，各欄由省錄標記定位。 左面：此面有原文未收錄處，各欄由省錄標記定位。</ab>
+          </div>
+        </div>
+        <pb n="29" facs="#f29" />
+        <div n="29" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f29-r-c01">
+              <seg type="diplomatic-text">乃令以冷水試之與一小杯病人飲了張口作聲稱快</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f29-r-c02">
+              <seg type="diplomatic-text">再欲索飲余乃以六一散調微温水飲之其寒厥痛瀉</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f29-r-c03">
+              <seg type="diplomatic-text">並已退減惟腹痛仍然余以白虎湯石羔生用散末調</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f29-r-c04">
+              <seg type="diplomatic-text">服果一劑而痛瀉二次隨止自頭至足津津汗出遍身</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f29-r-c05">
+              <seg type="diplomatic-text">發熱如火却衣求扇腹中絞痛亦止余繼以清暑益氣</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f29-r-c06">
+              <seg type="diplomatic-text">調之而安按此治初之聞問誤以為寒及後望切確見</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f29-r-c07">
+              <seg type="diplomatic-text">其熱誠哉寧以不足之法治有餘則可以有餘之法治</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f29-r-c08">
+              <seg type="diplomatic-text">不足則不可王太僕曰寒症有贏狀誤補益疾贏症有</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f29-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　真熱　二九</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f29-l-c01">
+              <seg type="diplomatic-text">盛候反瀉含寃試思益疾與含寃四字誰為重輕其中</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f29-l-c02">
+              <seg type="diplomatic-text">已明判了余以冷水試之者蓋水乃天一之精甘寒直</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f29-l-c03">
+              <seg type="diplomatic-text">走腸胃無傷陽分假熱之症則拒而不入或入而嘔而</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f29-l-c04">
+              <seg type="diplomatic-text">腹微痛假寒之症則快如琥珀拾芥此乃景岳遺秘余</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f29-l-c05">
+              <seg type="diplomatic-text">每以此取驗病之真假自無遁情得效甚捷</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f29-l-c06">
+              <seg type="diplomatic-text">感冒胎動案一案漁戸人妻懐姙七月患感冒寒熱</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f29-l-c07">
+              <seg type="diplomatic-text">似瘧頭疼身痛将二旬来熱傷胎動腹痛煩渴殆甚坐</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f29-l-c08">
+              <seg type="diplomatic-text">卧不能能轉側謂胎元下墜乃升提之胎又搶胸中</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f29-l-c08">
+              <label>左頁第6欄「人」後雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">名著</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f29-l-c08">
+              <label>左頁第8欄「側」後雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">前医</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第3欄「羔」候「膏」、第5欄「却」照圖。第8欄兩「贏」依圖，候「羸」。 左面：第6欄前五字墨框反白為案題。「懐姙」依圖。第8欄連二「能」為刻文。</ab>
+          </div>
+        </div>
+        <pb n="30" facs="#f30" />
+        <div n="30" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f30-r-c01">
+              <seg type="diplomatic-text">而痛愈甚再一醫謂宜降則胎下墜在臍下腹痛愈密</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f30-r-c02">
+              <seg type="diplomatic-text">小便閉澁勢又倍於升提此醫曰下之太過則微升之</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f30-r-c03">
+              <seg type="diplomatic-text">微升不止又大升之大升不能計窮又謂可急安胎為</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f30-r-c04">
+              <seg type="diplomatic-text">主已經數劑而痛墜之勢愈甚彼始来余求治備道始</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f30-r-c05">
+              <seg type="diplomatic-text">末余不覚大笑曰可憐那兒渾然一塊肉耳不識好歹</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f30-r-c06">
+              <seg type="diplomatic-text">焉知憎愛如牛如馬任人牽携引之則上挽之則下疾</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f30-r-c07">
+              <seg type="diplomatic-text">於奪命何醫之不深明經義有曰凡因病而胎動則去</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f30-r-c08">
+              <seg type="diplomatic-text">病而胎自安因胎而致病則安胎而病自去今因感冒</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f30-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　感冒　三十</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f30-l-c01">
+              <seg type="diplomatic-text">熱甚傷胎則當去病而胎自安何必以脾胃為戰場以</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f30-l-c02">
+              <seg type="diplomatic-text">胎元為戲毬使之上使之下乎余来看辰見那婦年已</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f30-l-c03">
+              <seg type="diplomatic-text">六七詢之產育已多則虧竭可知且形體黒瘦髮焦</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f30-l-c04">
+              <seg type="diplomatic-text">面皮惨黯如烟煤此亦水衰火勝血少陰虚之兆况胎</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f30-l-c05">
+              <seg type="diplomatic-text">元繫於兩腎之間如懸相胎之牢穩全在頼此今壯</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f30-l-c06">
+              <seg type="diplomatic-text">火煎熬真陰棵不牢固而鍾豈能安穩乎血既病則氣</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f30-l-c07">
+              <seg type="diplomatic-text">亦傷經曰陽虚則外寒陰虚則内熱陰陽俱虚則寒熱</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f30-l-c08">
+              <seg type="diplomatic-text">交作故外見假象之實邪豈不内因無形之本虚余以</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f30-l-c08">
+              <label>左頁第3欄「則」後雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">天癸</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f30-l-c08">
+              <label>左頁第5欄「懸」後雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">錘在</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第1欄末字「密」候「疼」。第5欄「歹」依圖。 左面：第4欄「黯」「烟」依圖。第5欄「相」候「梁」。第6欄「棵」「鍾」待覆。</ab>
+          </div>
+        </div>
+        <pb n="31" facs="#f31" />
+        <div n="31" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f31-r-c01">
+              <seg type="diplomatic-text">六味丸作湯加柴胡白芍伐肝邪斂肝血加炒知栢</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f31-r-c02">
+              <seg type="diplomatic-text">抑亢炎果一劑而寒熱諸症立止此胎始得少安余知</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f31-r-c03">
+              <seg type="diplomatic-text">逐下之故逆於胞脬而作澁投以補中倍升麻提之胎</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f31-r-c04">
+              <seg type="diplomatic-text">還本位而小便利再服前方去柴芍知栢加麥味杜仲</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f31-r-c05">
+              <seg type="diplomatic-text">續斷二劑以為填補真陰之具繼以調脾養胃尤加意</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f31-r-c06">
+              <seg type="diplomatic-text">於參术以安之不旬日而康彊如故　亡陰潰汗案一</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f31-r-c07">
+              <seg type="diplomatic-text">案本居泡下隣人患感冒於三伏惡寒發熱頭疼身</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f31-r-c08">
+              <seg type="diplomatic-text">痛無汗醫投發散已四五日不解此辰身更如乾柴煩</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f31-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　亡陰　三一</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f31-r-c08">
+              <label>右頁第1欄末「栢」後雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">以暫</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f31-r-c08">
+              <label>右頁第7欄「人」後雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">名岑</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f31-l-c01">
+              <seg type="diplomatic-text">渴殆甚再一醫亦以猛劑解表數日不能發熱勢蒸蒸</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f31-l-c02">
+              <seg type="diplomatic-text">晝夜無休歇病家見一一不驗停藥二日忽發暴寒戰</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f31-l-c03">
+              <seg type="diplomatic-text">慄如瘧寒去再熱半辰間汗出如雨而熱退半身以下</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f31-l-c04">
+              <seg type="diplomatic-text">凉冷如冰半身以上猶稍熱頭痛如破眼不能開胸中</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f31-l-c05">
+              <seg type="diplomatic-text">鬱熱悶懊寤則自汗寐則盗汗煩渴如故精神更甚慌</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f31-l-c06">
+              <seg type="diplomatic-text">亂惟兩足心熱如火烙以凉物壓之則可不然則煩寃</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f31-l-c07">
+              <seg type="diplomatic-text">跳躍不寧彼更求醫救治投以固表收汗而汗不能止</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f31-l-c08">
+              <seg type="diplomatic-text">日則愈甚浸濕床席身如沐然彼始来余求治且備道</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第6欄「亡陰潰汗案」墨框反白為案題。第1欄附記「暫」待覆。第7欄附記「岑」待覆。 左面：第1欄「不能發熱」連接待覆。第5欄「懊」候「憹」。第6欄「寃」依圖。</ab>
+          </div>
+        </div>
+        <pb n="32" facs="#f32" />
+        <div n="32" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f32-r-c01">
+              <seg type="diplomatic-text">元末余曰扶危濟急雨夜不辭乃醫家分内事非余畏</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f32-r-c02">
+              <seg type="diplomatic-text">勞不行然備聞詳細余已暗知了此乃陰虚發熱之症</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f32-r-c03">
+              <seg type="diplomatic-text">雖有所感亦因虚也陰虚則水衰血少經曰寒之不寒</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f32-r-c04">
+              <seg type="diplomatic-text">取之陰故有求汗於血之理從陰引陽之法前醫一見</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f32-r-c05">
+              <seg type="diplomatic-text">忽寒便云表症猶在而屢汗之不知風藥能耗血血愈</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f32-r-c06">
+              <seg type="diplomatic-text">耗而汗愈澁不得不身如枯柴後醫意前醫藥力未到</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f32-r-c07">
+              <seg type="diplomatic-text">又峻投之以致陽虚於衛而發寒陰虚於榮而發熱榮</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f32-r-c08">
+              <seg type="diplomatic-text">衛交爭寒熱并作似瘧下半身凉上半身熱乃陰亡於</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f32-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　亡陰　三二</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f32-l-c01">
+              <seg type="diplomatic-text">下陽脫於上汗者心之液液竭心虚故精神失守而慌</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f32-l-c02">
+              <seg type="diplomatic-text">亂頭痛如破乃無陰相濟相火氣炎腦将解矣胸中悶</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f32-l-c03">
+              <seg type="diplomatic-text">懊乃豚道閉塞中土乾枯兩足心熱乃陰虚水竭湧泉</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f32-l-c04">
+              <seg type="diplomatic-text">乾涸也經曰諸陽脉起於十指端諸陰起兩足心陰虚</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f32-l-c05">
+              <seg type="diplomatic-text">之症一一可據確顯無疑余乃以熟地布參令濃</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f32-l-c06">
+              <seg type="diplomatic-text">煎浩飲一日夜而煩渴悶懊頓止精神安定頭痛稍安</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f32-l-c07">
+              <seg type="diplomatic-text">潰汗半收繼以熟地布參麥門五味大附〔省錄〕</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f32-l-c08">
+              <seg type="diplomatic-text">牛膝白术〔省錄〕而諸症悉退惟頭痛未甚平</seg>
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f32-l-c07" />
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f32-l-c08" />
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f32-l-c08">
+              <label>左頁第5欄「熟地」後雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">六刄</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f32-l-c08">
+              <label>左頁第5欄「布參」後雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">二刄</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第1欄「元末」候「原末」。第6欄「澁」依圖。第8欄「并」照圖。 左面：此面有原文未收錄處，各欄由省錄標記定位。</ab>
+          </div>
+        </div>
+        <pb n="33" facs="#f33" />
+        <div n="33" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f33-r-c01">
+              <seg type="diplomatic-text">余以加膝味麥之八味丸〔省錄〕旬日間</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f33-r-c02">
+              <seg type="diplomatic-text">陰平陽秘而百病自治矣此案余雨則五液俱竭</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f33-r-c03">
+              <seg type="diplomatic-text">非獨心也腎主五液必玄水乾枯故陰虚之症小便頻</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f33-r-c04">
+              <seg type="diplomatic-text">澁以陰不能守也故重用熟地以峻補真陰急生精血</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f33-r-c05">
+              <seg type="diplomatic-text">以大補元氣之人參托住中氣於将脱之際次用醇湯</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f33-r-c06">
+              <seg type="diplomatic-text">以補一氣化源使火生土土生金金生水源源而来為</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f33-r-c07">
+              <seg type="diplomatic-text">不竭之用繼以八味丸兼補先天水火間以歸脾湯接</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f33-r-c08">
+              <seg type="diplomatic-text">補後天心脾之陰血人知汗屬陽升陽可以發表誰知</seg>
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f33-r-c01" />
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f33-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　亡陰　三三</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f33-r-c08">
+              <label>右頁第2欄「余」後雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">以汗潰似</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f33-l-c01">
+              <seg type="diplomatic-text">汗生于陰養陰可發汗故可見雲騰雨致之妙用人知</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f33-l-c02">
+              <seg type="diplomatic-text">亡陽則汗脱誰知亡陰汗亦脱蓋陰為陽守陽為陰使</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f33-l-c03">
+              <seg type="diplomatic-text">陰不能守於内陽亦不能衛於外湊理洞然而汗脱經</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f33-l-c04">
+              <seg type="diplomatic-text">曰自汗屬陽虚盗汗屬陰虚亦不能守衛之義也余臨</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f33-l-c05">
+              <seg type="diplomatic-text">此症潔然不用黄茋防風麻黄根龍骨牡礪之類而汗</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f33-l-c06">
+              <seg type="diplomatic-text">自止不顧支離之見而蜂起之症自除惟以陰陽氣血</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f33-l-c07">
+              <seg type="diplomatic-text">為事眇哉經言知其要則一言而終不知其要則流散</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f33-l-c08">
+              <seg type="diplomatic-text">無窮何乃悾悾然為治頭治脚之見哉</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：此面有原文未收錄處，各欄由省錄標記定位。 左面：第3欄「湊」候「腠」，第5欄「礪」形待覆。第7欄「眇」待覆。第8欄末留空。</ab>
+          </div>
+        </div>
+        <pb n="34" facs="#f34" />
+        <div n="34" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f34-r-c01">
+              <seg type="diplomatic-text">小兒咳嗽案一案隣人孩兒方二週患咳嗽病經數</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f34-r-c02">
+              <seg type="diplomatic-text">月来每午後則寒熱似瘧遍求湯藥不愈日轉漸甚發</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f34-r-c03">
+              <seg type="diplomatic-text">咳辰氣絶復甦身熱如火形如鵠立勢在垂危彼父母</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f34-r-c04">
+              <seg type="diplomatic-text">抱来我家旁寓求救余来看辰眼已半合腹脹而痰起</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f34-r-c05">
+              <seg type="diplomatic-text">四肢漸厥啼哭無聲半辰間又見張口揺頭拈腹遺尿</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f34-r-c06">
+              <seg type="diplomatic-text">伊父母曰此彼咳也少之復定飲乳復嘔便如鷺糞余</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f34-r-c07">
+              <seg type="diplomatic-text">見種種惡候必死之勢已在然念彼父母之誠以此兒</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f34-r-c08">
+              <seg type="diplomatic-text">性命懸於我手我不得不以伊父母之心為心而為死</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f34-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　咳嗽　三四</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f34-r-c08">
+              <label>右頁第1欄「人」後雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">名日</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f34-l-c01">
+              <seg type="diplomatic-text">裏求生之計余念脱已具則幾希之氣所當急固焉問孤</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f34-l-c02">
+              <seg type="diplomatic-text">狸乃以布參白术大附〔省錄〕</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f34-l-c03">
+              <seg type="diplomatic-text">鼓已見四肢温煖腹脹盡止喘息稍調小便清利余知</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f34-l-c04">
+              <seg type="diplomatic-text">元氣回肺氣下降必有可生之機夜半又發驚搐如驚</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f34-l-c05">
+              <seg type="diplomatic-text">風狀戴眼直視手足振搖痰壅涎溢口不能合有一醫</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f34-l-c06">
+              <seg type="diplomatic-text">勸投以黄牛丸余曰若投此藥何異入井下石蓋此真</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f34-l-c07">
+              <seg type="diplomatic-text">陰竭絶五臟空虚經曰内風凡直視掉搖乃小兒無</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f34-l-c08">
+              <seg type="diplomatic-text">陰肝火獨旺相火尤炎水涸血枯筋急而為此候</seg>
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f34-l-c02" />
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f34-l-c08">
+              <label>左頁第7欄「内」後雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">虚生</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f34-l-c08">
+              <label>左頁第8欄「陰」後雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">此陰氣未全</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第1欄前五字墨框反白為案題。第5欄「拈」候「拈／枯」，第6欄「鷺」候「鵝」。第7欄「在」照圖。 左面：此面有原文未收錄處，各欄由省錄標記定位。</ab>
+          </div>
+        </div>
+        <pb n="35" facs="#f35" />
+        <div n="35" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f35-r-c01">
+              <seg type="diplomatic-text">也氣不能歸源痰隨氣上而喘壅口不合而流涎乃土</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f35-r-c02">
+              <seg type="diplomatic-text">虧之兆經曰脾虚不能攝涎是也為今之計急以本原</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f35-r-c03">
+              <seg type="diplomatic-text">為首重豈可以脾既虚更用牛黄以平土腎既竭氣不</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f35-r-c04">
+              <seg type="diplomatic-text">歸源更用龍腦以竄氣筋既燥急則經絡無用更投麝</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f35-r-c05">
+              <seg type="diplomatic-text">香以疏通凡非風之症誤用龍腦麝香則引風入骨如</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f35-r-c06">
+              <seg type="diplomatic-text">油入麵終不能出余不聽仍以六味作湯加膝仲味麥</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f35-r-c07">
+              <seg type="diplomatic-text">濃煎別磨好醉肉桂〔省錄〕纔得一小杯諸症悉平</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f35-r-c08">
+              <seg type="diplomatic-text">余思我欲納氣歸源而氣不肯歸既来復去經曰遇症</seg>
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f35-r-c07" />
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f35-r-c08">
+              <label>右頁版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　咳嗽　三五</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f35-l-c01">
+              <seg type="diplomatic-text">之虚亟保北方以培生命且真陰真陽乃求生之根本</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f35-l-c02">
+              <seg type="diplomatic-text">舍此奚適余以加膝麥味之八味丸〔省錄〕</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f35-l-c03">
+              <seg type="diplomatic-text">〔省錄〕又間投參术姜草以為後天生化之機如此調</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f35-l-c04">
+              <seg type="diplomatic-text">接二日夜方保無虞此辰飲乳已健拂逆其意已知觸</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f35-l-c05">
+              <seg type="diplomatic-text">怒啼聲漸大余喜曰肺出氣腎納氣肺為音聲之戸腎</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f35-l-c06">
+              <seg type="diplomatic-text">為聲音之本今根本既復故聲音悠長余仍照此調補</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f35-l-c07">
+              <seg type="diplomatic-text">二旬餘再得扶歩倚立喜笑如常這案余以求本為事</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f35-l-c08">
+              <seg type="diplomatic-text">而諸症全愈蓋小兒純陽無陰乃稚陽耳昧者以純陽</seg>
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f35-l-c02" />
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f35-l-c03" />
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：此面有原文未收錄處，各欄由省錄標記定位。 左面：此面有原文未收錄處，各欄由省錄標記定位。</ab>
+          </div>
+        </div>
+        <pb n="36" facs="#f36" />
+        <div n="36" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f36-r-c01">
+              <seg type="diplomatic-text">為有餘之見舉手肆用寒凉既云無陰而又戕其陽豈</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f36-r-c02">
+              <seg type="diplomatic-text">不陰陽兩敗乎且陰氣未旺相火專權故凡病易於</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f36-r-c03">
+              <seg type="diplomatic-text">發熱易於驚搐無不由水衰血少而筋氣無養之故也</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f36-r-c04">
+              <seg type="diplomatic-text">余見咳從臍逆奔而上知其氣不藏源雖云痰出於脾</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f36-r-c05">
+              <seg type="diplomatic-text">咳出於肺不暇以脾肺為事而諄諄以事腎為根本之</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f36-r-c06">
+              <seg type="diplomatic-text">地重用桂附方得保全人謂小兒純陽忌用辛熱小兒</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f36-r-c07">
+              <seg type="diplomatic-text">臟腑嬌嫩不可近治與小兒無補腎法種種無稽之語</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f36-r-c08">
+              <seg type="diplomatic-text">智者亦為之橫起胸中昧者必為之印定耳目天枉無</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f36-r-c08">
+              <label>右頁第2欄「旺」下雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">天癸／也</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f36-r-c08">
+              <label>中縫版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷／單熱／三六</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f36-l-c01">
+              <seg type="diplomatic-text">窮倘遇此稟虚症惡之兒舍此之外無別法矣</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f36-l-c02">
+              <seg type="diplomatic-text">小兒單熱案一案國中人名康徑女年甫六歲素患熱</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f36-l-c03">
+              <seg type="diplomatic-text">病形勢黑瘦鱗膚甲錯頭痛鼻衄飲水無度小便頻數</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f36-l-c04">
+              <seg type="diplomatic-text">大便燥結每便反結秘啼哭遍身瘡疥反當盛夏忽患</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f36-l-c05">
+              <seg type="diplomatic-text">暴倒口噤眼閉舌出潰汗如雨四肢縱緩身熱如火痰</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f36-l-c06">
+              <seg type="diplomatic-text">如拽鋸昏迷不省見者竝謂中風之症幸而彼未及藥</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f36-l-c07">
+              <seg type="diplomatic-text">餌故得無腦麝星半蚕蝎驅風逐痰行氣藥入口之禍</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f36-l-c08">
+              <seg type="diplomatic-text">彼急抱來余寓求治余見六脈浮大無力余知其真陰</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第二欄細注插於「旺」與「相」之間。末欄「天枉」候「夭枉」。 左面：第二欄首五字陰刻案名，第2欄「康徑」及第4欄兩處「反」待核。</ab>
+            <ab type="transcription-issue" n="left:2">
+              <quote>康徑</quote>
+              <note type="editorial">第二欄首五字陰刻案名，第2欄「康徑」及第4欄兩處「反」待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:4">
+              <quote>反</quote>
+              <note type="editorial">第二欄首五字陰刻案名，第2欄「康徑」及第4欄兩處「反」待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="37" facs="#f37" />
+        <div n="37" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f37-r-c01">
+              <seg type="diplomatic-text">虚甚玄水涸竭雷火獨炎經曰寒傷於形熱傷於氣故</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f37-r-c02">
+              <seg type="diplomatic-text">卒倒之症東垣責之氣虚此兒素患熱病兼遇元炎之</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f37-r-c03">
+              <seg type="diplomatic-text">邪氣而然經曰寒則牽急熱則縱弛又曰氣中無血則</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f37-r-c04">
+              <seg type="diplomatic-text">為抽掣拘攣血中無氣則為緩縱廢弛故筋急者責其</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f37-r-c05">
+              <seg type="diplomatic-text">無血筋緩者責其無氣口雖屬脾而上下牙床本於腎</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f37-r-c06">
+              <seg type="diplomatic-text">腎水弗上潤而口噤且人身何處之骨不屬腎何處之</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f37-r-c07">
+              <seg type="diplomatic-text">筋不屬於肝水衰不能養木而筋亦病也舌乃心之苗</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f37-r-c08">
+              <seg type="diplomatic-text">舌出則心絕此不治之症幸而猶紅潤出見半枚此由</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f37-r-c08">
+              <label>中縫版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷／單熱／三七</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f37-l-c01">
+              <seg type="diplomatic-text">熱勝陰傷血乾綏縱然如此之熱乃假熱也若遇以寒</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f37-l-c02">
+              <seg type="diplomatic-text">凉峻攻力窮之炎勢一見水折則自滅而不能反本矣</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f37-l-c03">
+              <seg type="diplomatic-text">經曰火即氣不得其平而為邪若惡其熱而直滅之火</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f37-l-c04">
+              <seg type="diplomatic-text">絕則氣亦絕矣余以六味作湯加麥味以救水之母加</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f37-l-c05">
+              <seg type="diplomatic-text">知柏以暫抑元炎果一劑而諸症如失繼以八珍十全</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f37-l-c06">
+              <seg type="diplomatic-text">歸脾接補後天氣血閒以壯水配火為本事加減出入</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f37-l-c07">
+              <seg type="diplomatic-text">以調補之書曰火之有餘因見水之不足若欲去火以</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f37-l-c08">
+              <seg type="diplomatic-text">復水則既衰之水未必可復而竝火以去之豈不俱傷</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第二欄「元炎」字形待核。 左面：第一欄「綏縱」形近「緩縱」，留待覆核。第二欄「見」有墨汙，以清楚部分暫讀。版心居中縫。</ab>
+            <ab type="transcription-issue" n="right:2">
+              <quote>元炎</quote>
+              <note type="editorial">第二欄「元炎」字形待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="38" facs="#f38" />
+        <div n="38" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f38-r-c01">
+              <seg type="diplomatic-text">兩敗乎如此旬月餘火得水生陰為陽基而前陰熱燥</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f38-r-c02">
+              <seg type="diplomatic-text">結諸症竝愈飲食始能為肌膚矣後產假塊案一案</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f38-r-c03">
+              <seg type="diplomatic-text">藥材商婦產後數朝外因遇感風寒暴發寒熱百節</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f38-r-c04">
+              <seg type="diplomatic-text">痠痛不能轉側腹中有塊大約盈斗硬如鉄石痛如刀</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f38-r-c05">
+              <seg type="diplomatic-text">割錐刺塊墜臍下則小便閉澁淋瀝下血塊搶胸間則</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f38-r-c06">
+              <seg type="diplomatic-text">胸悶嘔逆延一醫醫以逐塊為事投以莪朮與行氣破</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f38-r-c07">
+              <seg type="diplomatic-text">血之品經十三大劑而塊愈日愈長脹痛寒熱愈甚反</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f38-r-c08">
+              <seg type="diplomatic-text">張口似啞則氣從臍下通奔而上如發喘之勢彼夫</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f38-r-c08">
+              <label>右頁第3欄「婦」下雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">名／卑</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f38-r-c08">
+              <label>中縫版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷／假塊／三八</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f38-l-c01">
+              <seg type="diplomatic-text">見病勢垂危急乘小舟來余求救原來那婦余每取藥</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f38-l-c02">
+              <seg type="diplomatic-text">材往來情義甚厚聞得有急乃不吝雨夜來救及余至</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f38-l-c03">
+              <seg type="diplomatic-text">反舉家甚愴惶診見六脈浮沉微乃產後正脈</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f38-l-c04">
+              <seg type="diplomatic-text">今反浮緩則真陰虧極精血衰少耳伊婦素稟陰虚形</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f38-l-c05">
+              <seg type="diplomatic-text">體黑瘦詢來產反醫許服行血藥去血過多余曰醫多</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f38-l-c06">
+              <seg type="diplomatic-text">執泥產后逐瘀瘀消然後堪補之句以為穩當之法况</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f38-l-c07">
+              <seg type="diplomatic-text">腹中現有塊痛如此故愈加意於攻逐而不顧本源虚</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f38-l-c08">
+              <seg type="diplomatic-text">寡凡產乃氣血兩傷之症猶然行氣逐血不知急為求</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f38-l-c08">
+              <label>左頁第3欄「浮」下雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">緩無力／余時曰</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第二欄近末黑底白字為案名。首欄「陰熱」候「陰虚」；第5欄「瀝」待核。 左面：第3欄「浮／沉微」中插兩行小字，第4欄「今反浮緩」續大欄。第5欄「產反」原圖疑另讀。</ab>
+            <ab type="transcription-issue" n="right:1">
+              <quote>陰熱</quote>
+              <note type="editorial">第二欄近末黑底白字為案名。首欄「陰熱」候「陰虚」；第5欄「瀝」待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:5">
+              <quote>瀝</quote>
+              <note type="editorial">第二欄近末黑底白字為案名。首欄「陰熱」候「陰虚」；第5欄「瀝」待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:4">
+              <quote>今反浮緩</quote>
+              <note type="editorial">第3欄「浮／沉微」中插兩行小字，第4欄「今反浮緩」續大欄。第5欄「產反」原圖疑另讀。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:5">
+              <quote>產反</quote>
+              <note type="editorial">第3欄「浮／沉微」中插兩行小字，第4欄「今反浮緩」續大欄。第5欄「產反」原圖疑另讀。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="39" facs="#f39" />
+        <div n="39" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f39-r-c01">
+              <seg type="diplomatic-text">本待欲補反恐無受補之日矣以余之見氣虚則滯氣</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f39-r-c02">
+              <seg type="diplomatic-text">滯則血不行凡有積塊亦不過因虚而假象耳經曰壯</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f39-r-c03">
+              <seg type="diplomatic-text">人無積虚則有之且人體薄血既不多產旬所下已甚</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f39-r-c04">
+              <seg type="diplomatic-text">醫又肆行攻逐如此則何惡瘀之有為今之計所當急</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f39-r-c05">
+              <seg type="diplomatic-text">補氣血之根全在真陰真陽為事凡火益則元氣固水</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f39-r-c06">
+              <seg type="diplomatic-text">壯則精血生若徒以後天氣血為事猶如種樹惟知敷</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f39-r-c07">
+              <seg type="diplomatic-text">糞枝葉不知灌溉根基欲望其暢茂則未之有也然產</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f39-r-c08">
+              <seg type="diplomatic-text">后惟以發喘為最惡之症今氣不歸源漸以逆奔而上</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f39-r-c08">
+              <label>中縫版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷／假塊／三九</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f39-l-c01">
+              <seg type="diplomatic-text">所當急固其氣引之藏源緩則難為力矣〔省錄〕</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f39-l-c02">
+              <seg type="diplomatic-text">〔省錄〕果一</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f39-l-c03">
+              <seg type="diplomatic-text">劑而脹痛喘嘔竝減其半神識稍清又改以通源救腎</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f39-l-c04">
+              <seg type="diplomatic-text">湯加柴胡益母而寒熱身痛隨止乃照前之〔省錄〕</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f39-l-c05">
+              <seg type="diplomatic-text">〔省錄〕</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f39-l-c06">
+              <seg type="diplomatic-text">〔省錄〕如此調補三日夜而似鉄似石之塊積</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f39-l-c07">
+              <seg type="diplomatic-text">不知溶化於何辰去了飲食漸進神體漸旺余始以八</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f39-l-c08">
+              <seg type="diplomatic-text">珍歸脾與前劑作湯間服一月而康強倍於前日按此</seg>
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f39-l-c01" />
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f39-l-c02" />
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f39-l-c04" />
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f39-l-c05" />
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f39-l-c06" />
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第7欄首字「糞」待核；版心居中縫。 左面：此面有原文未收錄處，各欄由省錄標記定位。</ab>
+            <ab type="transcription-issue" n="right:7">
+              <quote>糞</quote>
+              <note type="editorial">第7欄首字「糞」待核；版心居中縫。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="40" facs="#f40" />
+        <div n="40" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f40-r-c01">
+              <seg type="diplomatic-text">余以補正而邪無容地若謂塊消方議補與有積誤補</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f40-r-c02">
+              <seg type="diplomatic-text">則助為殃之說此前人為治實者法若產後氣虚見症</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f40-r-c03">
+              <seg type="diplomatic-text">既虚而藥又虚之豈不重虚虚之禍乎且如塊方甚大</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f40-r-c04">
+              <seg type="diplomatic-text">甚硬誰不指為血聚氣積為癥為瘕余特以為虚象假</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f40-r-c05">
+              <seg type="diplomatic-text">形從此因而治之不攻而自破其捷效如此較之硝黃</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f40-r-c06">
+              <seg type="diplomatic-text">莪稜與花葉桃仁紅花乾漆蒲黃靈脂玄胡枳實巴霜</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f40-r-c07">
+              <seg type="diplomatic-text">種種破氣傷血之類無情惡劣之性其實壤矣昔戴王</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f40-r-c08">
+              <seg type="diplomatic-text">太僕曰症之實者借攻為補症之虚者以補為攻全在</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f40-r-c08">
+              <label>中縫版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷／脇痛／四十</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f40-l-c01">
+              <seg type="diplomatic-text">不捨正氣為要非參朮之能益非硝黃之損</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f40-l-c02">
+              <seg type="diplomatic-text">脇痛脹悶案一案永營屯守官進京奉侍辰當炎燎太</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f40-l-c03">
+              <seg type="diplomatic-text">夫人年高公子幼稚命余攜將藥需護隨途經清華象</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f40-l-c04">
+              <seg type="diplomatic-text">山潮退舟涸將旬餘余每偷閒攜帶詩囊酒壺登山遊</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f40-l-c05">
+              <seg type="diplomatic-text">玩狂吟亂酌雖一木石足供高興無日不夜歸一日余</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f40-l-c06">
+              <seg type="diplomatic-text">遊清舍談禪僧家有病人商量求醫一云我本方惟有</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f40-l-c07">
+              <seg type="diplomatic-text">才先生學術精通最為高手余乃盤問那醫清住在何</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f40-l-c08">
+              <seg type="diplomatic-text">處伊曰象山東邊大湖旁樹木陰森乃先生懸壺之處</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f40-l-c08">
+              <label>左頁第1欄「損」下雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">虚實之間誠醫／之巧耳</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第6欄為比較藥名，未敘配製。第7欄「壤」擬「壞」，「戴」候「哉」。 左面：第2欄起黑底白字為案名。該欄「炎燎」與第7欄「清」疑字留讀。</ab>
+            <ab type="transcription-issue" n="left:2">
+              <quote>炎燎</quote>
+              <note type="editorial">第2欄起黑底白字為案名。該欄「炎燎」與第7欄「清」疑字留讀。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:None">
+              <quote>清</quote>
+              <note type="editorial">第2欄起黑底白字為案名。該欄「炎燎」與第7欄「清」疑字留讀。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="41" facs="#f41" />
+        <div n="41" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f41-r-c01">
+              <seg type="diplomatic-text">也余聞得清幽趣味激動高懷與山僧作別而去來到</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f41-r-c02">
+              <seg type="diplomatic-text">山門一望如畫乃攜童直步而來叩動柴扉見一道童</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f41-r-c03">
+              <seg type="diplomatic-text">來問曰官人乃何方姓氏來敝廬又有甚麼緣故余曰</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f41-r-c04">
+              <seg type="diplomatic-text">先生在否道童曰在竹軒下課兒余曰我乃舟中人因</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f41-r-c05">
+              <seg type="diplomatic-text">舟涸遊玩欲投謁先生閒談遣與汝可速去稟知道童</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f41-r-c06">
+              <seg type="diplomatic-text">去了余在庭前閒望見庭之西邊種得數老株梅樹雜</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f41-r-c07">
+              <seg type="diplomatic-text">與竹石為配青白交加疎影橫斜淺深如畫庭之東邊</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f41-r-c08">
+              <seg type="diplomatic-text">上牆內甃出一株大樹施黃闖緑絲絲織錦條條柔得</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f41-r-c08">
+              <label>中縫版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷／脇痛／四一</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f41-l-c01">
+              <seg type="diplomatic-text">往來風庭中架起一敬天臺臺之植奇花異卉香色</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f41-l-c02">
+              <seg type="diplomatic-text">宜人余忖曰人謂一出茶湯便見妻目此清幽則主人</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f41-l-c03">
+              <seg type="diplomatic-text">滋味自可知矣須之道童來曰請官人進步余乃跟之</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f41-l-c04">
+              <seg type="diplomatic-text">而入來到竹軒下與那医作揖分賓主坐定那醫曰官</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f41-l-c05">
+              <seg type="diplomatic-text">人舟涸遣悶詩酒滿山小醫無緣不能早遇余曰景少</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f41-l-c06">
+              <seg type="diplomatic-text">情多難為酬答況獨伴無聊偶在山僧聞得先生抱學</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f41-l-c07">
+              <seg type="diplomatic-text">深藏拙亦粗知醫理不辭造次自來投謁正欲廣見聞</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f41-l-c08">
+              <seg type="diplomatic-text">於未及耳那醫曰某乃村野粗工見識疎淺慚愧虚褒</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f41-l-c08">
+              <label>左頁第1欄「之」下雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">下／遍</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第8欄「甃」及「施黃闖緑」字形待核。 左面：小字「下／遍」續大字「植」。第2欄「妻目」疑「妻子」留查，第4欄「医」依簡形。</ab>
+            <ab type="transcription-issue" n="right:8">
+              <quote>甃</quote>
+              <note type="editorial">第8欄「甃」及「施黃闖緑」字形待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:8">
+              <quote>施黃闖緑</quote>
+              <note type="editorial">第8欄「甃」及「施黃闖緑」字形待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:1">
+              <quote>植</quote>
+              <note type="editorial">小字「下／遍」續大字「植」。第2欄「妻目」疑「妻子」留查，第4欄「医」依簡形。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:2">
+              <quote>妻目</quote>
+              <note type="editorial">小字「下／遍」續大字「植」。第2欄「妻目」疑「妻子」留查，第4欄「医」依簡形。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:4">
+              <quote>医</quote>
+              <note type="editorial">小字「下／遍」續大字「植」。第2欄「妻目」疑「妻子」留查，第4欄「医」依簡形。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="42" facs="#f42" />
+        <div n="42" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f42-r-c01">
+              <seg type="diplomatic-text">乃反開說去說來那醫惟以氣血臟腑相應相乘為辯</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f42-r-c02">
+              <seg type="diplomatic-text">論余以陰陽五行易數醫理道體相關作高尚之談那</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f42-r-c03">
+              <seg type="diplomatic-text">醫亦以彊博為心服余見此醫段段言語雖不出醫學</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f42-r-c04">
+              <seg type="diplomatic-text">一書範圍之外然精熟無以加矣可稱儒醫夕晚那医</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f42-r-c05">
+              <seg type="diplomatic-text">曰某有痼疾已有年來家醫無功遍求朋友相濟亦無</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f42-r-c06">
+              <seg type="diplomatic-text">退減誰知吉人天相幸遇高医願賜神奇使二豎無藏</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f42-r-c07">
+              <seg type="diplomatic-text">身之地千里相逢非偶然也余亦無辭避曰不敢不効</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f42-r-c08">
+              <seg type="diplomatic-text">力以表相知那醫曰某素稟血虚形體瘦薄於前年夏</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f42-r-c08">
+              <label>中縫版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷／脇痛／四二</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f42-l-c01">
+              <seg type="diplomatic-text">初因冒雨而得初發辰左脇下見一小塊痛如錐刺意</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f42-l-c02">
+              <seg type="diplomatic-text">為痰濕投之不効其塊漸大意為脇癰服托裏消毒其</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f42-l-c03">
+              <seg type="diplomatic-text">塊漸消而痛不止至兹已一年餘每遇陰寒則發兩脇</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f42-l-c04">
+              <seg type="diplomatic-text">俱痛更兼脹悶連作嘁聲膻中憹懷當心一片熱如火</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f42-l-c05">
+              <seg type="diplomatic-text">烙口中涎溢唾之不及此辰惟以熱物熨之則少安或</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f42-l-c06">
+              <seg type="diplomatic-text">一日半日又如故但左脇微微似痛似悶無休歇然飲</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f42-l-c07">
+              <seg type="diplomatic-text">食未衰自數月來口雖欲食及下咽更飽悶大便溏泄</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f42-l-c08">
+              <seg type="diplomatic-text">每早晨則瀉一次小便日則赤澁至夜則清利不寐辰</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：第1欄「反」疑「辰」；第3欄「彊」及第4欄「夕晚」待核。 左面：第4欄「嘁聲膻中憹懷」保留候讀。第7欄末「泄」照形。</ab>
+            <ab type="transcription-issue" n="right:1">
+              <quote>反</quote>
+              <note type="editorial">第1欄「反」疑「辰」；第3欄「彊」及第4欄「夕晚」待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:3">
+              <quote>彊</quote>
+              <note type="editorial">第1欄「反」疑「辰」；第3欄「彊」及第4欄「夕晚」待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:4">
+              <quote>夕晚</quote>
+              <note type="editorial">第1欄「反」疑「辰」；第3欄「彊」及第4欄「夕晚」待核。</note>
+            </ab>
+          </div>
+        </div>
+        <pb n="43" facs="#f43" />
+        <div n="43" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f43-r-c01">
+              <seg type="diplomatic-text">則有頻數無度寐辰則盜汗乍酣辰則自汗各背心中</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f43-r-c02">
+              <seg type="diplomatic-text">跳惕如驚然余曰望聞問切缺一不可問症以辨其外</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f43-r-c03">
+              <seg type="diplomatic-text">切脉以知其內則虛寔自不遁情那醫求診余見兩手</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f43-r-c04">
+              <seg type="diplomatic-text">左右寸關皆浮洪無力兩尺甚微右尺更弱余曰忙觀</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f43-r-c05">
+              <seg type="diplomatic-text">體質皮白言語氣短音韻不能接續則先天真陰真陽</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f43-r-c06">
+              <seg type="diplomatic-text">兩虧自可逆觀而真火尤甚經曰五臓皆有相火惟肝</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f43-r-c07">
+              <seg type="diplomatic-text">之火獨甚於他火善則發生惡則為害初得辰左脇有</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f43-r-c08">
+              <seg type="diplomatic-text">塊雖指為痰為濕為癧此有形之疾病名状非此則彼</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f43-r-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　脇痛　四三</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f43-l-c01">
+              <seg type="diplomatic-text">何必深求總不外火衰氣滯或血或痰或津液凝聚而</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f43-l-c02">
+              <seg type="diplomatic-text">然每遇寒冷則發豈非氣虚於表陽不能衛乎胸中懊</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f43-l-c03">
+              <seg type="diplomatic-text">憹熱如火烙作脹作嘈此皆無根之火浮遊中焦經曰</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f43-l-c04">
+              <seg type="diplomatic-text">諸嘔逆上冲皆屬於火是也口中涎溢經曰火會則水</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f43-l-c05">
+              <seg type="diplomatic-text">聚又曰脾虚不能攝涎質以熱物得安則此中寒可知</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f43-l-c06">
+              <seg type="diplomatic-text">又甘溫能除大熱之意同氣相求虛熱已兆口思食而</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f43-l-c07">
+              <seg type="diplomatic-text">腹不飢乃命門火衰不能上蒸脾土故脾失轉輸之用</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f43-l-c08">
+              <seg type="diplomatic-text">譬猶釜底下無火力其何能蒸熟水穀乎故思食而不</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右一「乍酣辰」「各」待覆。右頁二欄首「惕」候「愓」，七欄按脇字形，八欄「癧」待讀。版心不計正文欄。 左面：左頁三、五欄「嘈」「質」候字。末「不」接次幅右首。</ab>
+          </div>
+        </div>
+        <pb n="44" facs="#f44" />
+        <div n="44" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f44-r-c01">
+              <seg type="diplomatic-text">飽大便溏泄由中寒也下焦火衰則小腸不能滲出膀</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f44-r-c02">
+              <seg type="diplomatic-text">胱不能滲入蘭門無主誰其秘別水穀故并歸大腸而</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f44-r-c03">
+              <seg type="diplomatic-text">日下溏泄每早晨則瀉一次經曰北方黑色入通于腎</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f44-r-c04">
+              <seg type="diplomatic-text">開竅於二陰故曰腎為胃關又曰腎為一身鞏固之官</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f44-r-c05">
+              <seg type="diplomatic-text">腎以二陰包一陽其卦屬坎旺於子亥半夜以後則一</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f44-r-c06">
+              <seg type="diplomatic-text">陽生此辰陽不能生坎不能旺故晨瀉小便日則赤澁</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f44-r-c07">
+              <seg type="diplomatic-text">夜則清利乃真陰虚甚日為諸陽用事陰愈赤澁夜</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f44-r-c08">
+              <seg type="diplomatic-text">為諸陰用事陰得陰助故便清然利多乏陰經曰中氣</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f44-r-c08">
+              <label>右頁七欄愈下雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">衰而</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f44-r-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　脇痛　四四</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f44-l-c01">
+              <seg type="diplomatic-text">虛小便變味者以赤白分寒熱非也不寐又頻數經</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f44-l-c02">
+              <seg type="diplomatic-text">曰寐辰則衛行於陰而主靜不寐辰陽不蔵陰不靜而</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f44-l-c03">
+              <seg type="diplomatic-text">愈燥故頻數寐則盜汗乍醒則自汗經曰屬陽虚盜</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f44-l-c04">
+              <seg type="diplomatic-text">汗屬陰虛又曰陽為陰使陰為陽守陰不能守於內而</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f44-l-c05">
+              <seg type="diplomatic-text">盜汗陽不能使於外而自汗心中驚悸乃心腎不交之</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f44-l-c06">
+              <seg type="diplomatic-text">象心藏神腎藏志精為神水之精為志水火不交</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f44-l-c07">
+              <seg type="diplomatic-text">故神志失守而怔忡驚悸且外憑以症內參以脉算來</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f44-l-c08">
+              <seg type="diplomatic-text">無不由真陰真陽兩虧之故為今之計全在本上用力</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f44-l-c08">
+              <label>左頁一欄便下雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">為之</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f44-l-c08">
+              <label>左頁三欄經曰下雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">自汗</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f44-l-c08">
+              <label>左頁六欄志下雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">經曰火之</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右頁八欄「乏」待覆。七欄小字另列。 左面：三處雙行小字各附所在主欄。</ab>
+          </div>
+        </div>
+        <pb n="45" facs="#f45" />
+        <div n="45" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f45-r-c01">
+              <seg type="diplomatic-text">若徒以氣血為事何異隔鞋抓爪那醫嘆曰此辰拙如</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f45-r-c02">
+              <seg type="diplomatic-text">夢中人始能醒悟管中窺天不其大拙在窮僻山巷業</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f45-r-c03">
+              <seg type="diplomatic-text">醫數十年來雖未能窮究書典然已為本方羣醫之右</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f45-r-c04">
+              <seg type="diplomatic-text">今聞賢公辯折病情深指經義一一有憑有據線索井</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f45-r-c05">
+              <seg type="diplomatic-text">然則從來拙之學習聞見己不能在其中矣可愧近之</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f45-r-c06">
+              <seg type="diplomatic-text">及身遠之及人身且不能及況及於人乎然所可疑者</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f45-r-c07">
+              <seg type="diplomatic-text">賢公謂全在本上用力不以氣血為事從來拙之心事</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f45-r-c08">
+              <seg type="diplomatic-text">惟知火陽水陰則水火水火者</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f45-r-c08">
+              <label>右頁八欄水火間小字右行</label>
+              <seg type="diplomatic-text" rend="unknown">亦陰陽陰陽亦氣血也</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f45-r-c08">
+              <label>右頁八欄水火間小字左行</label>
+              <seg type="diplomatic-text" rend="unknown">余笑曰陰陽者虚名也</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f45-r-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　脇痛　四五</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f45-l-c01">
+              <seg type="diplomatic-text">寔體也氣血者乃後天有形之寔水火者乃先天無形</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f45-l-c02">
+              <seg type="diplomatic-text">之虚書曰小病必由氣所傷大病必由水火之為害</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f45-l-c03">
+              <seg type="diplomatic-text">治小病而捨氣血治大病而捨水火直猶緣木求魚刻</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f45-l-c04">
+              <seg type="diplomatic-text">舟求劒故曰治諸病以水火為根以氣血為用又曰充</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f45-l-c05">
+              <seg type="diplomatic-text">足空虚者氣血也化生氣血者水火也凡遇虚損之症</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f45-l-c06">
+              <seg type="diplomatic-text">只當加意本原本原固自能化氣血書曰氣血更有氣</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f45-l-c07">
+              <seg type="diplomatic-text">血之根陰陽更有陰陽之所故余之用力全在根所二</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f45-l-c08">
+              <seg type="diplomatic-text">字而已何必區區於氣血哉故曰壯水之主益火之源</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f45-l-c08">
+              <label>左頁二欄氣下雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">血之</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：八欄「則水火」後雙行小字，次回大字「水火者」。四欄「辯折」候「辨析」，五欄「近之」之接次欄。 左面：左四劒隨形，末「源」接後幅。</ab>
+          </div>
+        </div>
+        <pb n="46" facs="#f46" />
+        <div n="46" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f46-r-c01">
+              <seg type="diplomatic-text">從陽引陰為火中補水之妙從陰引陽為水中補火之</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f46-r-c02">
+              <seg type="diplomatic-text">法此皆求本之道也那醫聞這等言語半晌間如愚如</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f46-r-c03">
+              <seg type="diplomatic-text">癡方能醒悟那醫乃將自家藥品求製劑調服余曰拙</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f46-r-c04">
+              <seg type="diplomatic-text">舟中備足何必彼此那醫堅求余曰非我有秘第思草</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f46-r-c05">
+              <seg type="diplomatic-text">木神靈全仗水火烹煉則優劣相宜且拙之炮製或因</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f46-r-c06">
+              <seg type="diplomatic-text">書變或以意成亦猶兵識將將知兵故多寡險易自能</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f46-r-c07">
+              <seg type="diplomatic-text">相濟余命家童就舟中取藥箱來調製以顯無私藥箱</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f46-r-c08">
+              <seg type="diplomatic-text">至余製八味丸〔省錄〕</seg>
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f46-r-c08" />
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f46-r-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　脇痛　四六</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f46-l-c01">
+              <seg type="diplomatic-text">〔省錄〕許服那醫一見藥品精細讚不絶口曰寧之</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f46-l-c02">
+              <seg type="diplomatic-text">既精用之又審非潦草可比辰日將西沉余作別而去</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f46-l-c03">
+              <seg type="diplomatic-text">得數日來早晨聞岸上喚聲余推窗看辰已見那醫立</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f46-l-c04">
+              <seg type="diplomatic-text">於溪邊余不要行那醫堅立苦求余知此病已得好了</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f46-l-c05">
+              <seg type="diplomatic-text">余乃携童偕往至那醫家辰已見家中怱陳酒殽盛饌</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f46-l-c06">
+              <seg type="diplomatic-text">那医笑曰前者賢公偶來失於久備今特具山殽野味</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f46-l-c07">
+              <seg type="diplomatic-text">聊寓微誠余曰交不深而曉深是何道理那醫曰天以</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f46-l-c08">
+              <seg type="diplomatic-text">賢公賜我半載沉痾失於一夕再生之恩無由以報些</seg>
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f46-l-c01" />
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：此面有原文未收錄處，各欄由省錄標記定位。 左面：此面有原文未收錄處，各欄由省錄標記定位。</ab>
+          </div>
+        </div>
+        <pb n="47" facs="#f47" />
+        <div n="47" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f47-r-c01">
+              <seg type="diplomatic-text">小薄物何足介情余曰從服賤藥以來病勢差減如何</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f47-r-c02">
+              <seg type="diplomatic-text">那醫笑曰痛已失了轉側持重已無微碍了食已進了</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f47-r-c03">
+              <seg type="diplomatic-text">晨瀉已止了惟大小便與汗始能減去少了然氣力稍</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f47-r-c04">
+              <seg type="diplomatic-text">加於前似為多勝余曰久旱逢霖雨未能速潤枯槁之</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f47-r-c05">
+              <seg type="diplomatic-text">故余乃命製前方作丸以歸脾湯送下余曰依此調接</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f47-r-c06">
+              <seg type="diplomatic-text">數月間不特去病精神更倍於少辰耳那醫自是無日</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f47-r-c07">
+              <seg type="diplomatic-text">不供備殽饌身來相邀或在鐘樓或巖前石伴暢飲閒</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f47-r-c08">
+              <seg type="diplomatic-text">談余不來辰則又携至舟中暢談愈加親至忽望潮勢</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f47-r-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　脇痛　四七</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f47-l-c01">
+              <seg type="diplomatic-text">満疆余來與那醫作別進京那醫以清參上肉桂</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f47-l-c02">
+              <seg type="diplomatic-text">餞行余曰千里相期何乃如此那醫苦乞笑留余曰人</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f47-l-c03">
+              <seg type="diplomatic-text">參係是方物敢不如命肉桂如金如玉萬乞奉還再三</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f47-l-c04">
+              <seg type="diplomatic-text">始應再命渾家備將酒物棖魚與家人什物満担送至</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f47-l-c05">
+              <seg type="diplomatic-text">余舟中萬萬苦求余不得不受辰潮來甚急舟如箭流</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f47-l-c06">
+              <seg type="diplomatic-text">那醫立石岸上相送惓惓有不捨之意再餞詩一律顏</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f47-l-c07">
+              <seg type="diplomatic-text">浪飄風泛泛行舟已遠而一望怳然　其詩云</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f47-l-c08">
+              <seg type="diplomatic-text">余見此詩清新可</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f47-l-c08">
+              <label>左頁一欄清參下小字</label>
+              <seg type="diplomatic-text" rend="unknown">斤</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f47-l-c08">
+              <label>左頁一欄肉桂下雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">半兩</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f47-l-c08">
+              <label>左頁八欄雙行詩右行</label>
+              <seg type="diplomatic-text" rend="unknown">千里相逢豈偶然膏肓驚走上池仙</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f47-l-c08">
+              <label>左頁八欄雙行詩左行</label>
+              <seg type="diplomatic-text" rend="unknown">千山紅杏難為報想玉顏辰拜遠天</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右頁為前案續，四欄「潤」形略泐，留常規方名與病程；八欄「暢」與位於紙上黑橫線交疊。 左面：左頁一欄「満疆」與四「棖魚」、六欄末「顏」及七欄「怳」待覆。末欄先以小字刻詩二行，詩後回大字「余見此詩清新可」接下幅。</ab>
+          </div>
+        </div>
+        <pb n="48" facs="#f48" />
+        <div n="48" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f48-r-c01">
+              <seg type="diplomatic-text">愛甚得詩家之調恨我晚過象山從余經旬徒嗟余</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f48-r-c02">
+              <seg type="diplomatic-text">反覆吟讀不覺此夜為那醫作夢中之語者數四</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f48-r-c03">
+              <seg type="diplomatic-text">關格案一案余護隨貴舅屯守官進京省里旁邑</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f48-r-c04">
+              <seg type="diplomatic-text">滁州鄉官陳某患關格病已七八年來其症當心間懸</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f48-r-c05">
+              <seg type="diplomatic-text">格如物有所阻腹下雖饑口不能食每飯只一二口稍</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f48-r-c06">
+              <seg type="diplomatic-text">過則復嘔待一二辰晨前食化盡始能再食一二口其</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f48-r-c07">
+              <seg type="diplomatic-text">飲水亦只一小杯以漸下咽則可過則胸瀝瀝作聲如</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f48-r-c08">
+              <seg type="diplomatic-text">腸痛勢不可忍則低頭向下其所飲水水又出而安</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f48-r-c08">
+              <label>右頁一欄嗟下雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">獨酌</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f48-r-c08">
+              <label>右頁三欄里下雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">社名泉井</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f48-r-c08">
+              <label>右頁八欄腸下雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">鳴而</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f48-r-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　關格　四八</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f48-l-c01">
+              <seg type="diplomatic-text">小便閉澁大便先燥後溏彼心友守府官以余相告彼</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f48-l-c02">
+              <seg type="diplomatic-text">因來求治於余原來彼之堂兄堂叔現皆內院良醫自</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f48-l-c03">
+              <seg type="diplomatic-text">家調治既久不效亦已遍求院中諸醫方論亦不應彼</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f48-l-c04">
+              <seg type="diplomatic-text">見余千里遠來炎途可畏必不要行乃使親弟皆</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f48-l-c05">
+              <seg type="diplomatic-text">來并將從前諸醫所許調服不下四五十方方</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f48-l-c06">
+              <seg type="diplomatic-text">之下又詳註服幾劑病或增或減與某医所賜之方一</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f48-l-c07">
+              <seg type="diplomatic-text">一遍述遞來余省蓋彼期於必愈不以難醫為心余遍</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f48-l-c08">
+              <seg type="diplomatic-text">觀諸方無非行氣消痰升提之品倘有補者亦不過四</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f48-l-c08">
+              <label>左頁四欄行下雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">辰當盛夏</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f48-l-c08">
+              <label>左頁五欄來下雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">那人亦習医</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右頁三欄上段白字黑地「關格案」，其後同一欄續「一案」。四欄首地名「滁」待覆；七欄「瀝瀝」待覆。 左面：右至左共八欄，左頁末接次幅「君」。</ab>
+          </div>
+        </div>
+        <pb n="49" facs="#f49" />
+        <div n="49" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f49-r-c01">
+              <seg type="diplomatic-text">君六君補中之類余笑曰非我畏勞不行蓋此症我已</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f49-r-c02">
+              <seg type="diplomatic-text">歷譜了經曰陽不得升曰關陰不得降曰格然此症有</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f49-r-c03">
+              <seg type="diplomatic-text">噎隔翻胃關格各各不同病源迥異今觀之諸醫方一</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f49-r-c04">
+              <seg type="diplomatic-text">槩混治不能分上中下三焦之所因且關無吐出之由</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f49-r-c05">
+              <seg type="diplomatic-text">格無食入之理陰陽之氣不升降耳寔則暫通為補虚</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f49-r-c06">
+              <seg type="diplomatic-text">則暫補為攻然其要氣虚不能運化而生痰血虚不能</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f49-r-c07">
+              <seg type="diplomatic-text">滋潤而生火東垣云治痞隔用行氣藥而不能通者正</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f49-r-c08">
+              <seg type="diplomatic-text">不知有此也故前哲深戒誤用香燥之藥今見前服諸</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f49-r-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　關格　四九</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f49-l-c01">
+              <seg type="diplomatic-text">方純用行氣消痰無非香燥之品則徒有散氣耗血之</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f49-l-c02">
+              <seg type="diplomatic-text">害且氣虚則痰易生蓋脾虚不能運也血虚則火易熾</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f49-l-c03">
+              <seg type="diplomatic-text">此陰虚不能制陽也若徒用行氣雖名治病適足以助</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f49-l-c04">
+              <seg type="diplomatic-text">病王太僕云飲入即出是無水也食入反出無火也無</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f49-l-c05">
+              <seg type="diplomatic-text">水則壯之主無火則益火之源為今之計只當急補命</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f49-l-c06">
+              <seg type="diplomatic-text">火以扶脾母本草云中焦為寒所阻陰陽之氣不升降</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f49-l-c07">
+              <seg type="diplomatic-text">〔省錄〕方能自通蓋命門火衰譬猶釜底無薪下</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f49-l-c08">
+              <seg type="diplomatic-text">無火力其何能蒸腐胃中水穀耶故腹中脹滿安得不</seg>
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f49-l-c07" />
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右頁二欄「歷譜」待覆；三欄「噎隔」按圖，四欄「槩」候「概」。末順接左頁。 左面：此面有原文未收錄處，各欄由省錄標記定位。</ab>
+          </div>
+        </div>
+        <pb n="50" facs="#f50" />
+        <div n="50" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f50-r-c01">
+              <seg type="diplomatic-text">吐醫不知此徒以山查神麴平胃化食益速其禍耳余</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f50-r-c02">
+              <seg type="diplomatic-text">乃製八味丸〔省錄〕</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f50-r-c03">
+              <seg type="diplomatic-text">〔省錄〕至次</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f50-r-c04">
+              <seg type="diplomatic-text">日果見彼家備將辰物來謝曰服盡頭二汁胸膈快然</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f50-r-c05">
+              <seg type="diplomatic-text">飲食無礙小便清利今日方知去死也遠念此再生之</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f50-r-c06">
+              <seg type="diplomatic-text">恩無涯報答敢請尊公辱來敝居以伸一拜余曰余以</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f50-r-c07">
+              <seg type="diplomatic-text">活人為念扶危救困為心倘得有濟乃分內事何敢言</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f50-r-c08">
+              <seg type="diplomatic-text">功不必相擾余堅辭不肯行余又曰我南田在迩不能</seg>
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f50-r-c02" />
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f50-r-c03" />
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f50-r-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　關格　五十</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f50-l-c01">
+              <seg type="diplomatic-text">看護臣公家累世醫我安敢弄斧班門然同道相求敢</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f50-l-c02">
+              <seg type="diplomatic-text">陳管見余乃寫此前方毫釐詳悉許與伊弟使服完十</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f50-l-c03">
+              <seg type="diplomatic-text">劑後再照方作丸〔省錄〕彼見</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f50-l-c04">
+              <seg type="diplomatic-text">我公心無隱愈加嘆奬余登程日又盛將方物餞行余</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f50-l-c05">
+              <seg type="diplomatic-text">因忖曰我退居山僻十載攻醫廢寢忘餐寒溫不捨雖</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f50-l-c06">
+              <seg type="diplomatic-text">有稍得之處亦耻井蛙之見不知其大也及余臨此症</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f50-l-c07">
+              <seg type="diplomatic-text">見羣醫方論皆是御院名医不下十輩而病情藥品鹵</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f50-l-c08">
+              <seg type="diplomatic-text">莽如此不過治頭治脚之見甚為可嘆況其他乎天下</seg>
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f50-l-c03" />
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：此面有原文未收錄處，各欄由省錄標記定位。 左面：此面有原文未收錄處，各欄由省錄標記定位。</ab>
+          </div>
+        </div>
+        <pb n="51" facs="#f51" />
+        <div n="51" type="scan" subtype="case-accounts">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f51-r-c01">
+              <seg type="diplomatic-text">之廣人才之衆意者醫道有難哉抑諸賢不暇研究乎</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f51-r-c02">
+              <seg type="diplomatic-text">余自此難勝快把之懷歸心如箭來到故山辰又謝絶</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f51-r-c03">
+              <seg type="diplomatic-text">松徑閉戶攻書蓋念醫乃司人之命生死存亡在於反</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f51-r-c04">
+              <seg type="diplomatic-text">掌智可不方乎行可不圓乎率以心不大膽不小如此</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f51-r-c05">
+              <seg type="diplomatic-text">等輩可謂醫云乎哉</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f51-r-c06">
+              <seg type="diplomatic-text">產難案一案本國人妻懷孕五月患病其症或寒熱</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f51-r-c07">
+              <seg type="diplomatic-text">或咳嗽或浮腫腹痛胎漏動大小閉重重虚症蜂起不</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f51-r-c08">
+              <seg type="diplomatic-text">可枚舉余見此婦所稟欠厚惟以求本為治彼見日多</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f51-r-c08">
+              <label>右頁六欄人下雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">名連</seg>
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f51-r-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　產難　五一</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f51-l-c01">
+              <seg type="diplomatic-text">效少數更醫然病勢日甚毫無退減月餘轉劇彼又愴</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f51-l-c02">
+              <seg type="diplomatic-text">惶來求診此辰惡症已具余不敢旁離全在本上用</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f51-l-c03">
+              <seg type="diplomatic-text">事如參芪乾姜炙朮為後天之需救水補火補陰補陽</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f51-l-c04">
+              <seg type="diplomatic-text">為先天之用日夜更減補接得五六旬來源本漸固諸</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f51-l-c05">
+              <seg type="diplomatic-text">症悉平忽一日腹痛繼半日胞漿已破胎水來多余深</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f51-l-c06">
+              <seg type="diplomatic-text">戒用力送下及洗嬰於腹上揣摩之弊使服氣血藥聽</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f51-l-c07">
+              <seg type="diplomatic-text">其自然又一日夜雖痛而不密胎元寂然無動產母勞</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f51-l-c08">
+              <seg type="diplomatic-text">倦氣乏昏迷彼家惑於愚見以為死胎求余攻下速救</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f51-l-c08">
+              <label>左頁二欄旁下雙行小字</label>
+              <seg type="diplomatic-text" rend="unknown">顧支</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：右頁六欄白字黑地「產難案」。七欄兩個「重」字左各見小墨塊，字形仍可辨。二欄「快把」候「快抱」。 左面：左頁三欄「朮」形待覆，六欄「揣摩」首字待覆。末「救」接次幅首。</ab>
+          </div>
+        </div>
+        <pb n="52" facs="#f52" />
+        <div n="52" type="scan" subtype="volume-ending">
+          <div type="page-face" n="right">
+            <ab type="column" n="1" xml:id="f52-r-c01">
+              <seg type="diplomatic-text">母命余馳看辰只見唇口舌如故六脉浮洪有力惟頻</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f52-r-c02">
+              <seg type="diplomatic-text">頻噯氣冷然余忖曰大病後元氣虚甚未有母氣血已</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f52-r-c03">
+              <seg type="diplomatic-text">虚而胎元獨盛且此辰如陸地行舟只當峻補氣血以</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f52-r-c04">
+              <seg type="diplomatic-text">為决堤之水然補氣血乃後天之資焉能速生莫如急</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f52-r-c05">
+              <seg type="diplomatic-text">求氣血之根方為得策余乃以八味丸〔省錄〕</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f52-r-c06">
+              <seg type="diplomatic-text">〔省錄〕果覆杯而產下一孩兒這案余以</seg>
+            </ab>
+            <ab type="column" n="7" xml:id="f52-r-c07">
+              <seg type="diplomatic-text">水火藥為催生之用使母子精神接續運行得力不催</seg>
+            </ab>
+            <ab type="column" n="8" xml:id="f52-r-c08">
+              <seg type="diplomatic-text">而催不事温經開痰而道路疎通誠法外之一也倘心</seg>
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f52-r-c05" />
+            </ab>
+            <ab type="transcription-scope">
+              <gap reason="editorial-exclusion" unit="segment" corresp="#f52-r-c06" />
+            </ab>
+            <ab type="page-feature" subtype="running-title" corresp="#f52-r-c08">
+              <label>版心</label>
+              <seg type="diplomatic-text" rend="unknown">陽案卷　產難　五二</seg>
+            </ab>
+          </div>
+          <div type="page-face" n="left">
+            <ab type="column" n="1" xml:id="f52-l-c01">
+              <seg type="diplomatic-text">不大膽不小執持不定惑於羣口而能兩命保全其已</seg>
+            </ab>
+            <ab type="column" n="2" xml:id="f52-l-c02">
+              <seg type="diplomatic-text">難矣醫為司命可不謹哉</seg>
+            </ab>
+            <ab type="column" n="3" xml:id="f52-l-c03">
+              <seg type="diplomatic-text">武江縣統善社正隊長阮厥五貫　舊副里陳文智供</seg>
+            </ab>
+            <ab type="column" n="4" xml:id="f52-l-c04">
+              <seg type="diplomatic-text">叁貫　舊副里阮文勺弐貫舊副里阮文頴壹貫首副</seg>
+            </ab>
+            <ab type="column" n="5" xml:id="f52-l-c05">
+              <seg type="diplomatic-text">里阮文仝壹貫裴文良弐貫文首弐貫車壹貫弐陌</seg>
+            </ab>
+            <ab type="column" n="6" xml:id="f52-l-c06">
+              <seg type="diplomatic-text">盛壹貫　同輟社阮登豪弐貫</seg>
+            </ab>
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f52-l-c06">
+              <label>左頁二欄下白字黑地卷尾題</label>
+              <seg type="diplomatic-text" rend="unknown">醫陽案卷終</seg>
+            </ab>
+          </div>
+          <div type="editorial-observations">
+            <ab type="layout">右面：此面有原文未收錄處，各欄由省錄標記定位。 左面：左頁正文至二欄上「可不謹哉」，同欄下黑地卷尾題，三至六欄為捐助名款，末兩欄空。地名「武江」「統善社」「同輟社」與人名「阮厥」「阮文勺」「阮文頴」按圖候讀，未據現代地名換字。</ab>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
