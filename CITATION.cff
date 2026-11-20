@@ -3,7 +3,7 @@ message: If you use this dataset, please cite this version and the source copy.
 title: '海上醫宗心領卷六十一・醫陽案（1885 年北寧刊本，越南國家圖書館 R.1169） / Hải Thượng y tông tâm lĩnh, quyển
   61: Y dương án [Case records of favorable outcomes]: Transcription Dataset'
 type: dataset
-version: 0.1.0
+version: 0.2.0
 authors:
 - family-names: Chu
   given-names: Chen-Yu

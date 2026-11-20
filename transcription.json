@@ -18,11 +18,132 @@
     "manifest_url": null,
     "manifest_sha256": null,
     "record_id": "NLV1169V61",
-    "edition": "0.1.0",
+    "edition": "0.2.0",
     "catalogue_main_scope": "Print volume 61, openings 1–52 only",
-    "version": "0.1.0",
+    "case_index": [
+      {
+        "image": 2,
+        "side": "right",
+        "column": 6,
+        "heading_in_text": "消渴案",
+        "heading_in_table_of_contents": "消渴案"
+      },
+      {
+        "image": 6,
+        "side": "right",
+        "column": 2,
+        "heading_in_text": "陰虛頭痛案",
+        "heading_in_table_of_contents": "陰虛頭痛案"
+      },
+      {
+        "image": 10,
+        "side": "right",
+        "column": 5,
+        "heading_in_text": "妊娠霍亂案",
+        "heading_in_table_of_contents": "妊娠霍亂案"
+      },
+      {
+        "image": 12,
+        "side": "right",
+        "column": 3,
+        "heading_in_text": "外感挾內傷案",
+        "heading_in_table_of_contents": "外感挾內傷案"
+      },
+      {
+        "image": 15,
+        "side": "right",
+        "column": 4,
+        "heading_in_text": "非風卒倒案",
+        "heading_in_table_of_contents": "非風卒倒案"
+      },
+      {
+        "image": 18,
+        "side": "right",
+        "column": 5,
+        "heading_in_text": "寡婦鬱病案",
+        "heading_in_table_of_contents": "寡婦鬱病案"
+      },
+      {
+        "image": 20,
+        "side": "left",
+        "column": 5,
+        "heading_in_text": "陰虚單熱案",
+        "heading_in_table_of_contents": "陰虛單熱案"
+      },
+      {
+        "image": 23,
+        "side": "right",
+        "column": 8,
+        "heading_in_text": "血熱毒盛氣虚痘險案",
+        "heading_in_table_of_contents": "血熱毒盛氣虛症險案"
+      },
+      {
+        "image": 28,
+        "side": "right",
+        "column": 7,
+        "heading_in_text": "真熱假寒案",
+        "heading_in_table_of_contents": "真熱假寒案"
+      },
+      {
+        "image": 29,
+        "side": "left",
+        "column": 6,
+        "heading_in_text": "感冒胎動案",
+        "heading_in_table_of_contents": "感冒胎動案"
+      },
+      {
+        "image": 31,
+        "side": "right",
+        "column": 6,
+        "heading_in_text": "亡陰潰汗案",
+        "heading_in_table_of_contents": "亡陰遺汗案"
+      },
+      {
+        "image": 34,
+        "side": "right",
+        "column": 1,
+        "heading_in_text": "小兒咳嗽案",
+        "heading_in_table_of_contents": "小兒咳嗽案"
+      },
+      {
+        "image": 36,
+        "side": "left",
+        "column": 2,
+        "heading_in_text": "小兒單熱案",
+        "heading_in_table_of_contents": "小兒單熱案"
+      },
+      {
+        "image": 38,
+        "side": "right",
+        "column": 2,
+        "heading_in_text": "後產假塊案",
+        "heading_in_table_of_contents": "產後假塊案"
+      },
+      {
+        "image": 40,
+        "side": "left",
+        "column": 2,
+        "heading_in_text": "脇痛脹悶案",
+        "heading_in_table_of_contents": "脇痛脹悶案"
+      },
+      {
+        "image": 48,
+        "side": "right",
+        "column": 3,
+        "heading_in_text": "關格案",
+        "heading_in_table_of_contents": "關格案"
+      },
+      {
+        "image": 51,
+        "side": "right",
+        "column": 6,
+        "heading_in_text": "產難案",
+        "heading_in_table_of_contents": "產難案"
+      }
+    ],
+    "version": "0.2.0",
     "dataset_title": "海上醫宗心領卷六十一・醫陽案（1885 年北寧刊本，越南國家圖書館 R.1169） / Hải Thượng y tông tâm lĩnh, quyển 61: Y dương án [Case records of favorable outcomes]: Transcription Dataset",
-    "review_status": "initial-transcription",
+    "review_status": "targeted-image-adjudication",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -47,7 +168,7 @@
       "height": 1741,
       "page_html_sha256": "ebfc008a806e2a5119f5b3d55c92cd52ed92a6dd40a51946514c287e678d0ee1",
       "content_role": "opening-preface-and-case-list",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -82,21 +203,21 @@
               "type": "seal",
               "location": "朱印",
               "text": "THƯ VIỆN QUỐC GIA",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "red"
             },
             {
               "type": "copy-annotation",
               "location": "後書館號",
               "text": "R.1169",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "copy-annotation",
               "location": "後書卷次",
               "text": "五十九",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -134,7 +255,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "陽案卷　小引　一",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -161,7 +282,7 @@
       "height": 1741,
       "page_html_sha256": "fa710fb6e97309cc45c64a1341bc259ec87cac7676389f85ff5260d63e01fe19",
       "content_role": "opening-preface-and-case-list",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -196,7 +317,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "陽案卷　目次　二",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -261,7 +382,7 @@
       "height": 1741,
       "page_html_sha256": "18fbe8ca48e6cee4e49935813f53965c134b18718a38398313e09ed8742e47d6",
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -296,7 +417,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "陽案卷　消渴　三",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -389,7 +510,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "陽案卷　消渴　四",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -427,28 +548,28 @@
               "type": "printed-small-text",
               "location": "左2欄白朮下小註",
               "text": "一両",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左2欄黑姜下小註",
               "text": "二〢",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左2欄炙草下小註",
               "text": "三〢",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左2欄五味下小註",
               "text": "五分",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -499,7 +620,7 @@
       "height": 1741,
       "page_html_sha256": "994611e509b23635b9a6163bc777c34dc28287b0879e72a9225ae3fcf32b7b02",
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -534,7 +655,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "陽案卷　一消渴　五",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -606,7 +727,7 @@
       "height": 1741,
       "page_html_sha256": "8a855a8873360e2e2a760c1bfc01fde3f281ebae25e45aedac19c544c9a88d9d",
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -641,7 +762,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "陽案卷　頭痛　六",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -706,7 +827,7 @@
       "height": 1741,
       "page_html_sha256": "7502d48237caaa5e3b5ab23adbb9734c1e8d0f957151e78298966af50a87d597",
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -741,7 +862,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "陽案卷　頭痛　七",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -779,7 +900,7 @@
               "type": "printed-small-text",
               "location": "左8欄與下小字",
               "text": "老夫",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -842,7 +963,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "陽案卷　頭痛　八",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -980,7 +1101,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "陽案卷　頭痛　九",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1068,7 +1189,7 @@
       "height": 1741,
       "page_html_sha256": "adb3b6384d604e200aff8346f4a413d4c66ed8ad7630ddc8e3abdefc21144996",
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -1077,7 +1198,7 @@
               "text": "以應藥箱之需我來山半担煙霞詩滿囊酒滿壺不為"
             },
             {
-              "text": "欠乏這欵全伏老師餘波一醉足矣何必貪求然老師"
+              "text": "久乏這欵全伏老師餘波一醉足矣何必貪求然老師"
             },
             {
               "text": "苦拒不取余不得已量分甲乙而歸　其湯　用養榮去"
@@ -1103,14 +1224,14 @@
               "type": "printed-small-text",
               "location": "右5欄味下小註",
               "text": "大抵醫貴通變藥不執方所謂當犯而犯似乎無犯",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "running-title",
               "location": "版心",
               "text": "陽案卷　霍亂　十",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1153,6 +1274,16 @@
           "context": "",
           "candidates": [],
           "note": "第2欄欵暫讀，第6欄人名待核。"
+        },
+        {
+          "side": "right",
+          "column": 2,
+          "context": "伏",
+          "candidates": [
+            "伏",
+            "仗"
+          ],
+          "note": "形旁未宜另定。"
         }
       ],
       "observations": "右面：第2欄欵暫讀，第6欄人名待核。"
@@ -1211,7 +1342,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "陽案卷　霍亂　十一",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1334,7 +1465,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "陽案卷　外感　十二",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1372,7 +1503,7 @@
               "type": "printed-small-text",
               "location": "左4欄倘下小字",
               "text": "以有",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1408,7 +1539,7 @@
       "height": 1752,
       "page_html_sha256": "2af7aa4c68086f0a856f1eb0613cc01136187177300c0d0574393a7f321a46f8",
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1443,7 +1574,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "陽案卷　外感　十三",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1481,14 +1612,14 @@
               "type": "printed-small-text",
               "location": "左5欄以後小字",
               "text": "養陽",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左8欄熱後小字",
               "text": "藥惡",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1523,7 +1654,7 @@
       "height": 1741,
       "page_html_sha256": "74843459e12d10235ced32cf55f96f8fbf8e3953b2ebb59a1b81abf0847a7308",
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1558,14 +1689,14 @@
               "type": "printed-small-text",
               "location": "右2欄官後小字",
               "text": "乃大族侄亦知醫術",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "running-title",
               "location": "版心",
               "text": "陽案卷　外感　十四",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1622,7 +1753,7 @@
       "height": 1741,
       "page_html_sha256": "ba743cb9535c1357eb7e26abd1872676ebc9d85968ea34b510d1b534290ba0f2",
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1657,7 +1788,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "陽案卷　非風　十五",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1695,7 +1826,7 @@
               "type": "printed-small-text",
               "location": "左3欄視後小字",
               "text": "林醫本調護官軍甚足敬重",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1730,7 +1861,7 @@
       "height": 1741,
       "page_html_sha256": "a38611edbd5ca95d601976855590391572fb32d1e9077e1a9f3d6023fb15075f",
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -1765,14 +1896,14 @@
               "type": "printed-small-text",
               "location": "右4欄病下小字",
               "text": "而為",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "running-title",
               "location": "版心",
               "text": "陽案卷　非風　十六",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1865,21 +1996,21 @@
               "type": "seal",
               "location": "右頁朱印",
               "text": "THƯ VIỆN QUỐC GIA",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "red"
             },
             {
               "type": "printed-small-text",
               "location": "右頁後書館號",
               "text": "R.1169",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "running-title",
               "location": "版心",
               "text": "陽案卷　非風　十七",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1917,7 +2048,7 @@
               "type": "printed-small-text",
               "location": "左7欄諸下小字",
               "text": "症全",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -1967,7 +2098,7 @@
       "height": 1741,
       "page_html_sha256": "b28d6d5afde0bb68630f77752cd837d94776150a2e7a47288dd63c0bb9c80931",
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2002,21 +2133,21 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "陽案卷　鬱病　十八",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第4欄末雙行小字",
               "text": "不牢固也",
-              "column_anchor": 8,
+              "column_anchor": 4,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第5欄「人」後雙行小字",
               "text": "各丁",
-              "column_anchor": 8,
+              "column_anchor": 5,
               "color": "unknown"
             }
           ]
@@ -2073,7 +2204,7 @@
       "height": 1741,
       "page_html_sha256": "396e93bdc918346d25e78b51ce898555359518444f060770f92fdd125b1e5b56",
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2108,14 +2239,14 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "陽案卷　鬱病　十九",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第2欄「虧」下雙行小字",
               "text": "經旨曰",
-              "column_anchor": 8,
+              "column_anchor": 2,
               "color": "unknown"
             }
           ]
@@ -2172,7 +2303,7 @@
       "height": 1741,
       "page_html_sha256": "b5854f0bf957041510d95f3e8c586ad177971efaa25c324cdf71d46b1ec68056",
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -2207,7 +2338,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "陽案卷　鬱病　二十",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2245,20 +2376,30 @@
               "type": "printed-small-text",
               "location": "左頁第5欄「人」後雙行小字",
               "text": "名圓",
-              "column_anchor": 8,
+              "column_anchor": 5,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第6欄「那」後雙行小字",
               "text": "居所",
-              "column_anchor": 8,
+              "column_anchor": 6,
               "color": "unknown"
             }
           ]
         }
       ],
-      "issues": [],
+      "issues": [
+        {
+          "side": "left",
+          "column": 5,
+          "context": "名圓",
+          "candidates": [
+            "名圓"
+          ],
+          "note": "雙行小字為個案姓名欄，第二字暫讀圓。"
+        }
+      ],
       "observations": "右面：第3欄「欲」候「欲／欵」。第6欄「數」與後字邊緣有印痕。 左面：第5欄前五字墨框反白為案題；「祿禱」候「祈禱」。第8欄重量字形候「匁」。"
     },
     {
@@ -2279,7 +2420,7 @@
       "height": 1741,
       "page_html_sha256": "4061421d029af79345715cde7f6ead67189ab3a5e33243d9535f2223f34f0910",
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2314,7 +2455,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "陽案卷　單熱　二一",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2407,14 +2548,14 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "陽案卷　單熱　二二",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第3欄「乃」後偏右小字",
               "text": "醫",
-              "column_anchor": 8,
+              "column_anchor": 3,
               "color": "unknown"
             }
           ]
@@ -2452,7 +2593,7 @@
               "type": "printed-small-text",
               "location": "左頁第7欄「脫」後雙行小字",
               "text": "如蟬",
-              "column_anchor": 8,
+              "column_anchor": 7,
               "color": "unknown"
             }
           ]
@@ -2495,7 +2636,7 @@
       "height": 1741,
       "page_html_sha256": "f9a4ce6789dec1a7c4ee99cc1ddf01ded1b579ddb40d62e4c123a6eda1560145",
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2530,14 +2671,14 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "陽案卷　痘險　二三",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第4欄「幾」後雙行小字",
               "text": "猶而",
-              "column_anchor": 8,
+              "column_anchor": 4,
               "color": "unknown"
             }
           ]
@@ -2575,14 +2716,14 @@
               "type": "printed-small-text",
               "location": "左頁第1欄「人」後雙行小字",
               "text": "名屬",
-              "column_anchor": 8,
+              "column_anchor": 1,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第4欄「彼」後雙行小字",
               "text": "形体",
-              "column_anchor": 8,
+              "column_anchor": 4,
               "color": "unknown"
             }
           ]
@@ -2609,7 +2750,7 @@
       "height": 1741,
       "page_html_sha256": "0c22838d49bc72793b21786ae3e0a76939a531172266ea3df7f44fdbcd5089c8",
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2644,14 +2785,14 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "陽案卷　險痘　二四",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "copy-annotation",
               "location": "右頁第3欄「於」後雙行小字",
               "text": "皮裏",
-              "column_anchor": 8,
+              "column_anchor": 3,
               "color": "unknown"
             }
           ]
@@ -2708,7 +2849,7 @@
       "height": 1741,
       "page_html_sha256": "07bf0cd172fd96db773cd36fae4e27868670b6136d2c2269122406a21cd984e0",
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2743,7 +2884,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "陽案卷　險痘　二五",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2800,7 +2941,7 @@
       "height": 1741,
       "page_html_sha256": "2b7e8fb407b80b1cf0fe1e092ee04c654cfe08450b8d75c8815b020270a02214",
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2835,7 +2976,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "陽案卷　痘症　二六",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2892,7 +3033,7 @@
       "height": 1741,
       "page_html_sha256": "8cbc1970c743874fd33925151af3b272353d910e3c2140682cc0da331f8c85ca",
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -2927,7 +3068,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "陽案卷　痘症　二七",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -2965,14 +3106,14 @@
               "type": "printed-small-text",
               "location": "左頁第5欄「孤」後雙行小字",
               "text": "陽之",
-              "column_anchor": 8,
+              "column_anchor": 5,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第7欄「宛」後雙行小字",
               "text": "然如",
-              "column_anchor": 8,
+              "column_anchor": 7,
               "color": "unknown"
             }
           ]
@@ -3035,21 +3176,21 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "陽案卷　痘症　二八",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第6欄末雙行小字",
               "text": "誠可信於此歟",
-              "column_anchor": 8,
+              "column_anchor": 6,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第7欄「老」後雙行小字",
               "text": "名墓",
-              "column_anchor": 8,
+              "column_anchor": 7,
               "color": "unknown"
             }
           ]
@@ -3136,7 +3277,7 @@
       "height": 1741,
       "page_html_sha256": "62ef01560ed0995118e492ab6d4edf102e73c0669430f09759f0ad02319c2788",
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3171,7 +3312,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "陽案卷　真熱　二九",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3209,7 +3350,7 @@
               "type": "printed-small-text",
               "location": "左頁第6欄「人」後雙行小字",
               "text": "名著",
-              "column_anchor": 8,
+              "column_anchor": 6,
               "color": "unknown"
             },
             {
@@ -3243,7 +3384,7 @@
       "height": 1741,
       "page_html_sha256": "0eda5bdc403d72c01f13178709d3c36d36c59c4a11cb35fbc96e2cfaf4433725",
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3278,7 +3419,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "陽案卷　感冒　三十",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3316,14 +3457,14 @@
               "type": "printed-small-text",
               "location": "左頁第3欄「則」後雙行小字",
               "text": "天癸",
-              "column_anchor": 8,
+              "column_anchor": 3,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第5欄「懸」後雙行小字",
               "text": "錘在",
-              "column_anchor": 8,
+              "column_anchor": 5,
               "color": "unknown"
             }
           ]
@@ -3350,7 +3491,7 @@
       "height": 1741,
       "page_html_sha256": "6c257a3c51438de0149cf08c533c16d943fb81c2639d3bf4b5b1b5f6518868ed",
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -3385,21 +3526,21 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "陽案卷　亡陰　三一",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第1欄末「栢」後雙行小字",
               "text": "以暫",
-              "column_anchor": 8,
+              "column_anchor": 1,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第7欄「人」後雙行小字",
               "text": "名岑",
-              "column_anchor": 8,
+              "column_anchor": 7,
               "color": "unknown"
             }
           ]
@@ -3492,7 +3633,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "陽案卷　亡陰　三二",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3530,14 +3671,14 @@
               "type": "printed-small-text",
               "location": "左頁第5欄「熟地」後雙行小字",
               "text": "六刄",
-              "column_anchor": 8,
+              "column_anchor": 5,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁第5欄「布參」後雙行小字",
               "text": "二刄",
-              "column_anchor": 8,
+              "column_anchor": 5,
               "color": "unknown"
             }
           ]
@@ -3616,14 +3757,14 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "陽案卷　亡陰　三三",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第2欄「余」後雙行小字",
               "text": "以汗潰似",
-              "column_anchor": 8,
+              "column_anchor": 2,
               "color": "unknown"
             }
           ]
@@ -3725,14 +3866,14 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "陽案卷　咳嗽　三四",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁第1欄「人」後雙行小字",
               "text": "名日",
-              "column_anchor": 8,
+              "column_anchor": 1,
               "color": "unknown"
             }
           ]
@@ -3770,7 +3911,7 @@
               "type": "printed-small-text",
               "location": "左頁第7欄「内」後雙行小字",
               "text": "虚生",
-              "column_anchor": 8,
+              "column_anchor": 7,
               "color": "unknown"
             },
             {
@@ -3849,7 +3990,7 @@
               "type": "running-title",
               "location": "右頁版心",
               "text": "陽案卷　咳嗽　三五",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -3929,7 +4070,7 @@
       "height": 1741,
       "page_html_sha256": "39a282306b852ba34e0e7748fc628b9993431c93d4f8e8c1c0bc42d654cdb437",
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -3964,7 +4105,7 @@
               "type": "printed-small-text",
               "location": "右頁第2欄「旺」下雙行小字",
               "text": "天癸／也",
-              "column_anchor": 8,
+              "column_anchor": 2,
               "color": "unknown",
               "lines": [
                 "天癸",
@@ -3975,7 +4116,7 @@
               "type": "running-title",
               "location": "中縫版心",
               "text": "陽案卷／單熱／三六",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "陽案卷",
@@ -4052,7 +4193,7 @@
       "height": 1741,
       "page_html_sha256": "b6f67cc4892127bd26f8df750b93c41c6ef483efa30c8e73631bfb7a2dccf629",
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -4087,7 +4228,7 @@
               "type": "running-title",
               "location": "中縫版心",
               "text": "陽案卷／單熱／三七",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "陽案卷",
@@ -4157,7 +4298,7 @@
       "height": 1741,
       "page_html_sha256": "fecc764a255b1e81c78499b872e6c87b81648c97759e922b961217e1b7526b34",
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -4192,7 +4333,7 @@
               "type": "printed-small-text",
               "location": "右頁第3欄「婦」下雙行小字",
               "text": "名／卑",
-              "column_anchor": 8,
+              "column_anchor": 3,
               "color": "unknown",
               "lines": [
                 "名",
@@ -4203,7 +4344,7 @@
               "type": "running-title",
               "location": "中縫版心",
               "text": "陽案卷／假塊／三八",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "陽案卷",
@@ -4223,7 +4364,7 @@
               "text": "材往來情義甚厚聞得有急乃不吝雨夜來救及余至"
             },
             {
-              "text": "反舉家甚愴惶診見六脈浮沉微乃產後正脈"
+              "text": "辰舉家甚愴惶診見六脈浮沉微乃產後正脈"
             },
             {
               "text": "今反浮緩則真陰虧極精血衰少耳伊婦素稟陰虚形"
@@ -4245,12 +4386,12 @@
             {
               "type": "printed-small-text",
               "location": "左頁第3欄「浮」下雙行小字",
-              "text": "緩無力／余時曰",
-              "column_anchor": 8,
+              "text": "緩無力／余忖曰",
+              "column_anchor": 3,
               "color": "unknown",
               "lines": [
                 "緩無力",
-                "余時曰"
+                "余忖曰"
               ]
             }
           ]
@@ -4284,6 +4425,17 @@
           "context": "產反",
           "candidates": [],
           "note": "第3欄「浮／沉微」中插兩行小字，第4欄「今反浮緩」續大欄。第5欄「產反」原圖疑另讀。"
+        },
+        {
+          "side": "left",
+          "column": 2,
+          "context": "吝",
+          "candidates": [
+            "吝",
+            "舍",
+            "舎"
+          ],
+          "note": "上筆人形與欄上界墨跡相連。"
         }
       ],
       "observations": "右面：第二欄近末黑底白字為案名。首欄「陰熱」候「陰虚」；第5欄「瀝」待核。 左面：第3欄「浮／沉微」中插兩行小字，第4欄「今反浮緩」續大欄。第5欄「產反」原圖疑另讀。"
@@ -4342,7 +4494,7 @@
               "type": "running-title",
               "location": "中縫版心",
               "text": "陽案卷／假塊／三九",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "陽案卷",
@@ -4449,7 +4601,7 @@
       "height": 1741,
       "page_html_sha256": "79bf8c6cffb0690e1684f06edcd222e27157240a123c102471f089e46dec15b4",
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -4484,7 +4636,7 @@
               "type": "running-title",
               "location": "中縫版心",
               "text": "陽案卷／脇痛／四十",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "陽案卷",
@@ -4527,7 +4679,7 @@
               "type": "printed-small-text",
               "location": "左頁第1欄「損」下雙行小字",
               "text": "虚實之間誠醫／之巧耳",
-              "column_anchor": 8,
+              "column_anchor": 1,
               "color": "unknown",
               "lines": [
                 "虚實之間誠醫",
@@ -4551,6 +4703,15 @@
           "context": "清",
           "candidates": [],
           "note": "第2欄起黑底白字為案名。該欄「炎燎」與第7欄「清」疑字留讀。"
+        },
+        {
+          "side": "left",
+          "column": 2,
+          "context": "炎燎",
+          "candidates": [
+            "炎燎"
+          ],
+          "note": "刊刻墨跡需再分辨火旁。"
         }
       ],
       "observations": "右面：第6欄為比較藥名，未敘配製。第7欄「壤」擬「壞」，「戴」候「哉」。 左面：第2欄起黑底白字為案名。該欄「炎燎」與第7欄「清」疑字留讀。"
@@ -4573,7 +4734,7 @@
       "height": 1741,
       "page_html_sha256": "61092a26e3d8ab6de4d43ce0e8e40296ee331e4f3ad341f5c4260461cfaf9d78",
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -4608,7 +4769,7 @@
               "type": "running-title",
               "location": "中縫版心",
               "text": "陽案卷／脇痛／四一",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "陽案卷",
@@ -4651,7 +4812,7 @@
               "type": "printed-small-text",
               "location": "左頁第1欄「之」下雙行小字",
               "text": "下／遍",
-              "column_anchor": 8,
+              "column_anchor": 1,
               "color": "unknown",
               "lines": [
                 "下",
@@ -4718,7 +4879,7 @@
       "height": 1741,
       "page_html_sha256": "6c274f82afcbb27f48cb2a8387134b737d9a7d5d32aefef6320495b725f1ad32",
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
@@ -4753,7 +4914,7 @@
               "type": "running-title",
               "location": "中縫版心",
               "text": "陽案卷／脇痛／四二",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown",
               "lines": [
                 "陽案卷",
@@ -4815,6 +4976,16 @@
           "context": "夕晚",
           "candidates": [],
           "note": "第1欄「反」疑「辰」；第3欄「彊」及第4欄「夕晚」待核。"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "嘁聲",
+          "candidates": [
+            "嘁聲",
+            "噦聲"
+          ],
+          "note": "右部似戚或歲，兩候均留。"
         }
       ],
       "observations": "右面：第1欄「反」疑「辰」；第3欄「彊」及第4欄「夕晚」待核。 左面：第4欄「嘁聲膻中憹懷」保留候讀。第7欄末「泄」照形。"
@@ -4837,13 +5008,13 @@
       "height": 1741,
       "page_html_sha256": "d116a5a9a7ceb5b43e4c621fd35559f6f725ae121b35252e5a3c5ac4f6aa4258",
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared-with-targeted-source-review",
       "sides": [
         {
           "side": "right",
           "columns": [
             {
-              "text": "則有頻數無度寐辰則盜汗乍酣辰則自汗各背心中"
+              "text": "則有頻數無度寐辰則盜汗乍酣辰則自汗合背心中"
             },
             {
               "text": "跳惕如驚然余曰望聞問切缺一不可問症以辨其外"
@@ -4872,7 +5043,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "陽案卷　脇痛　四三",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -4929,7 +5100,7 @@
       "height": 1741,
       "page_html_sha256": "00e42ad781860211d97d052e62d5f8847e57dd593c631c331f6f0de96dda6826",
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -4964,14 +5135,14 @@
               "type": "printed-small-text",
               "location": "右頁七欄愈下雙行小字",
               "text": "衰而",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "running-title",
               "location": "版心",
               "text": "陽案卷　脇痛　四四",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -5009,21 +5180,21 @@
               "type": "printed-small-text",
               "location": "左頁一欄便下雙行小字",
               "text": "為之",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁三欄經曰下雙行小字",
               "text": "自汗",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁六欄志下雙行小字",
               "text": "經曰火之",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -5050,7 +5221,7 @@
       "height": 1741,
       "page_html_sha256": "4dd0694ced5fc9f92b8553fd614702a8be8295a4499b97718a847b07fc0814d4",
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -5085,21 +5256,21 @@
               "type": "printed-small-text",
               "location": "右頁八欄水火間小字右行",
               "text": "亦陰陽陰陽亦氣血也",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁八欄水火間小字左行",
               "text": "余笑曰陰陽者虚名也",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "running-title",
               "location": "版心",
               "text": "陽案卷　脇痛　四五",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -5137,7 +5308,7 @@
               "type": "printed-small-text",
               "location": "左頁二欄氣下雙行小字",
               "text": "血之",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -5200,7 +5371,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "陽案卷　脇痛　四六",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -5273,7 +5444,7 @@
       "height": 1741,
       "page_html_sha256": "347b6b95ffed50858bf862bbe28cdd51ef32362ddff9776b201195eec7eb3dc7",
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -5308,7 +5479,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "陽案卷　脇痛　四七",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -5346,28 +5517,28 @@
               "type": "printed-small-text",
               "location": "左頁一欄清參下小字",
               "text": "斤",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁一欄肉桂下雙行小字",
               "text": "半兩",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁八欄雙行詩右行",
               "text": "千里相逢豈偶然膏肓驚走上池仙",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁八欄雙行詩左行",
               "text": "千山紅杏難為報想玉顏辰拜遠天",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -5394,7 +5565,7 @@
       "height": 1741,
       "page_html_sha256": "11edbaea45f2552b9921dbb03c7c58e7b69418456f6886cb487299d767336216",
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -5429,28 +5600,28 @@
               "type": "printed-small-text",
               "location": "右頁一欄嗟下雙行小字",
               "text": "獨酌",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁三欄里下雙行小字",
               "text": "社名泉井",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "右頁八欄腸下雙行小字",
               "text": "鳴而",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "running-title",
               "location": "版心",
               "text": "陽案卷　關格　四八",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -5488,14 +5659,14 @@
               "type": "printed-small-text",
               "location": "左頁四欄行下雙行小字",
               "text": "辰當盛夏",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "printed-small-text",
               "location": "左頁五欄來下雙行小字",
               "text": "那人亦習医",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -5558,7 +5729,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "陽案卷　關格　四九",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -5660,7 +5831,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "陽案卷　關格　五十",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -5740,7 +5911,7 @@
       "height": 1741,
       "page_html_sha256": "13bdc25c74706e7522ff5b45550138f93cbbe74460365015e1c7c2e9309c2fcc",
       "content_role": "case-accounts",
-      "state": "initial-read",
+      "state": "ocr-compared",
       "sides": [
         {
           "side": "right",
@@ -5775,14 +5946,14 @@
               "type": "printed-small-text",
               "location": "右頁六欄人下雙行小字",
               "text": "名連",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             },
             {
               "type": "running-title",
               "location": "版心",
               "text": "陽案卷　產難　五一",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -5820,7 +5991,7 @@
               "type": "printed-small-text",
               "location": "左頁二欄旁下雙行小字",
               "text": "顧支",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -5883,7 +6054,7 @@
               "type": "running-title",
               "location": "版心",
               "text": "陽案卷　產難　五二",
-              "column_anchor": 8,
+              "column_anchor": null,
               "color": "unknown"
             }
           ]
@@ -5904,7 +6075,7 @@
               "text": "叁貫　舊副里阮文勺弐貫舊副里阮文頴壹貫首副"
             },
             {
-              "text": "里阮文仝壹貫裴文良弐貫文首弐貫車壹貫弐陌"
+              "text": "里阮文分壹貫裴文良弐貫文首弐貫車壹貫弐陌"
             },
             {
               "text": "盛壹貫　同輟社阮登豪弐貫"
@@ -5915,13 +6086,41 @@
               "type": "printed-small-text",
               "location": "左頁二欄下白字黑地卷尾題",
               "text": "醫陽案卷終",
-              "column_anchor": 6,
+              "column_anchor": 2,
               "color": "unknown"
             }
           ]
         }
       ],
-      "issues": [],
+      "issues": [
+        {
+          "side": "left",
+          "column": 3,
+          "context": "阮厥",
+          "candidates": [
+            "阮厥"
+          ],
+          "note": "姓名第二字右部墨線密。"
+        },
+        {
+          "side": "left",
+          "column": 4,
+          "context": "阮文頴",
+          "candidates": [
+            "阮文頴"
+          ],
+          "note": "末字左旁仍待查。"
+        },
+        {
+          "side": "left",
+          "column": 6,
+          "context": "同輟社",
+          "candidates": [
+            "同輟社"
+          ],
+          "note": "地名第二字右部似叕，保留候讀。"
+        }
+      ],
       "omissions": [
         {
           "side": "right",

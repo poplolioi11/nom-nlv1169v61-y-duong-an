@@ -4,17 +4,17 @@
 
 Y dương án, volume 61 of Hải Thượng y tông tâm lĩnh, is Lê Hữu Trác’s Literary Chinese collection of medical encounters, recording examinations, individual cases, and their courses of care. This transcription follows the 1885 Bắc Ninh woodblock edition held by the National Library of Vietnam, R.1169. The printed opening and closing titles establish the volume boundaries. The digital catalogue and a later handwritten numbering give a different volume number.
 
-## V0.1.0
+## V0.2.0
 
-收第1至52幅，範圍自卷首引言、目次至卷末題，依原件分錄案題、版心、小字與後加館記。底本所附卷六十二另有篇界。公開文字含逐欄標記的局部省錄。AI 輔助逐欄初錄，未定字及局部省錄均留定位。
+收第1至52幅，範圍自卷首引言、目次至卷末題，依原件分錄案題、版心、小字與後加館記。底本所附卷六十二另有篇界。公開文字含逐欄標記的局部省錄。比對未見初稿的本機 OCR 候選後，回圖裁定採用 90 筆訂正。未定讀法及部分小字、訓點留待覆核。
 
-The edition covers openings 1–52 of the printed volume, from the opening and case listings to its explicit ending. Case headings, running titles, small annotations, and later copy marks are separately locatable. Material belonging to volume 62 is outside this volume. Local omissions in the released edition are marked by column. AI-assisted column-by-column initial transcription with unresolved readings and local omissions identified.
+The edition covers openings 1–52 of the printed volume, from the opening and case listings to its explicit ending. Case headings, running titles, small annotations, and later copy marks are separately locatable. Material belonging to volume 62 is outside this volume. Local omissions in the released edition are marked by column. Independent local OCR candidates were compared with the initial transcription. Targeted source-image review adopted 90 corrections. Some readings, small notes, and reading marks still need review.
 
 ## 資料與原件 / Data and source
 
-TXT 供逐欄閱讀，JSON 保留逐幅來源欄位，TEI XML 提供文字層與影像對應。原圖可透過數位館瀏覽。
+TXT 供逐欄閱讀，JSON 保留逐幅來源欄位，TEI XML 提供文字層與影像對應。原圖可透過數位館瀏覽。 JSON 的 case_index 提供原件 17 個案題的始欄定位，保留目次與正文的題名差異。
 
-The TXT, JSON and TEI XML share scan and column references. Images are linked to the institution’s digital viewer.
+The TXT, JSON and TEI XML share scan and column references. Images are linked to the institution’s digital viewer. The JSON case_index provides starting columns for the 17 case headings and preserves differences between the contents and the text.
 
 [館方書目 / Catalogue](https://lib.nomfoundation.org/collection/1/volume/392/) · [原圖瀏覽器 / Image viewer](https://lib.nomfoundation.org/collection/1/volume/392/page/1)
 

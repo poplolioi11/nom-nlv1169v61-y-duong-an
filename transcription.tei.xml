@@ -12,10 +12,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>Transcription dataset v0.1.0</edition>
+        <edition>Transcription dataset v0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.2.0.</p>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -237,15 +237,15 @@
             <ab type="column" n="8" xml:id="f01-r-c08">
               <seg type="diplomatic-text">命之學閒中玩讀不愛死工夫乃入醫林滋味甘如醴</seg>
             </ab>
-            <ab type="page-feature" subtype="seal" corresp="#f01-r-c08">
+            <ab type="page-feature" subtype="seal">
               <label>朱印</label>
               <seg type="diplomatic-text" rend="red">THƯ VIỆN QUỐC GIA</seg>
             </ab>
-            <ab type="page-feature" subtype="copy-annotation" corresp="#f01-r-c08">
+            <ab type="page-feature" subtype="copy-annotation">
               <label>後書館號</label>
               <seg type="diplomatic-text" rend="unknown">R.1169</seg>
             </ab>
-            <ab type="page-feature" subtype="copy-annotation" corresp="#f01-r-c08">
+            <ab type="page-feature" subtype="copy-annotation">
               <label>後書卷次</label>
               <seg type="diplomatic-text" rend="unknown">五十九</seg>
             </ab>
@@ -275,7 +275,7 @@
             <ab type="column" n="8" xml:id="f01-l-c08">
               <seg type="diplomatic-text">目次　消渴案　陰虛頭痛案</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f01-l-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　小引　一</seg>
             </ab>
@@ -311,7 +311,7 @@
             <ab type="column" n="8" xml:id="f02-r-c08">
               <seg type="diplomatic-text">之意頃之監生回謂余曰天不從人阻吾高興余愕然</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f02-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　目次　二</seg>
             </ab>
@@ -377,7 +377,7 @@
             <ab type="column" n="8" xml:id="f03-r-c08">
               <seg type="diplomatic-text">傷為有餘此以有形之跡無形之氣分虛實也且黃牛</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f03-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　消渴　三</seg>
             </ab>
@@ -445,7 +445,7 @@
             <ab type="transcription-scope">
               <gap reason="editorial-exclusion" unit="segment" corresp="#f04-r-c07" />
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f04-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　消渴　四</seg>
             </ab>
@@ -475,19 +475,19 @@
             <ab type="column" n="8" xml:id="f04-l-c08">
               <seg type="diplomatic-text">伯俱稱余家傳秘方讚不絕口欲不吝千金購求余曰</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-l-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左2欄白朮下小註</label>
               <seg type="diplomatic-text" rend="unknown">一両</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-l-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左2欄黑姜下小註</label>
               <seg type="diplomatic-text" rend="unknown">二〢</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-l-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左2欄炙草下小註</label>
               <seg type="diplomatic-text" rend="unknown">三〢</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f04-l-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左2欄五味下小註</label>
               <seg type="diplomatic-text" rend="unknown">五分</seg>
             </ab>
@@ -527,7 +527,7 @@
             <ab type="column" n="8" xml:id="f05-r-c08">
               <seg type="diplomatic-text">食傷乃有形之實病今賢甥病後胃陰未復脾陽未健</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f05-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　一消渴　五</seg>
             </ab>
@@ -597,7 +597,7 @@
             <ab type="column" n="8" xml:id="f06-r-c08">
               <seg type="diplomatic-text">食倍勝氣力有加今再請老師一番調治倘或妾命未</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f06-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　頭痛　六</seg>
             </ab>
@@ -663,7 +663,7 @@
             <ab type="column" n="8" xml:id="f07-r-c08">
               <seg type="diplomatic-text">更甚余明知是水衰不能制火少火變為壯火火刑金</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f07-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　頭痛　七</seg>
             </ab>
@@ -693,7 +693,7 @@
             <ab type="column" n="8" xml:id="f07-l-c08">
               <seg type="diplomatic-text">與老夫契符老夫從來湯劑惟以四物加知栢倍川芎當</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f07-l-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左8欄與下小字</label>
               <seg type="diplomatic-text" rend="unknown">老夫</seg>
             </ab>
@@ -729,7 +729,7 @@
             <ab type="column" n="8" xml:id="f08-r-c08">
               <seg type="diplomatic-text">少一在老醫箱中公成全一德老夫亦植得一恩亦為</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f08-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　頭痛　八</seg>
             </ab>
@@ -810,7 +810,7 @@
             <ab type="column" n="8" xml:id="f09-r-c08">
               <seg type="diplomatic-text">醫意且方者不過做病立方如棋之有勢某因見娘子</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f09-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　頭痛　九</seg>
             </ab>
@@ -865,7 +865,7 @@
               <seg type="diplomatic-text">以應藥箱之需我來山半担煙霞詩滿囊酒滿壺不為</seg>
             </ab>
             <ab type="column" n="2" xml:id="f10-r-c02">
-              <seg type="diplomatic-text">欠乏這欵全伏老師餘波一醉足矣何必貪求然老師</seg>
+              <seg type="diplomatic-text">久乏這欵全伏老師餘波一醉足矣何必貪求然老師</seg>
             </ab>
             <ab type="column" n="3" xml:id="f10-r-c03">
               <seg type="diplomatic-text">苦拒不取余不得已量分甲乙而歸　其湯　用養榮去</seg>
@@ -885,11 +885,11 @@
             <ab type="column" n="8" xml:id="f10-r-c08">
               <seg type="diplomatic-text">胎懸搶胸臍下薄然如饑環腰如緊束痛如刀割錐刺</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f10-r-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>右5欄味下小註</label>
               <seg type="diplomatic-text" rend="unknown">大抵醫貴通變藥不執方所謂當犯而犯似乎無犯</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f10-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　霍亂　十</seg>
             </ab>
@@ -925,6 +925,12 @@
             <ab type="transcription-issue" n="right:None">
               <quote />
               <note type="editorial">第2欄欵暫讀，第6欄人名待核。</note>
+            </ab>
+            <ab type="transcription-issue" n="right:2">
+              <quote>伏</quote>
+              <seg type="candidate">伏</seg>
+              <seg type="candidate">仗</seg>
+              <note type="editorial">形旁未宜另定。</note>
             </ab>
           </div>
         </div>
@@ -964,7 +970,7 @@
             <ab type="transcription-scope">
               <gap reason="editorial-exclusion" unit="segment" corresp="#f11-r-c06" />
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f11-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　霍亂　十一</seg>
             </ab>
@@ -1029,7 +1035,7 @@
             <ab type="column" n="8" xml:id="f12-r-c08">
               <seg type="diplomatic-text">官始命余診視此亦不過或然之圖余入診視辰見夫</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f12-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　外感　十二</seg>
             </ab>
@@ -1062,7 +1068,7 @@
             <ab type="transcription-scope">
               <gap reason="editorial-exclusion" unit="segment" corresp="#f12-l-c08" />
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f12-l-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左4欄倘下小字</label>
               <seg type="diplomatic-text" rend="unknown">以有</seg>
             </ab>
@@ -1098,7 +1104,7 @@
             <ab type="column" n="8" xml:id="f13-r-c08">
               <seg type="diplomatic-text">爭議紛紜問林医曰某從來調治侍夫人藥餌自非一</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f13-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　外感　十三</seg>
             </ab>
@@ -1128,11 +1134,11 @@
             <ab type="column" n="8" xml:id="f13-l-c08">
               <seg type="diplomatic-text">大官含糊終為林氏所阻且在傍亦以熱病熱藥之大</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f13-l-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左5欄以後小字</label>
               <seg type="diplomatic-text" rend="unknown">養陽</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f13-l-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左8欄熱後小字</label>
               <seg type="diplomatic-text" rend="unknown">藥惡</seg>
             </ab>
@@ -1172,11 +1178,11 @@
             <ab type="column" n="8" xml:id="f14-r-c08">
               <seg type="diplomatic-text">無改易之辭且聲色俱厲左壁官亦苦勸大官始勉從</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f14-r-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>右2欄官後小字</label>
               <seg type="diplomatic-text" rend="unknown">乃大族侄亦知醫術</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f14-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　外感　十四</seg>
             </ab>
@@ -1238,7 +1244,7 @@
             <ab type="column" n="8" xml:id="f15-r-c08">
               <seg type="diplomatic-text">腦麝通竅易手亂投然無非以中風為定見以風藥為</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f15-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　非風　十五</seg>
             </ab>
@@ -1268,7 +1274,7 @@
             <ab type="column" n="8" xml:id="f15-l-c08">
               <seg type="diplomatic-text">余見眼雖直視而睛猶轉動四肢雖厥而身體微温彼</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f15-l-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左3欄視後小字</label>
               <seg type="diplomatic-text" rend="unknown">林醫本調護官軍甚足敬重</seg>
             </ab>
@@ -1308,11 +1314,11 @@
             <ab type="column" n="8" xml:id="f16-r-c08">
               <seg type="diplomatic-text">於腎水有虧水者血之母血不養筋而僵直水不制火</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f16-r-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>右4欄病下小字</label>
               <seg type="diplomatic-text" rend="unknown">而為</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f16-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　非風　十六</seg>
             </ab>
@@ -1377,15 +1383,15 @@
             <ab type="transcription-scope">
               <gap reason="editorial-exclusion" unit="segment" corresp="#f17-r-c08" />
             </ab>
-            <ab type="page-feature" subtype="seal" corresp="#f17-r-c08">
+            <ab type="page-feature" subtype="seal">
               <label>右頁朱印</label>
               <seg type="diplomatic-text" rend="red">THƯ VIỆN QUỐC GIA</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f17-r-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>右頁後書館號</label>
               <seg type="diplomatic-text" rend="unknown">R.1169</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f17-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　非風　十七</seg>
             </ab>
@@ -1421,7 +1427,7 @@
             <ab type="transcription-scope">
               <gap reason="editorial-exclusion" unit="segment" corresp="#f17-l-c03" />
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f17-l-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左7欄諸下小字</label>
               <seg type="diplomatic-text" rend="unknown">症全</seg>
             </ab>
@@ -1457,15 +1463,15 @@
             <ab type="column" n="8" xml:id="f18-r-c08">
               <seg type="diplomatic-text">神昏穩卧片辰發得一身冷汗復如故至明日午後發</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f18-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　鬱病　十八</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f18-r-c08">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f18-r-c04">
               <label>右頁第4欄末雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">不牢固也</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f18-r-c08">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f18-r-c05">
               <label>右頁第5欄「人」後雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">各丁</seg>
             </ab>
@@ -1527,11 +1533,11 @@
             <ab type="column" n="8" xml:id="f19-r-c08">
               <seg type="diplomatic-text">黄肺痰則清稀此乃腎水虧水不生血水泛為痰氣之</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f19-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　鬱病　十九</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f19-r-c08">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f19-r-c02">
               <label>右頁第2欄「虧」下雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">經旨曰</seg>
             </ab>
@@ -1593,7 +1599,7 @@
             <ab type="column" n="8" xml:id="f20-r-c08">
               <seg type="diplomatic-text">歸脾又為補土之外家使足厥陰生手少陰手少陰生</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f20-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　鬱病　二十</seg>
             </ab>
@@ -1623,17 +1629,22 @@
             <ab type="column" n="8" xml:id="f20-l-c08">
               <seg type="diplomatic-text">十日来每劑用黄連至二三匁方見熱有少衰之勢然</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c08">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c05">
               <label>左頁第5欄「人」後雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">名圓</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c08">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f20-l-c06">
               <label>左頁第6欄「那」後雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">居所</seg>
             </ab>
           </div>
           <div type="editorial-observations">
             <ab type="layout">右面：第3欄「欲」候「欲／欵」。第6欄「數」與後字邊緣有印痕。 左面：第5欄前五字墨框反白為案題；「祿禱」候「祈禱」。第8欄重量字形候「匁」。</ab>
+            <ab type="transcription-issue" n="left:5">
+              <quote>名圓</quote>
+              <seg type="candidate">名圓</seg>
+              <note type="editorial">雙行小字為個案姓名欄，第二字暫讀圓。</note>
+            </ab>
           </div>
         </div>
         <pb n="21" facs="#f21" />
@@ -1663,7 +1674,7 @@
             <ab type="column" n="8" xml:id="f21-r-c08">
               <seg type="diplomatic-text">以水折可以濕伏至於龍火逢水益熾逢濕益熾惟從</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f21-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　單熱　二一</seg>
             </ab>
@@ -1725,11 +1736,11 @@
             <ab type="column" n="8" xml:id="f22-r-c08">
               <seg type="diplomatic-text">烙神情驚惕如人將捕辰辰口張似吐非吐出多入少</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f22-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　單熱　二二</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c08">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-r-c03">
               <label>右頁第3欄「乃」後偏右小字</label>
               <seg type="diplomatic-text" rend="unknown">醫</seg>
             </ab>
@@ -1765,7 +1776,7 @@
             <ab type="transcription-scope">
               <gap reason="editorial-exclusion" unit="segment" corresp="#f22-l-c04" />
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c08">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f22-l-c07">
               <label>左頁第7欄「脫」後雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">如蟬</seg>
             </ab>
@@ -1801,11 +1812,11 @@
             <ab type="column" n="8" xml:id="f23-r-c08">
               <seg type="diplomatic-text">悔前醫之誤用苦寒　血熱毒盛氣虚痘險案一案漁</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f23-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　痘險　二三</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c08">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-r-c04">
               <label>右頁第4欄「幾」後雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">猶而</seg>
             </ab>
@@ -1835,11 +1846,11 @@
             <ab type="column" n="8" xml:id="f23-l-c08">
               <seg type="diplomatic-text">發熱至起脹宜浮大不宜沉細此為血熱毒盛之至余</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c08">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c01">
               <label>左頁第1欄「人」後雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">名屬</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c08">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f23-l-c04">
               <label>左頁第4欄「彼」後雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">形体</seg>
             </ab>
@@ -1875,11 +1886,11 @@
             <ab type="column" n="8" xml:id="f24-r-c08">
               <seg type="diplomatic-text">火面已預腫余見種種惡症来多倘能以人力挽回亦</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f24-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　險痘　二四</seg>
             </ab>
-            <ab type="page-feature" subtype="copy-annotation" corresp="#f24-r-c08">
+            <ab type="page-feature" subtype="copy-annotation" corresp="#f24-r-c03">
               <label>右頁第3欄「於」後雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">皮裏</seg>
             </ab>
@@ -1941,7 +1952,7 @@
             <ab type="column" n="8" xml:id="f25-r-c08">
               <seg type="diplomatic-text">念失我片辰之勞得彼終天之樂雖失亦得也况彼死</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f25-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　險痘　二五</seg>
             </ab>
@@ -2003,7 +2014,7 @@
             <ab type="column" n="8" xml:id="f26-r-c08">
               <seg type="diplomatic-text">則毒伏黒陷紫陷勢所必至乃以黄連解毒湯雜以苓</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f26-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　痘症　二六</seg>
             </ab>
@@ -2065,7 +2076,7 @@
             <ab type="column" n="8" xml:id="f27-r-c08">
               <seg type="diplomatic-text">需茲之寒戰泄瀉俗云回漿之後然此非也蓋血氣逐</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f27-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　痘症　二七</seg>
             </ab>
@@ -2095,11 +2106,11 @@
             <ab type="column" n="8" xml:id="f27-l-c08">
               <seg type="diplomatic-text">案余治此痘日夜不敢相離其間賊痘疔痘則身為針</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f27-l-c08">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f27-l-c05">
               <label>左頁第5欄「孤」後雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">陽之</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f27-l-c08">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f27-l-c07">
               <label>左頁第7欄「宛」後雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">然如</seg>
             </ab>
@@ -2141,15 +2152,15 @@
             <ab type="transcription-scope">
               <gap reason="editorial-exclusion" unit="segment" corresp="#f28-r-c02" />
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f28-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　痘症　二八</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f28-r-c08">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f28-r-c06">
               <label>右頁第6欄末雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">誠可信於此歟</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f28-r-c08">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f28-r-c07">
               <label>右頁第7欄「老」後雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">名墓</seg>
             </ab>
@@ -2217,7 +2228,7 @@
             <ab type="column" n="8" xml:id="f29-r-c08">
               <seg type="diplomatic-text">不足則不可王太僕曰寒症有贏狀誤補益疾贏症有</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f29-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　真熱　二九</seg>
             </ab>
@@ -2247,7 +2258,7 @@
             <ab type="column" n="8" xml:id="f29-l-c08">
               <seg type="diplomatic-text">卧不能能轉側謂胎元下墜乃升提之胎又搶胸中</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f29-l-c08">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f29-l-c06">
               <label>左頁第6欄「人」後雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">名著</seg>
             </ab>
@@ -2287,7 +2298,7 @@
             <ab type="column" n="8" xml:id="f30-r-c08">
               <seg type="diplomatic-text">病而胎自安因胎而致病則安胎而病自去今因感冒</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f30-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　感冒　三十</seg>
             </ab>
@@ -2317,11 +2328,11 @@
             <ab type="column" n="8" xml:id="f30-l-c08">
               <seg type="diplomatic-text">交作故外見假象之實邪豈不内因無形之本虚余以</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f30-l-c08">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f30-l-c03">
               <label>左頁第3欄「則」後雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">天癸</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f30-l-c08">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f30-l-c05">
               <label>左頁第5欄「懸」後雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">錘在</seg>
             </ab>
@@ -2357,15 +2368,15 @@
             <ab type="column" n="8" xml:id="f31-r-c08">
               <seg type="diplomatic-text">痛無汗醫投發散已四五日不解此辰身更如乾柴煩</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f31-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　亡陰　三一</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f31-r-c08">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f31-r-c01">
               <label>右頁第1欄末「栢」後雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">以暫</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f31-r-c08">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f31-r-c07">
               <label>右頁第7欄「人」後雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">名岑</seg>
             </ab>
@@ -2427,7 +2438,7 @@
             <ab type="column" n="8" xml:id="f32-r-c08">
               <seg type="diplomatic-text">衛交爭寒熱并作似瘧下半身凉上半身熱乃陰亡於</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f32-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　亡陰　三二</seg>
             </ab>
@@ -2463,11 +2474,11 @@
             <ab type="transcription-scope">
               <gap reason="editorial-exclusion" unit="segment" corresp="#f32-l-c08" />
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f32-l-c08">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f32-l-c05">
               <label>左頁第5欄「熟地」後雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">六刄</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f32-l-c08">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f32-l-c05">
               <label>左頁第5欄「布參」後雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">二刄</seg>
             </ab>
@@ -2506,11 +2517,11 @@
             <ab type="transcription-scope">
               <gap reason="editorial-exclusion" unit="segment" corresp="#f33-r-c01" />
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f33-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　亡陰　三三</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f33-r-c08">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f33-r-c02">
               <label>右頁第2欄「余」後雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">以汗潰似</seg>
             </ab>
@@ -2572,11 +2583,11 @@
             <ab type="column" n="8" xml:id="f34-r-c08">
               <seg type="diplomatic-text">性命懸於我手我不得不以伊父母之心為心而為死</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f34-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　咳嗽　三四</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f34-r-c08">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f34-r-c01">
               <label>右頁第1欄「人」後雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">名日</seg>
             </ab>
@@ -2609,7 +2620,7 @@
             <ab type="transcription-scope">
               <gap reason="editorial-exclusion" unit="segment" corresp="#f34-l-c02" />
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f34-l-c08">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f34-l-c07">
               <label>左頁第7欄「内」後雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">虚生</seg>
             </ab>
@@ -2652,7 +2663,7 @@
             <ab type="transcription-scope">
               <gap reason="editorial-exclusion" unit="segment" corresp="#f35-r-c07" />
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f35-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>右頁版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　咳嗽　三五</seg>
             </ab>
@@ -2720,11 +2731,11 @@
             <ab type="column" n="8" xml:id="f36-r-c08">
               <seg type="diplomatic-text">智者亦為之橫起胸中昧者必為之印定耳目天枉無</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f36-r-c08">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f36-r-c02">
               <label>右頁第2欄「旺」下雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">天癸／也</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f36-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>中縫版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷／單熱／三六</seg>
             </ab>
@@ -2794,7 +2805,7 @@
             <ab type="column" n="8" xml:id="f37-r-c08">
               <seg type="diplomatic-text">舌出則心絕此不治之症幸而猶紅潤出見半枚此由</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f37-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>中縫版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷／單熱／三七</seg>
             </ab>
@@ -2860,11 +2871,11 @@
             <ab type="column" n="8" xml:id="f38-r-c08">
               <seg type="diplomatic-text">張口似啞則氣從臍下通奔而上如發喘之勢彼夫</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f38-r-c08">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f38-r-c03">
               <label>右頁第3欄「婦」下雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">名／卑</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f38-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>中縫版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷／假塊／三八</seg>
             </ab>
@@ -2877,7 +2888,7 @@
               <seg type="diplomatic-text">材往來情義甚厚聞得有急乃不吝雨夜來救及余至</seg>
             </ab>
             <ab type="column" n="3" xml:id="f38-l-c03">
-              <seg type="diplomatic-text">反舉家甚愴惶診見六脈浮沉微乃產後正脈</seg>
+              <seg type="diplomatic-text">辰舉家甚愴惶診見六脈浮沉微乃產後正脈</seg>
             </ab>
             <ab type="column" n="4" xml:id="f38-l-c04">
               <seg type="diplomatic-text">今反浮緩則真陰虧極精血衰少耳伊婦素稟陰虚形</seg>
@@ -2894,9 +2905,9 @@
             <ab type="column" n="8" xml:id="f38-l-c08">
               <seg type="diplomatic-text">寡凡產乃氣血兩傷之症猶然行氣逐血不知急為求</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f38-l-c08">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f38-l-c03">
               <label>左頁第3欄「浮」下雙行小字</label>
-              <seg type="diplomatic-text" rend="unknown">緩無力／余時曰</seg>
+              <seg type="diplomatic-text" rend="unknown">緩無力／余忖曰</seg>
             </ab>
           </div>
           <div type="editorial-observations">
@@ -2916,6 +2927,13 @@
             <ab type="transcription-issue" n="left:5">
               <quote>產反</quote>
               <note type="editorial">第3欄「浮／沉微」中插兩行小字，第4欄「今反浮緩」續大欄。第5欄「產反」原圖疑另讀。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:2">
+              <quote>吝</quote>
+              <seg type="candidate">吝</seg>
+              <seg type="candidate">舍</seg>
+              <seg type="candidate">舎</seg>
+              <note type="editorial">上筆人形與欄上界墨跡相連。</note>
             </ab>
           </div>
         </div>
@@ -2946,7 +2964,7 @@
             <ab type="column" n="8" xml:id="f39-r-c08">
               <seg type="diplomatic-text">后惟以發喘為最惡之症今氣不歸源漸以逆奔而上</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f39-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>中縫版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷／假塊／三九</seg>
             </ab>
@@ -3027,7 +3045,7 @@
             <ab type="column" n="8" xml:id="f40-r-c08">
               <seg type="diplomatic-text">太僕曰症之實者借攻為補症之虚者以補為攻全在</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f40-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>中縫版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷／脇痛／四十</seg>
             </ab>
@@ -3057,7 +3075,7 @@
             <ab type="column" n="8" xml:id="f40-l-c08">
               <seg type="diplomatic-text">處伊曰象山東邊大湖旁樹木陰森乃先生懸壺之處</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f40-l-c08">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f40-l-c01">
               <label>左頁第1欄「損」下雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">虚實之間誠醫／之巧耳</seg>
             </ab>
@@ -3071,6 +3089,11 @@
             <ab type="transcription-issue" n="left:None">
               <quote>清</quote>
               <note type="editorial">第2欄起黑底白字為案名。該欄「炎燎」與第7欄「清」疑字留讀。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:2">
+              <quote>炎燎</quote>
+              <seg type="candidate">炎燎</seg>
+              <note type="editorial">刊刻墨跡需再分辨火旁。</note>
             </ab>
           </div>
         </div>
@@ -3101,7 +3124,7 @@
             <ab type="column" n="8" xml:id="f41-r-c08">
               <seg type="diplomatic-text">上牆內甃出一株大樹施黃闖緑絲絲織錦條條柔得</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f41-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>中縫版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷／脇痛／四一</seg>
             </ab>
@@ -3131,7 +3154,7 @@
             <ab type="column" n="8" xml:id="f41-l-c08">
               <seg type="diplomatic-text">於未及耳那醫曰某乃村野粗工見識疎淺慚愧虚褒</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f41-l-c08">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f41-l-c01">
               <label>左頁第1欄「之」下雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">下／遍</seg>
             </ab>
@@ -3187,7 +3210,7 @@
             <ab type="column" n="8" xml:id="f42-r-c08">
               <seg type="diplomatic-text">力以表相知那醫曰某素稟血虚形體瘦薄於前年夏</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f42-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>中縫版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷／脇痛／四二</seg>
             </ab>
@@ -3232,13 +3255,19 @@
               <quote>夕晚</quote>
               <note type="editorial">第1欄「反」疑「辰」；第3欄「彊」及第4欄「夕晚」待核。</note>
             </ab>
+            <ab type="transcription-issue" n="left:4">
+              <quote>嘁聲</quote>
+              <seg type="candidate">嘁聲</seg>
+              <seg type="candidate">噦聲</seg>
+              <note type="editorial">右部似戚或歲，兩候均留。</note>
+            </ab>
           </div>
         </div>
         <pb n="43" facs="#f43" />
         <div n="43" type="scan" subtype="case-accounts">
           <div type="page-face" n="right">
             <ab type="column" n="1" xml:id="f43-r-c01">
-              <seg type="diplomatic-text">則有頻數無度寐辰則盜汗乍酣辰則自汗各背心中</seg>
+              <seg type="diplomatic-text">則有頻數無度寐辰則盜汗乍酣辰則自汗合背心中</seg>
             </ab>
             <ab type="column" n="2" xml:id="f43-r-c02">
               <seg type="diplomatic-text">跳惕如驚然余曰望聞問切缺一不可問症以辨其外</seg>
@@ -3261,7 +3290,7 @@
             <ab type="column" n="8" xml:id="f43-r-c08">
               <seg type="diplomatic-text">塊雖指為痰為濕為癧此有形之疾病名状非此則彼</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f43-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　脇痛　四三</seg>
             </ab>
@@ -3323,11 +3352,11 @@
             <ab type="column" n="8" xml:id="f44-r-c08">
               <seg type="diplomatic-text">為諸陰用事陰得陰助故便清然利多乏陰經曰中氣</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f44-r-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>右頁七欄愈下雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">衰而</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f44-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　脇痛　四四</seg>
             </ab>
@@ -3357,15 +3386,15 @@
             <ab type="column" n="8" xml:id="f44-l-c08">
               <seg type="diplomatic-text">無不由真陰真陽兩虧之故為今之計全在本上用力</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f44-l-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左頁一欄便下雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">為之</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f44-l-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左頁三欄經曰下雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">自汗</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f44-l-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左頁六欄志下雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">經曰火之</seg>
             </ab>
@@ -3401,15 +3430,15 @@
             <ab type="column" n="8" xml:id="f45-r-c08">
               <seg type="diplomatic-text">惟知火陽水陰則水火水火者</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f45-r-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>右頁八欄水火間小字右行</label>
               <seg type="diplomatic-text" rend="unknown">亦陰陽陰陽亦氣血也</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f45-r-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>右頁八欄水火間小字左行</label>
               <seg type="diplomatic-text" rend="unknown">余笑曰陰陽者虚名也</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f45-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　脇痛　四五</seg>
             </ab>
@@ -3439,7 +3468,7 @@
             <ab type="column" n="8" xml:id="f45-l-c08">
               <seg type="diplomatic-text">字而已何必區區於氣血哉故曰壯水之主益火之源</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f45-l-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左頁二欄氣下雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">血之</seg>
             </ab>
@@ -3478,7 +3507,7 @@
             <ab type="transcription-scope">
               <gap reason="editorial-exclusion" unit="segment" corresp="#f46-r-c08" />
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f46-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　脇痛　四六</seg>
             </ab>
@@ -3543,7 +3572,7 @@
             <ab type="column" n="8" xml:id="f47-r-c08">
               <seg type="diplomatic-text">談余不來辰則又携至舟中暢談愈加親至忽望潮勢</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f47-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　脇痛　四七</seg>
             </ab>
@@ -3573,19 +3602,19 @@
             <ab type="column" n="8" xml:id="f47-l-c08">
               <seg type="diplomatic-text">余見此詩清新可</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f47-l-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左頁一欄清參下小字</label>
               <seg type="diplomatic-text" rend="unknown">斤</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f47-l-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左頁一欄肉桂下雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">半兩</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f47-l-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左頁八欄雙行詩右行</label>
               <seg type="diplomatic-text" rend="unknown">千里相逢豈偶然膏肓驚走上池仙</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f47-l-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左頁八欄雙行詩左行</label>
               <seg type="diplomatic-text" rend="unknown">千山紅杏難為報想玉顏辰拜遠天</seg>
             </ab>
@@ -3621,19 +3650,19 @@
             <ab type="column" n="8" xml:id="f48-r-c08">
               <seg type="diplomatic-text">腸痛勢不可忍則低頭向下其所飲水水又出而安</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f48-r-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>右頁一欄嗟下雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">獨酌</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f48-r-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>右頁三欄里下雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">社名泉井</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f48-r-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>右頁八欄腸下雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">鳴而</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f48-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　關格　四八</seg>
             </ab>
@@ -3663,11 +3692,11 @@
             <ab type="column" n="8" xml:id="f48-l-c08">
               <seg type="diplomatic-text">觀諸方無非行氣消痰升提之品倘有補者亦不過四</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f48-l-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左頁四欄行下雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">辰當盛夏</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f48-l-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左頁五欄來下雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">那人亦習医</seg>
             </ab>
@@ -3703,7 +3732,7 @@
             <ab type="column" n="8" xml:id="f49-r-c08">
               <seg type="diplomatic-text">不知有此也故前哲深戒誤用香燥之藥今見前服諸</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f49-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　關格　四九</seg>
             </ab>
@@ -3774,7 +3803,7 @@
             <ab type="transcription-scope">
               <gap reason="editorial-exclusion" unit="segment" corresp="#f50-r-c03" />
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f50-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　關格　五十</seg>
             </ab>
@@ -3839,11 +3868,11 @@
             <ab type="column" n="8" xml:id="f51-r-c08">
               <seg type="diplomatic-text">可枚舉余見此婦所稟欠厚惟以求本為治彼見日多</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f51-r-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>右頁六欄人下雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">名連</seg>
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f51-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　產難　五一</seg>
             </ab>
@@ -3873,7 +3902,7 @@
             <ab type="column" n="8" xml:id="f51-l-c08">
               <seg type="diplomatic-text">倦氣乏昏迷彼家惑於愚見以為死胎求余攻下速救</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f51-l-c08">
+            <ab type="page-feature" subtype="printed-small-text">
               <label>左頁二欄旁下雙行小字</label>
               <seg type="diplomatic-text" rend="unknown">顧支</seg>
             </ab>
@@ -3915,7 +3944,7 @@
             <ab type="transcription-scope">
               <gap reason="editorial-exclusion" unit="segment" corresp="#f52-r-c06" />
             </ab>
-            <ab type="page-feature" subtype="running-title" corresp="#f52-r-c08">
+            <ab type="page-feature" subtype="running-title">
               <label>版心</label>
               <seg type="diplomatic-text" rend="unknown">陽案卷　產難　五二</seg>
             </ab>
@@ -3934,18 +3963,33 @@
               <seg type="diplomatic-text">叁貫　舊副里阮文勺弐貫舊副里阮文頴壹貫首副</seg>
             </ab>
             <ab type="column" n="5" xml:id="f52-l-c05">
-              <seg type="diplomatic-text">里阮文仝壹貫裴文良弐貫文首弐貫車壹貫弐陌</seg>
+              <seg type="diplomatic-text">里阮文分壹貫裴文良弐貫文首弐貫車壹貫弐陌</seg>
             </ab>
             <ab type="column" n="6" xml:id="f52-l-c06">
               <seg type="diplomatic-text">盛壹貫　同輟社阮登豪弐貫</seg>
             </ab>
-            <ab type="page-feature" subtype="printed-small-text" corresp="#f52-l-c06">
+            <ab type="page-feature" subtype="printed-small-text" corresp="#f52-l-c02">
               <label>左頁二欄下白字黑地卷尾題</label>
               <seg type="diplomatic-text" rend="unknown">醫陽案卷終</seg>
             </ab>
           </div>
           <div type="editorial-observations">
             <ab type="layout">右面：此面有原文未收錄處，各欄由省錄標記定位。 左面：左頁正文至二欄上「可不謹哉」，同欄下黑地卷尾題，三至六欄為捐助名款，末兩欄空。地名「武江」「統善社」「同輟社」與人名「阮厥」「阮文勺」「阮文頴」按圖候讀，未據現代地名換字。</ab>
+            <ab type="transcription-issue" n="left:3">
+              <quote>阮厥</quote>
+              <seg type="candidate">阮厥</seg>
+              <note type="editorial">姓名第二字右部墨線密。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:4">
+              <quote>阮文頴</quote>
+              <seg type="candidate">阮文頴</seg>
+              <note type="editorial">末字左旁仍待查。</note>
+            </ab>
+            <ab type="transcription-issue" n="left:6">
+              <quote>同輟社</quote>
+              <seg type="candidate">同輟社</seg>
+              <note type="editorial">地名第二字右部似叕，保留候讀。</note>
+            </ab>
           </div>
         </div>
       </div>
